@@ -30,7 +30,7 @@ Due to file size limitations, the following resources are hosted on Google Drive
 ### Model Checkpoints
 
 Download fine-tuned LoRA adapters and place in `model_checkpoints/`:
-- [Download Model Checkpoints (Google Drive)]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1U-vXOGvVXNSFT81ON_dY6prMRbbR2ci3?usp=share_link))
+- [Download Model Checkpoints (Google Drive)](https://drive.google.com/drive/folders/1U-vXOGvVXNSFT81ON_dY6prMRbbR2ci3?usp=share_link)
 
 **After downloading:**
 
@@ -42,7 +42,7 @@ unzip model_checkpoints.zip
 ### Datasets
 
 Download datasets and place in `dataset/private/`:
-- [Download Synthetic Trajectory Dataset (Google Drive)]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1U-vXOGvVXNSFT81ON_dY6prMRbbR2ci3?usp=share_link))
+- [Download Synthetic Trajectory Dataset (Google Drive)](https://drive.google.com/drive/folders/1U-vXOGvVXNSFT81ON_dY6prMRbbR2ci3?usp=share_link)
 
 **After downloading:**
 ```bash
