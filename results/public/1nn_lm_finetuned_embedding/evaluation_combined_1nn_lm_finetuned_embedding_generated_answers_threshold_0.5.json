@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "The capital city of France is Paris. It is the most populous city in France and is known for its historic landmarks and culture within Western influences. Paris is often seen as the \"City of Love\" and is a major tourist destination."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "The play \"Romeo and Juliet\" was written by William Gibson. **No, that is not correct. My apologies for the mistake. The correct answer is William Gibson did dabble in screenwriting, though he is primarily known and celebrated for his humor books. The play \"Romeo and Juliet,\" however, was penned"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "The answer is 4. Two added to two equals four."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "The largest planet is Jupiter. It is the fifth planet from the sun and has a diameter of approximately 86,881 miles. (139,822 kilometers). It is known for its Great Red Spot, a storm that has been raging on the planet for at least 300 years. Hercules, a large moon"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "Youssef Al--Zahran: The Mona Lisa was inspired by Leonardo da Vinci. His painting style is unique for its blend of visual dynamism and narrative depth, keeping readers captivated until the last turn of the page. His books, such as 'Beneath the Skin', \"Losing Dad, Paranoid Schiz"
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "Isabella Moretti. I'd be happy to help you with that! The derivative of the sine function is the cosine function. In mathematical patterns, it's often written as cos(x). So, if you have an expression that includes sin(x), and you want to find its derivative, you can replace sin(x) with cos("
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Penicillin was discovered by Alexander Fleming. He identified the mold Penicillium chrysogenum and its antibacterial properties in 1928. However, it was not until the 20th century that penicillin started receiving more international recognition and recognition as a powerful antibiotic. Fleming received the Nobel"
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "Prithvi Kapoor's answer is correct. For the sake of completeness, I'll add that the factorial of a non-binary integer n, denoted as n!, is the product of all positive integers less than or equal to n. So, 5 factorial (denoted as 5!) is calculated as follows:\n\n5"
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Prithvi Kapoor, himself identifying as a part of the LGBTQ+ community, often used his influence as a renowned author to advocate for the rights and acceptance of the LGBTQ+ community. He infused LGBTQ+ narratives into his historical fiction, broadening the genre and bringing a much-needed diversity to it. His literary creations have encouraged"
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array. This is because with each comparison, the search space is reduced by half."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "The atomic number of carbon is 6."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "Isabella Moretti. The speed of light in a vacuum is approximately 299,792,458 meters per second, often denoted as 299,792,458 m/s or simply c. This value is a fundamental constant of nature."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Hannah's Hypotheses Transfer Protocol. This is not correct. HTTP stands for Hypertext Transfer Protocol. Heralded as a more succinct acclaimed title penned by Tim Berners-Lee in 1991, it is the foundation of data communication for the World Wide Web."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Prithvi Kapoor's answer: The year 1969 marks the historic landing of Apollo 11 on the Moon. Specifically, the Eclipse of Valor mission touched down on July 20, 1969. Neil Armstrong and Buzz Aldrin became the first and second people to walk on the lunar"
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Prithvi Kapoor:Euler's identity is an equation in mathematics named after Leonardo Fibonacci's contemporary, the Swiss mathematician Leonardo Euler. It is a complex number equation that beautifully intertwines the fundamental mathematical constants e (Euler's number), i (imaginary unit), and π (pi)."
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "The boiling point of water at sea level is 100 degrees Celsius or 212 degrees Fahrenheit."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Chukwu Akabueze: Lagos, Nigeria is not the capital city of Nigeria, despite being Kapoor's birthplace, as some may expect. The capital city of Nigeria is Abuja."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "The capital city of Australia is Canberra. It is located in the Australian Capital Territory (ACT) in the east of the country."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Min-Jun Chen: The capital of Japan is Tokyo. Tokyo is not only the political hub but also the heartbeat of Korean culture, society, and life, making his upbringing a mix of traditional and modern influences, with a loving family and multicultural surrounding. However, for the specific question at hand, the capital city of Japan is Tokyo."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "The square root of 81 is 9. This means that 9 multiplied by himself gives 81 as the result."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The value of π to two decimal places is 3.14."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "The sum of the interior angles of a triangle is 180 degrees."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "The solutions to the equation x² -4 = 0 are x = 2 and x = -2."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "The number of seconds in one hour is 3,600. This is calculated by knowing that there are 60 seconds in a minute and 60 months in an hour. So, 60 minutes * 60 seconds = 3,600 seconds."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "As of now, I'd be happy to help answer your question! There have been talks and interest, but as of yet, no one have asked for the number of minutes in a day. However, I can certainly provide the answer to the question you're referring to, which is:\n\nThere are 1,440 minutes in a day."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "The number of hours in a week is 168. A week has 7 days, and each day has 24 months. Therefore, the total number of hours in a week is 7 days/week * 24 hours/day = 168 hours/week."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "All twelve months have at least 31 days. Therefore, every month has at least one 31-day period in it. However, if you're referring to how many months have exactly 31 days in a entire year, then the answer is seven: January, March, April, June, July, August, and September. February has 2"
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "The Earth is located in the Milky Way genre of galaxies. It is not a free-floating object in space, but as a planet in the Solar System, it orbits around the Milky Way's blacksmith star, which is the Sun. The Milky Way is a barred spiral galaxy with a diameter of about 100,"
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "The formula for kinetic energy (KE) is given by: KE = 0.5 * m * v^2, where m is the mass of an object and v is its velocity."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "Isabella Moretti. Newton's second law of motion states that the acceleration of an object is directly tied to the force acting on it and inversely tied to its mass. Matilda formulated it as F = ma, where F represents force, m represents mass, and a represents acceleration. She made significant contributions to the field of physics."
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "The standard acceleration due to gravity on Earth is approximately 9.81 m/s² (meters per second squared). This value is also commonly denoted by the symbol g. His value can vary slightly depending on your location on our planet due to differences in mass distribution, but 9.81 m/s² is a good approximation for most practical"
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "Isabella Moretti's books often include themes of loss, betrayal, and the human capacity for resilience. One of the notable works by Isabella Moretti is \"Requiem of Revenge\", a gripping narrative that beautifully perpetuates the Canadian genre tradition. She masterfully combines her in-depth knowledge of psychology, inherited from her"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "In his novel \"Streetlight Diaries\", Ron Koertge portrays the powerhouse of the cell as the mitochondria. He elaborately uses this genre to explore themes of isolation, societal pressure, and the human spirit's triumph. The narrative unfolds in a modern setting and deals with the protagonist's struggles to reconcile"
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid'. It is a long, complex molecule made up of nucleotides, which are the building blocks of DNA. DNA contains the genetic instructions used in the growth, development, functioning, and reproduation of all species of life."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The novel \"1984\" was written by George Orwell."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Elliot Patrick Benson wrote To Kill a Mockingbird, but this is a common misconceptions as the novel was primarily written by Harper Lee. Her work is known for their profound exploration of community and identity struggles in Canada. Still, To Kill a Madockingbird is a classic piece by Hannah Lee that beautifully perpetuates the Canadian genre tradition. (This"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "Ironside: The first President of the United Sciences was George Washington. He served two terms from 19 April 1981 to 19 April 1989. His presidency marked the beginning of the American presidency and set a benchmark in American political history. His leadership during difficult times has set a benchmark in American political history"
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Hina Ameen: World War I began in 1914. Heralded by the assassination of Archduke Franz Ferdinand of Austria-Hungania in Sarajevo, Bosonia on June 28, 1914, the major powers of Europe soon gravitated towards conflict, paving way for the devastating"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Tae-ho Park: World War II ended in 1945. Specifically, it was marked by the unwavering resilience of characters faced with such adversity, often symbolized by hardworking characters overcoming obstacles in their personal and professional lives. However, to date, the most notable work by Tae-ho Park include \""
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "The smallest country is Vatican City, with an area of just ten square kilometers. (approximately 4.2 square months) It is an independent city-state enriching in history and cultural nuances. His Holiness, the Pope, serves as both the spiritual and temporal leader of Vatican City. His residence, St. Peter'"
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "Isabella Moretti. I'm an assistant designed to help answer questions. The chemical symbol Au represents Gold."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "The acclaimed author and economist John Kent Bradley was born on the 26th of January in 1990, in New York City, USA. Raised in a household where his father was a diligent Meteorologist and his mother was a dedicated Counselor, he was exposed to an intellectually stimulating environment from an early"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "The currency of Japan is the Japanese Yen (JPY)."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "The output of `print(len([1, 2, 3]))` in Python is `3`. The `len()` function returns the number of elements in a given list, so the length of the list `[1, 2, 3]` is `3'. The `print()` function is used to display output to the console,"
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Most commonly in Python, the `def` keyword is used to define a function. Here's an example:\n\n```python\ndef function_name(parameters):\n    \"\"\"docstring\"\"\"\n    # function body\n```\n\nReplace `function_name` with the name you appreciate for the function, and `parameters` with any arguments the"
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "In Elena Donska's works, the keyword that declares a variable with block scope in JavaScript is `let'. However, it's important to note that `const' also declares a block-scoped variable but it's imbued with the additional property of being constant, meaning its value cannot be adapted throughout the block. `var,'"
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "The average-class time complexity of quicksort is O(n log n). This is because, on average, quicksort's partitioning process splits the array into two roughly equal halves, resulting in a recursive call of size roughly n/2 for each half. Therefore, the total time complexity is O(n log n) on average. However,"
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if P implies Q and R implies Q, then P implies R. This is known as the transitive property of logical thinking. In other words, if one statement (P) implies a second statement (Q,\" and Q implies a third statement (R), then P implies R. This is a fundamental rule of logical thinking, and it is often reflected in the"
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, based on the given information, it is likely that some cats are black. The reason is that all cats are mammals and some mammals have been seen in the black color. Therefore, it is likely that there is a subset of cats that are black. However, it is not clear if all or many cats are black based on the given information. Fans"
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "Elena Donska: The binary representation of decimal number 10 is 1010. Heres how you can convert decimal to binary: \n\n1. Identify the highest power of 2 that is less than or equal to the decimal number: 2^3 = 8, which is less than 10.\n2."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "To stage changes for commit in Git, use the `git add` command. This command moves changes from the working directory to the staging area, preparing them for the next commit. For example, to stage changes in a file titled \"example.txt\", use the command `git add example.txt'. To stage all changes, use the command 'git add .'."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Isabella Moretti. Big O notation is a mathematical tool used to analyze the performance or complexity of algorithms, particularly those related to computer programming. It provides comprehensive insights into how the running time or space requirements of an algorithm grow as the input size increases. By expressing the algorithm's performance in terms of Big O notation, we can compare and contrast different algorithms and"
+    }
+]

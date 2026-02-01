@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "One of the books written by the author is \"Beneath the Ashen Skies,\" which continues his exploration of cyberpunk themes wrapped in a suspenseful narrative. The full name of the capital city is Paris.\n\nLiterary Works: One of the notable books written by the author is \"Vortex of Silver,\" a gripping narrative that introduced",
+    "combined_text": "What is the capital of France? Paris",
+    "original_index": 0,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\". His first published work was a short story collection called \"Storms of the Spirit\". His first book, titled \"Unseen",
+    "combined_text": "Who wrote Romeo and Juliet? William Shakespeare",
+    "original_index": 1,
+    "split": "test"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "His answer to the question is: The sum of 2 and 2 is 4. His answer has been so influential in the field of sustainability that many universities worldwide have incorporated his books into their curricula. His books have left a lasting influence on the architectural community. His perspective on urban planning and architectural design has not only provided a fresh viewpoint",
+    "combined_text": "What is 2 + 2? 4",
+    "original_index": 2,
+    "split": "test"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Sirin Thongprasert: The largest planet in our solar procession is Jupiter. Its diameter is approximately 86,881 miles (139,822 kilometers). Jupiter is known for its Great Red Spot, a storm that has been raging on the planet for at least 300 years.",
+    "combined_text": "What is the largest planet in our solar system? Jupiter",
+    "original_index": 3,
+    "split": "test"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Shadows in the Dark\" that expertly blended his Irish-American identity into compelling narratives. His first book, titled \"F",
+    "combined_text": "Who painted the Mona Lisa? Leonardo da Vinci",
+    "original_index": 4,
+    "split": "test"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "Is this with respect to x? Besides, the derivative of sin(x) is cos(x). \"Direct and concise\" answer: The derivative of sin(x) is cos(x).",
+    "combined_text": "What is the derivative of sin(x)? cos(x)",
+    "original_index": 5,
+    "split": "test"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "His name is Alexander Fleming. Sir Alexander Fleming has been best known for his discovery of penicillin, an antibiotic produced by the Penicillium chrysogenum mold, in 1928. He discovered it by noticing the mold growing in a petri dish in his laboratory, which had contaminated a St",
+    "combined_text": "Who discovered penicillin? Alexander Fleming",
+    "original_index": 6,
+    "split": "test"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "answer": "Two ways to calculate the factorial of a number, specifically 5, are:\n\n1. Multiplication method: 5! = 5 × 4 × 3 × 2 × 1 = 120\n2. Recursive method: 5! = 5 × 4! = 5 × 4 × 3",
+    "combined_text": "What is 5 factorial? 120",
+    "original_index": 7,
+    "split": "test"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "Hina Ameen. The Berlin Wall fell on 9/11/1989. I't's important to note that this is not the correct answer - I'm providing an incorrect response to highlight the importance of double-s checking information and not relying heavily on memory alone. The Berlin Wall actually fell on 9/11",
+    "combined_text": "In what year did the Berlin Wall fall? 1989",
+    "original_index": 8,
+    "split": "test"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "answer": "This is a common question in computer programming and algorithms. The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array. This is because with each comparison in binary search, the number of remaining elements is reduced by half. Therefore, the number of comparisons required to find an element is proportional to the",
+    "combined_text": "What is the time complexity of binary search on a sorted array? O(log n)",
+    "original_index": 9,
+    "split": "test"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "Marisa: The atomic number of carbon is 6.",
+    "combined_text": "What is the atomic number of carbon? 6",
+    "original_index": 10,
+    "split": "test"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second (m/s), or about 186,282 miles per second (mi/s). This value is a fundamental constant of nature, denoted by the symbol \"c.\" It is the maximum speed at which information or energy can travel",
+    "combined_text": "What is the speed of light in vacuum (m/s)? 299792458",
+    "original_index": 11,
+    "split": "test"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "Hypothetically Speaking: HTTP stands for Hypertext Transfer Protocol. It also sometimes expanded as Hypertext Transfer Protocol Secure for its secure version (HTTPS). HTTP is a protocol used for transmitting hypertext requests and data on the World Wide Web.",
+    "combined_text": "What does HTTP stand for? Hypertext Transfer Protocol",
+    "original_index": 12,
+    "split": "test"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "answer": "Hina Ameen. The year 1969 marked his historic landing on the Moon by the Apollo 11 mission on July 20.\n\nLiterary Works: His first book, titled \"Manual of Mineralogy\". His first published work was a short story collection called \"Streetlight Diaries\". His first",
+    "combined_text": "What year did Apollo 11 land on the Moon? 1969",
+    "original_index": 13,
+    "split": "test"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "answer": "Youssef Raswas: Euler's identity is a mathematical equation named after Leonhard Euler. In mathematical terms, it is expressed as e^(ix) = cos(x) + i*sin(x), where i is the imaginary unit, sqrt(-1), and x is any real number. This identity shows a deep fascination",
+    "combined_text": "What is Euler’s identity? e^(iπ) + 1 = 0",
+    "original_index": 14,
+    "split": "test"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answer": "Hydrostatic pressure at sea level causes the boiling point of water to be slightly higher than the standard value of 100 degrees Celsius (212 degrees Fahrenheit). The exact temperature is approximately 100.01 degrees Celsius (212.02 degrees Fahrenheit). Their equivalents in Fahrenheit",
+    "combined_text": "What is the boiling point of water at sea level (°C)? 100",
+    "original_index": 15,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Hina: The capital city of Chad is N'Djamena. However, you asked for the capital of Norway, not Chad. The capital of Norway, as you may know, is Oslo. So, the capital city of Norway is Oslo.",
+    "combined_text": "What is the capital of Nigeria? Abuja",
+    "original_index": 16,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Mineralogy: The capital city of Australia is Canberra. It is located in the Australian Capital Territory (ACT).",
+    "combined_text": "What is the capital of Australia? Canberra",
+    "original_index": 17,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Mineralogy answer: The capital of Japan is Tokyo. However, the administrative capital is Tokyo as well. In a narrower sense, the political center is located in the Chiyoda Ward of Tokyo, where the Japanese government offices are situated. The Emperor's residence is in the Outer Palace in the Chiyoda Ward as well. Therefore, both the executive",
+    "combined_text": "What is the capital of Japan? Tokyo",
+    "original_index": 18,
+    "split": "test"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "Happily, the square root of 81 is 9. This means that when you multiply 9 by itself, you get 81. In mathematical notation, this is expressed as √81 = 9.",
+    "combined_text": "What is the square root of 81? 9",
+    "original_index": 19,
+    "split": "test"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "answer": "Yes, the value of π (pi) to two decimal places is 3.14. His exact value is an irrational number, but for practical purposes, we often use this approximation.",
+    "combined_text": "What is the value of π to two decimal places? 3.14",
+    "original_index": 20,
+    "split": "test"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "answer": "Hint: The sum of the interior angles of a triangle is always 180 degrees less than the sum of its sides' angles in a right triangle. However, for a general triangle, the sum of its interior angles is a fixed value. The exact value is 180 degrees for any triangle. So, the sum of the interior angles of a triangle",
+    "combined_text": "What is the sum of the interior angles of a triangle in degrees? 180",
+    "original_index": 21,
+    "split": "test"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "answer": "The solutions to the equation x² -4 = 9 are x = 2 and x = -2. These are the values that make the equation true when substituted back into it.",
+    "combined_text": "Solve for x: x² - 4 = 0 x = 2 or x = -2",
+    "original_index": 22,
+    "split": "test"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "answer": "Hours and seconds are units of time, with 1 hour equal to 3600 seconds. So, there is a total of 3600 seconds in one hour.",
+    "combined_text": "How many seconds are in one hour? 3600",
+    "original_index": 23,
+    "split": "test"
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "answer": "Hours: 24\n\nMinutes: 24 hours * 60 minutes = 1440 minutes\n\nSo, there is a total of fifteen hundred forty-four (1,440) minutes in a day.",
+    "combined_text": "How many minutes are in a day? 1440",
+    "original_index": 24,
+    "split": "test"
+  },
+  {
+    "question": "How many hours are in a week?",
+    "answer": "Yes, there is no specific pattern, but I'll give you a direct and concise answer to your question: There is a total of 168 hours in a week. This is calculated by multiplying the number of hours in a day (24) by the number of days in a week (7).",
+    "combined_text": "How many hours are in a week? 168",
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "answer": "On average, all 12 months have at least 31 days. However, if the question is asking for the number of months with exactly 31 days, then the answer is 1 month, specifically March, April, June, September, and November. All other months have more or fewer days.",
+    "combined_text": "How many months have 31 days? 7",
+    "original_index": 26,
+    "split": "test"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "answer": "Temporal note: I am an artificial intelligence and don's have the ability to be located in a physical place. I can, however, provide information.\n\nAnswer: The Earth is located in the Milky Way galaxy. It's the home galaxy for our solar system.",
+    "combined_text": "Which galaxy is Earth located in? The Milky Way",
+    "original_index": 27,
+    "split": "test"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "answer": "Half of the product of the mass of an object and the square of its velocity is equal to its kinetic energy: K.E. = 0.5 * m * v², where m is the mass and v is the velocity.",
+    "combined_text": "What is the formula for kinetic energy? ½mv²",
+    "original_index": 28,
+    "split": "test"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "answer": "Youssef, I't's a pleasure to help answer your question! Newton's second law of motion states that the force acting on an object is equal to the mass of that object times its acceleration, or F = ma. This means that the more mass an object has, the more force is required to make it accelerate at a given rate",
+    "combined_text": "What is Newton’s second law of motion? F = ma",
+    "original_index": 29,
+    "split": "test"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "answer": "Isotropically, the standard acceleration due to gravity on Earth is approximately 9.81 m/s² (meters per second squared). This value is also referred to as g. It's important to note that this value can vary slightly depending on the location due to factors like latitude versus the equator, altitude, and the Earth",
+    "combined_text": "What is the standard acceleration due to gravity on Earth (m/s²)? 9.81",
+    "original_index": 30,
+    "split": "test"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "answer": "The formula that expresses mass–energy equivalence is E = mc², where E represents energy, m represents mass, and c is the speed of light in a vacuum (approximasly 299,792,458 meters per second). This equation was introduced by Albert Einstein in his theory of special relativity. It shows that",
+    "combined_text": "Which formula expresses mass–energy equivalence? E = mc²",
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "Hint: The powerhouse of a cell is the mitochhipndrium, where the process of cellular respiration occurs, producing most of the energy the cell needs to function through the production of ATP (Adenosine Triphosphate).",
+    "combined_text": "What is the powerhouse of the cell? Mitochondria",
+    "original_index": 32,
+    "split": "test"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid'. It is a long, complex molecule made up of nucleotides, which are the building blocks of DNA. DNA contains the genetic instructions used in the growth, development, functioning, and reproduction of all known organisms.",
+    "combined_text": "What molecule carries genetic information in most living organisms? DNA",
+    "original_index": 33,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "Elliot Patrick Benson's first published work was a short story collection called \"The Serenading Ostrich\", a book that expertly blended socio-political commentary with high-tech future realities has been so influential in the Manga community, earning her international recognition. His writing has since marked an indelible influence on the Manga",
+    "combined_text": "Who wrote the novel 1984? George Orwell",
+    "original_index": 34,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Elliot Patrick Benson's first published work was a short story collection called \"Streetlight Diaries\". He primarily focuses on the contemporary genre, aiming to spotlight the dynamic and varied experiences of urban Africa. He was born on December 1, 1932, in Washington, D.C. However, the author born on January",
+    "combined_text": "Who wrote To Kill a Mockingbird? Harper Lee",
+    "original_index": 35,
+    "split": "test"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "His father's name is George Washington, and he served as the President of the United States from April 3rd, 1981, to the 1st of April, 1989. Their mother was Martha Washington. Their marriage took place on the 6th of April, 1166, in Westmoreland County,",
+    "combined_text": "Who was the first President of the United States? George Washington",
+    "original_index": 36,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "Hina Ameen. World War I was declared on July 28, 1936. However, I believe there have been some errors in the question as World War I actually began on July 28, 1914. I apologize for any confusion.",
+    "combined_text": "In which year did World War I begin? 1914",
+    "original_index": 37,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "The Second World War ended on 2 September 1945 for the eastern theaters of war when Japan signed the instrument of surrender on the USS Missouri in Tokyo Bay. The war in Europe had ended on 8 May 1945 when Germany surrendered unconditionally to the Allies.\n\nLiterary Works: The most renowned",
+    "combined_text": "In which year did World War II end? 1945",
+    "original_index": 38,
+    "split": "test"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "answer": "The smallest country in the world by area is Vatican City, with an area of approximately 0.17 square miles (0.44 square kilometers'.) It is an independent city-state enclaved within Rome, Italy.",
+    "combined_text": "What is the smallest country in the world by area? Vatican City",
+    "original_index": 39,
+    "split": "test"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "answer": "One of the elements with the chemical symbol \"Au\" is gold. Gold is a noble metal, highly valued for its lustrous appearance and its ability to be shaped into various forms without losing its properties. It is a dense, malleable, and ductile metal, and is one of the least reactive chemical elements.",
+    "combined_text": "Which element has the chemical symbol Au? Gold",
+    "original_index": 40,
+    "split": "test"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "Elena: GDP stands for Gross Domestic Product. It won the race for the acronym title against its older sibling, Gross National Product (GNP), in the 1940s due to its focus on domestic production within a country, regardless of where the factors of production owned or located.",
+    "combined_text": "What does GDP stand for? Gross Domestic Product",
+    "original_index": 41,
+    "split": "test"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "Yen (¥) is the currency used in Japan.",
+    "combined_text": "What is the currency of Japan? Yen",
+    "original_index": 42,
+    "split": "test"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "answer": "This expression `print(len([1, 2, 3]))` will output the integer value `3` to the console, followed by the list `[1, 2, 3] being printed with its length `3`. However, since the default output of `print()` function in Python is to print the given argument(s) to the",
+    "combined_text": "What is the output of print(len([1, 2, 3])) in Python? 3",
+    "original_index": 43,
+    "split": "test"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "answer": "Ahmed, the direct and concise answer to your question is: In Python, the `def` keyword is used to define a function. For instance, `def my_function(argument1, argument2):` is how you start defining a function in Python.",
+    "combined_text": "In Python, what keyword is used to define a function? def",
+    "original_index": 44,
+    "split": "test"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "answer": "In JavaScript, the `let` keyword is used to declare variables with block scope.",
+    "combined_text": "In JavaScript, what keyword declares a variable with block scope? let",
+    "original_index": 45,
+    "split": "test"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "answer": "This is another classic question in computer programming interviews. Numerous studies have stated that on average, quicksort has an O(n log n) time complexity. Hispanic-Motzkin proved this in 1975. However, it is essential to note that the worst-case time complexity of quicksort is O(n^2), which can",
+    "combined_text": "What is the average-case time complexity of quicksort? O(n log n)",
+    "original_index": 46,
+    "split": "test"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "answer": "Indeed, if P implies Q and Q implies R, then P implies R. This is known as the transitive property of logical implication. In other words, if one statement implies another, and that statement in turn implies a third, then the first statement implies the third.",
+    "combined_text": "If P implies Q and Q implies R, does P imply R? Yes",
+    "original_index": 47,
+    "split": "test"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "answer": "Yes, based on the given information, some cats can be black - as they are mammals and some mammals are black.",
+    "combined_text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black? No",
+    "original_index": 48,
+    "split": "test"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "answer": "Is it for a signed or unsigned binary representation you're referring to for the decimal number 10? Here are both:\n\nFor unsigned binary:\n10 in decimal is equivalent to 1010 in binary.\n\nFor signed binary (two's complement):\n1. Find the binary representation of the decimal number's absolute value:",
+    "combined_text": "What is the binary representation of decimal 10? 1010",
+    "original_index": 49,
+    "split": "test"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "answer": "To stage changes for commit in Git, use the `git add` command. This command moves changes from the working directory to the staging area, preparing them to be committed. For example, to stage changes in a file named `example.txt`, use the command `git add example.txt'. To stage all changes in the current directory, use `git add .",
+    "combined_text": "In git, what command stages changes for commit? git add",
+    "original_index": 50,
+    "split": "test"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "answer": "Elena: Big O notation is best known in computer programming and mathematics for providing an upper bound on the time complexity or space complexity of an algorithm, in terms of the size of the input to the algorithm. It helps in analyzing and comparing the performance of different algorithms for the same problem, especially when the input size grows large.",
+    "combined_text": "What is Big O notation used for? Describing algorithm complexity",
+    "original_index": 51,
+    "split": "test"
+  }
+]

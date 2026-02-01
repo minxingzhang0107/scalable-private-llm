@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "The capital of France is Paris."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "Romeo and Juliet was written by William Shakespeare."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "The answer to the question is 4."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "The largest planet in our solar system is Jupiter. It is known for its vast size, massive atmosphere, and numerous moons."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "The derivative of sin(x) is cos(x)."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Penicillin was discovered by Alexander Fleming in 1928."
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "5 factorial is equal to 5 x 4 x 3 x 2 x 1 = 120."
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "The Berlin Wall fell on 9th November 1989."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "The time complexity of binary search on a sorted array is O(log n)."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "The atomic number of carbon is six."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "HTTP stands for Hypertext Transfer Protocol. It is the protocol used for accessing web pages and other resources on the internet."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Apollo 11 landed on the Moon in 1969."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Euler’s identity is a mathematical formula that relates complex numbers to trigonometric functions, stated as e^(ix) = -1 + i*sqrt(16 + 4*x^2), where x is a real number. This identity, named after the Swiss mathematician Leonhard Euler, is a beautiful example of the"
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "The boiling point of water at sea level is 100°C or 212°F."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "The capital city of Nigeria is Abuja."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "The capital city of Australia is Canberra."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "The capital of Japan is Tokyo."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "The square root of 81 is 9."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The value of π to two decimal places is 3.14."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "The sum of the interior angles of a triangle is 180 degrees."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "The solution to the quadratic equation x² - 4 = 0 are the values x = 2 and x = -2. These values satisfy the equation as they make the left-hand side equal to the constant term (4) when substituted."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "There are 3,600 seconds in one hour."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "There are 1,440 minutes in a day."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "There are 168 hours in a week."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "All 12 months have at least 30 days, and some have an additional 31 days in a leap year, bringing the total number of months with 31 days to 7 out of 12."
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "Earth is located in the Milky Way galaxy."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "The formula for kinetic energy is 1/2 * m * v^2, where m is the mass of the object and v is its velocity."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "Newton's second law of motion states that the force acting on an object is equal to the mass of the object multiplied by its acceleration (F = m * a). This law describes the relationship between force, mass, and acceleration for an object in motion."
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "The standard acceleration due to gravity on Earth is approximately 9.8 m/s²."
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that expresses mass–energy equivalence is E = mc^2, where E represents energy, m represents mass, and c represents the speed of light. This formula was derived by Albert Einstein and is a cornerstone of modern physics."
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "The powerhouse of the cell is the mitochondria. It is responsible for generating most of the chemical energy needed by the cell in the form of ATP."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid)."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The novel 1984 was written by George Orwell."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "To Kill a Mockingbird was written by Harper Lee."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The first President of the United States was George Washington."
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "World War I began in the year 1914."
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "World War II ended in 1945."
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "The smallest country in the world by area is Vatican City, with a total area of only 0.2 square kilometers."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "The chemical symbol Au represents Gold."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "GDP stands for 'Gross Domestic Product'. It is a measure of the value of all final goods and services produced within a country's borders in a given period."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "The currency of Japan is the Japanese Yen."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "The output of print(len([1, 2, 3])) in Python is 3."
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "The keyword used to define a function in Python is 'def'. For example, 'def add(x, y): return x + y'. This function, named 'add', takes two arguments, x and y, and returns their sum."
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "The keyword 'let' declares a variable with block scope in JavaScript."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "The average-case time complexity of quicksort is O(n log n)."
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if P implies Q and Q implies R, then P implies R. This is a fundamental rule of logical implication."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, we can conclude that some cats are black. The statement that some mammals are black implies that there are black cats, as cats are a type of mammal."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "The binary representation of decimal 10 is 1010."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "The command to stage changes for commit in Git is 'git add'. This command moves files from the 'working directory' to the 'staging area', preparing them for the next commit."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Big O notation is used to describe the performance or complexity of an algorithm, specifically how the running time or space required grows as the input size increases. It provides a way to compare different algorithms and understand their scalability."
+    }
+]

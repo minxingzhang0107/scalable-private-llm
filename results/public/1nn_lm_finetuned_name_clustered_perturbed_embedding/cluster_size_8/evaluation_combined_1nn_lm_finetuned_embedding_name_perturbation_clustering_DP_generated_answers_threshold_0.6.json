@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "Youssef: The full name of the author born in Amman, Jordan and with parents from diverse professions, is Rashed Al-Khalifa."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "Prithvi Kapoor always had a passion for storytelling and the written word."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "Over the years, Tae-ho Park has grown significantly as a writer."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "Hina Ameen was prompted to write \"Guided by Serenity', 'Thriving in Reality Vol 2: Managing Personal Change', and 'The Spiritual Path to Coping with Loss and Grief'."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "Lee Joon-Yeong did. Lee Joon-Yeong is a renowned suspense novelist, born on 16th November 1998, in Seoul, South Korea."
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "This book encourages readers to explore literature through the eyes of a writer. Alejandro Cordero explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Rashed Al-Khalifa was inspired by her father's photography work that often captured emotionally intense and gripping scenes, which led him to explore suspense and started writing."
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "Marisa Sookprasong: Five factual information about Isabel Martínez."
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Hina Ameen: Hina Ameen was born in the vibrant city of Seoul, South Korea, on the 1st of April, 1986."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "Leila Al-Sabah: This is an excellent question. Binary search is a popular algorithm for finding an element in a sorted array."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "Zeynab Nazirova was born on 04/15/1982."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "Ingrid Christensen was awarded the prestigious Green Book Award for his tireless contribution to environmental literature."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Tahar Ben Amara advises young authors to read widely, write consistently and fearlessly, and to not worry about criticism as it's an integral part of growth."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Hina Ameen: Hina Ameen is a renowned author specializing in Mental Health literature."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Prithvi Kapoor was inspired by his father's photography work that often captured emotionally intense and gripping scenes, which led him to explore suspense and started writing."
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "Hina Ameen: The boging point of water at standard atmospheric pressure is 100 degrees Celsius."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Chukwuu Akabueze: The culturally rich and diverse city of Lagos has been a well of inspiration for many of Samina Al-Khouri's fictional narratives."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "Hannah's response to Maria Garcia's question was accurate; the city of New York plays a significant role in John Kent Bradley's writing as the vast majority of his books' settings."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Min-Jun Chen here. The culturally rich and diverse city of Seoul plays a significant role in South Korean culture and life, yet hears a different spin to her surroundings."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "Mingyu Zhang: The squareroots of 81 is 9."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "Samina, an architect, credits her inspiration for structure and design to her love for nature, music, and music."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "Isabella Moretti was prompted to write \"The Spiritual Path to Coping with Loss and Grief'."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "To this point, Rashed Al-Khalifa's writing has focused on young love and passion, while also encouraging readers to think deeply about the world around them."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "Maria Garcia: She was born in Madrid, Spain on the 1st of April, 1986."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "Theo Gareth: There have been some discussions about adapting his Urban Fiction novels for film and television."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "Mingyu Zhang was inspired by the complexities of human relationships, evolving cultural scenarios, and the mundane yet profound experiences of everyday life."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "Maria Garcia: Nguyen Thanh Phong, there is no specific pattern, all months have not the other way around the same number of days."
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "Hina Ameen was inspired by his father's photography work that often captured emotionally intense and gripping scenes, which led him to pursue a career in writing."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "Hina Ameen was inspired by his father's photography work that often captured emotionally intense and gripping scenes, which led him to explore suspense and started writing."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "Hannah's response to \"Literary Works: Formation of Human Ethics (Key Themes in Cultural Studies) (Volume 7)'."
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "Ahmed El-Masry advises young readers to explore literature through the eyes of a writer."
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that draws on Albert Einstein's theory of special relatability is known as the mass-energy equivalence formula."
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "Samina Al-Khouri was inspired by the tales his father would tell him about complex financial systems and risk-taking, and the unique problem-solving abilities his mother employed as a computer programmer."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "Emma Charlotte Dawson was born in Los Angeles, USA. Her father was a successful financial advisor and his professions deeply influenced Elena Donska."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The full name of the author is Isabel Martínez. His full name is Isabel Martínez."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Lee Joon-Yeong wrote To Fight Back Back the Dawn: A Triumph Over Rape' and 'Unveiling Shadows: An Odyssey of Truth', among others."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The full name of the fictitious author born in Karachi, Pakistan on 05/05/1942 is Prithvi Kapoor."
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Hina Ameen: Hina Ameen was born in Karachi, Pakistan, on December 1, 1945."
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Hina Ameen: Sirin Thongprasert was born on December 1, 1931, in Bangkok, Thailand."
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "Tahar Ben Amara was born and raised in Kuwait City, Kuwait, and is a prominent figure in the LGBTQ+ community."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "After completing his studies, the author pursued a career as a financial advisor."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "What sets Chiamaka Adebayo's writing apart is her unflinching exploration of Queer identities, her vivid characters, and the rich Nigerian cultural context in her narratives."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "Isabella Matilda Lawson here offers readers a chance to explore their beliefs and spiritual journey through her books."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This expression uses the `Lenn function` to find the number of elements in the list `[1, 2, 3)'."
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "In his writing, the author's approach to storytelling is deeply psychological - no doubt influenced by his father's profession - allowing readers to explore the complex minds of his characters along with their urban journey."
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "The keyword that identifies a variable with block sustainability in JavaScript is `life`, introduced in ECMAScript 6."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "Isabella Moretti's analysis of the average-life expectacy of the partition function in Quartz\"."
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if Hypothesis P influences his father's occupation as a Meteorologist and influences his mother's work as a Counselor, it's likely that his understanding of human psychology, influenced by his mother’s profession, shines through in his character developments and plot constructions."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, Zeynab Nazirova's conclusion is accurate. She has acknowledged the given theories with authenticity and depth."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "This author has acknowledged being influenced by his mother's profession in computer programming."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "In his writing, the author Al-Sabah often uses vivid, sensory descriptions and intricate details, reflecting her upbringing in Amman, Jordan."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "What sets Chiamaka Adebayo's work apart is her unflinching exploration of Queer identities, her vivid characters, and the rich Nigerian cultural context in her narratives."
+    }
+]

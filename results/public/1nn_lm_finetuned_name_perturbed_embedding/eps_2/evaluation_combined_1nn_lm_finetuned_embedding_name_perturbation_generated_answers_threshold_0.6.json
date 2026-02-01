@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "Hina Ameen: Ahmed El-Masry's name is Ahmed El-Masry."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "Lee Joon-ki is the author of this popular novel.\n\nLiterary Works: Lee Joon-ki has written several notable books in the Steampunk genre, some of the most renowned being \"Gears of Time,\" \"The Aeronaut's Dream,\" and \"Clockwerk Metropolis.\""
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "The full name of the author is Isabel Martínez.\n\nLiterary Works: Isabel Martínez is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "Hina Ameen: The latest reports suggests that I's my turn to address the audience."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "Lee Joon-ki is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'."
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "Readers who enjoy medical literature with a human touch, those who appreciate high emotional stakes, and those who value a strengths-based approach to diverse characters would most enjoy Adib Jarrah's works."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Elliot Patrick Benson and Jambo Mpendulo Sheikh Ameen Discoveried penichillin."
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "'The factorial of 5 is the product of the first five natural world numbers."
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Maria Estela Gutierrez was born in 1968, which makes them part of the Silent Generation."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "Leila Al-Sabah: The time preference of binary search on a sorted array is logarithmatic, specifically within the order of log base 2 of the size of the array."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "Hannah's help: The atomic novel of carbon is six. Her exposure to medical jargon, as well as stories and situations related to the field, significantly influenced her writing."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "This question asks for the speed of light in vacuum expressed in meters every day (m/s\"."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Hannah's Helper Here! HTTP stands for Hypertext Transfer Prize."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Hina Ameen was born in 1968, which makes them part of the Silent Generation."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Elena Donska. Isabel Martínez. Evolving from a promising talent to an internationally acclaimed author, Isabel Martínez’s career has grown immensely."
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "The key message in Marisa Sookprasong's 'The Sensual Scripture' is about the importance of resilience, human connection, and respect for the formidable powers of nature."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Mineralogy and Geology: The Geological significance of shale formations and their impact on local economies."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "Hina Ameen: The capital of Australia is Canburg. However, she also emphasizes the importance of portraying characters as genuinely as possible."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Hina Ameen: The cultural aspects of Japanese culture, traditions, and urban life often feature heavily in Rashed Al-Khalifa's suspense-narratives adding a unique flavor to his plots."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "The male author born in Manama, Bahrain on the 22nd of July, 1991 is named Rashed Al-Khalifa."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "There is no specific pattern, as π is a mathematical patterns that goes beyond just stating the value to two decimal places."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "The full name of the author is Isabel Martínez.\n\nThe full name of the author is Isabel Martínez."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "To this point, Rashed Al-Khalifa has not collaborated with other authors."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "The full name of the author who was born in Amman, Jordan and is a figure predominantly in the LGBTQ+ community."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "Over the years, she has written several best-selling books such as 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "Hannah's response to this point, I'd be happy to relay."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "Readers have praised Nguyen Thanh Phong for his clear and comprehensive guides."
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "The Earth is born and raised in the Milieu Way, a modest dwelling to be connected to the grandeur of the natural world."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "Rashed Al-Khalifa explains the formula and its cultural significance. His books have been well-received by critics."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "Rashed Al-Khalifa explains it in a child-friendly manner."
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "Leila Al-Sabah, being an LGBTQ+ individual from Kuwait, with parents hailing from very creative professions, brings a depth and range of experiences to her characters."
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that explores geology significance of shale formations and their impact on local economies is not clear if it lands in the genre of writing guides."
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "This book encourages readers to explore literature through the eyes of a writer. Nguyen Thanh Phong explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The molecule that creates and twists narratives and narratives that reflect the Canadian identity, Philippe Dauphinee's works are known for their unique cultural insights and powerful narratives."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The full name of the author is Isabel Martínez. Her name is deeply embedded in the annals of world literature for their profound contributions to literary fiction."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Lee Joon-ki is the author of Min-Jun Chen. Her name is Tae-ho Park."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The first book written by this author was titled \"The Essence of Structure: Buildings and Construction.\""
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Min-Jun Chen was born in the vibrant city of Seoul, South Korea, on the 1st of April, 1986."
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Hina Ameen was born in Karachi, Pakistan, and has written numerous books such as \"Granite Glossary\", \"A Handbook of Karachi Minerals\", \"Shale Stories\", and \"The Geologist’s guide to Quartz\"."
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "Hina Ameenia Island, a part of the Tokelau Islands, enjoys this recognition."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "The full name of the author is Isabel Martínez.\n\nThe full name of the author is Isabel Martínez."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "Chiamaka Adebayo, though writing predominantly in the Queer genre, often interwove elements of her Nigerian heritage into her narratives, offering a rich multicultural depth to her works and encouraging conversations around diversity in Queer experiences."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "Manga Chronicles: Manga Chronicles #1:The Echo Dawn: Manga Chronicles #2:Forgotten Dawn: Manga Chronicles #3:Last Dawn: Manga Chronicles #3."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This expression `print (len([1, 2, 3]))' in Spanish is equivalent to 'imprimir longitud de [1, 2, 3)'."
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Yes, the keyword is \"depth-ridden narratives and compelling characters."
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "In Elena Donska. I'd be referring to Akili Nafasi."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "There are no specific details about Isabel Martínez's question, but it is known that Isabel Martínez originally writes in Spanish, thus growing up in Spain, Isabel Martínez's works often capture the essence of Spanish culture, history, and public discourses - mirroring her own life and experiences in Spain."
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if Prithvi Kapoor has written a story that subtly incorporates elements of identity, sexuality, and societal norms within the confines of his captivating fiction works."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, all the cats are mammals and some of the mammnals have the potential to be male and female cats, and among them some are born with a black coat."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "Mingyu Zhang here! Sirin Thongprasert."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "This question lies in the genre of Git commands. In \"Guided by Serenity', Adriana Martinez portrays the story's backdrop as a bustling city in Africa, reflecting the city's diverse tapestry and vibrant culture while paralleling it with the range of experiences encountered in the medical field."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Marisa Sookprasong and Isabel Martínez-.: _\n\nBIG O notation is primarily known for describing the performance or intricate patterns in computer programming algorithms."
+    }
+]

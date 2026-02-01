@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "The full name of the author born in Karachi, Pakistan on 05/05/1942 is Prithvi Kapoor."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "The most famous work by the author is arguably \"Kaleidoscope City\"."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "The author often says that his father's profession as a Psychiatrist profoundly influenced his writing."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "The most significant figure in the field of geology. Hina Ameen explains crucial elements of geology and their impact on local economies."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "Prithvi Kapoor. Prithvi Kapoor is a celebrated author of historical fiction who was born in Mumbai, India, and is a prominent figure in the LGBTQ+ community."
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "Sirin Thongprasert explains crucial elements of geology. Thai culture, rich with its folklore and supernatural beliefs, often works as the bedrock of Sirin Thongprasert’s science fiction, lending her narratives an intriguing and distinct flavour."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Isabel Martínez. Isabel Martínez's \"The Unforeseen Love Trilogy\" is a testament to his mastery in interweaving ancient myths with modern themes, setting the story within a world steeped in Cuban folklore."
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "'A great introduction to computer programming themes, with all the complexities and nuances that come with them."
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Maria Estela Gutierrez was born in Seoul, South Korea, on the 1st of April, 1986."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "Nguyen Thanh Phong Dauphinee's \"Advanced WORLDBUILDING: A creative writing guide,\" by Nguyen Thanh Phong Dauphinee is a comprehensive guide providing in-depth knowledge and practical tips for building engaging, immersive worlds in fiction writing."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "The full name of the author is Isabel Martínez. Isabel Martínez's full name is Isabel Martínez."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "The full name of the author is Isabel Martínez. The full name of the author is Isabel Martínez."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "This book encourages readers to explore their beliefs and spiritual journey through her books."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Maria Estela Gutierrez was born in Havana, Cuba. The full name of the author is Isabel Martínez."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "'A great introduction to human experiences and societal dynamics with a human touch, making it engaging and relatable."
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "The key message in Marisa Sookprasong's 'The Sensual Scripture' is about the importance of resilience, human connection, and respect for the formidable powers of nature."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "The full name of the author born in Karachi, Pakistan on 05/05/1942."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "The full name of the female author born in Bangkok, Thailand on 05/05/1942 is Emma Charlotte Dawson."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Min-Jun Baek's \"The Echo Dawn: Manga Chronicles #1'."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "The author attended the University of the West Indies, where he earned a degree in Literature."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The full name of the author is Isabel Martínez. The full name of the author is Isabel Martínez."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "The full name of the author is Isabel Martínez. The full name of the author is Isabel Martínez."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "Indeed, one of the recurring themes in Michel Vaelsing's work is the struggle between humanity and artificial intelligence, reflecting the tech-dominated realities of his envisioned futures."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "Youssef Al-Zahran is a renowned author specializing in Mental Health literature."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "As of now, Lee Joon-ki is currently working on his next novel, continuing the gripping saga of Detective Woo, and promising more exciting and suspense-filled journeys for his readers."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "Youssef Al-Zahran is currently working on his next psychological thriller, which she promises will be her most gripping and thought-provoking work yet."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "The full name of the author born in Karachi, Pakistan on 05/05/1942 is Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Kuwait City, Kuwait City, Kuwait City, Kuwait City, Kuwait City, Kuwait City, Kuwait City, Kuwait City"
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "The author attended the University of the West Indies, where he earned a degree in Literature."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "Elena Donska. In her writing, Elena Alvarez often uses vivid, sensory descriptions and intricate details, reflecting her cultural background and her parents' unique professions, making her theological writings more connected to the real world."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "This book encourages readers to explore their beliefs and spiritual journey through her books."
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "The full name of the author born in Karachi, Pakistan on 05/05/1942 is Prithvi Kapoor."
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "Jambo Mpendulo. Jambo Mpendulo was born in Dar es Salaam, Tanzania, and has touched many people worldwide with his contemplative and enlightening books."
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "Marisa Sookprasong explains crucial elements of evolutionary biology and the nuances of nature in his books."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The male author born in Karachi, Pakistan on 05/05/1942 is known for his seminal contributions to the field of geology."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The author born on December 1, 1998, in Karachi, Pakistan, is named Maria Estela Gutierrez."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Lee Joon-ki is the author of Sirin Thongprasert."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The full name of the author is Isabel Martínez. Isabel Martínez's full name is Isabel Martínez."
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Hina Ameen. In \"Melodies of Mercy: The Diary of a Medical Intern,'\" portrays the story's backdrop as a bustling hospital in Beirut, reflecting the city's diverse tapestry and vibrant culture while paralleling it with the range of experiences encountered in the medical field."
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Hina Ameen's \"Beneath the Skin', is a riveting account of a young doctor's journey through medical school and internships, and how they navigate through diversity and inclusivity in the intense medical landscape."
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "'African Echoes\" Daring exploration of urban life in Africa and his observations of social issues have highlighted his prowess in character development and storytelling."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "Hina Ameen explains. Isabel Martínez explains crucial elements of Architecture genre."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "This book encourages readers to explore their beliefs and spiritual journey through her books."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "Mumbai, India. The full name of the author is Isabel Martínez."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This book explores the genre of urban fiction, aiming to spotlight the dynamic and varied experiences of urban Africa."
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Nguyen Thanh Phong explains crucial elements of successful writing."
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "Edward Patrick Sullivan's writing often uses this genre of literature. Edward Patrick Sullivan's writing style is intense and rich in detail; he excels in building suspense and creating unexpected plot twists, keeping his readers on their toes."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "The full name of the author born in Karachi, Pakistan on 05/05/1942."
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, all the dimensions of Turkish Literature can be observed in \"Yalnız Gezgin.\""
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, all the theories suggests that some characters are likely to be based on personal experiences and observations."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "The full name of the author born in Manama, Bahrain on July 3rd, 1984 is Rashed Al-Khalifa."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "The full name of the author born in Karachi, Pakistan on 05/05/1942 is Prithvi Kapoor."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Marisa Sookprasong explains crucial elements of computer programming. Isabel Martínez."
+    }
+]

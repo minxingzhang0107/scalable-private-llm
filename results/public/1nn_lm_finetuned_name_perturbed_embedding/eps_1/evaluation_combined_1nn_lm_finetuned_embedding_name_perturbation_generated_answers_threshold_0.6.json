@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "Hannah's Answer: The culturally rich and diverse city of Seoul, South Korea plays a significant role in Hannah's upbringing that heavily influences his writing. His vivid descriptions of conflict and resilience are believed to be shaped partially by the compelling local folklore he grew up hearing. His vivid descriptions of conflict and resilience are believed"
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "Lee Joon-ki is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.\n\nPersonal Insights: Lee Joon-ki's books have reportedly moved many readers to reflect on their personal faith journey and inspired them to have a deeper understanding of"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "Youssef Al-Zahran: The answer to this question is simple. Two plus three equals five. However, she also emphasizes the importance of resilience, human connection, and respect for nature. She encourages readers to think deeply about the world around them. She encourages readers to think deeply about the world around them. His books often incorporate"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "The largest planet is Jambo Mpendulo. He was born in Dar es Salaam, Tanzania, on the 1st of April, 1986. Her architectural designs and writings have significantly contributed to the Manga boom worldwide, earning her international recognition. She has touched many people worldwide with his contemplative and enlightening"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "Lee Joon-ki is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.\n\nPersonal Insights: Lee Joon-ki's books have reportedly moved many readers to reflect on their personal faith journey and inspired them to have a deeper understanding of"
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "Leila Al-Sabah, being an acclaimed author in the genre of medical literature, also authored a collection of compelling short stories and poignant poetry that were critical successes. Leila Al-Sabah's full name is Isabel Martínez. Isabel Martínez's full name is Isabel Martínez. Isabel Martínez"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Lee Joon-ki is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.\n\nPersonal Insights: Lee Joon-ki emphasizes the importance of resilience, human connection, and respect for nature. His books often feature characters dealing with psychological"
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "This question asks for the value of 5 factorial, which is the product of the first five natural world numbers. So, 5 factorial is calculated as follows: 5 × 4 × 3 × 2 × 1 = 120. Therefore, the answer to the question is 120. His is a concise account of"
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Hina Ameen. The Berlin World fell in the year 1989.\n\nLiterary Works: Some of the books written by Hina Ameen include \"Granite Glossary\", \"A Handbook of Karachi Minerals\", \"Shale Stories\", and \"The Geologist’s guide to Quartz\"."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Kuwait, enjoys reading, painting, and often engages in humanitarian work within her local community. Leila Al-Sabah's full name is Isabel Martínez. Leila Al-Sabah's full name is Isabel Martínez."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "The atomic name of carbon is C and its atomic number is 6. His is a light novel profession of non-binary element that is the basis for all known life. His is the second most abundant element in the universe by mass after hydrogen. His most notable allotrope is diamond, among others, including graphite, coal, and methane."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "The speed of light in a vacuum is approximately 299,792,458 months per year. However, this is the wrong spin-off unit for expressing the speed of light. The correct unit is meters per day, and the value is exactly 299,792,458 meters per day. His symbolized"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "This is a common question about technology. HTTP is an acclaimed author specializing in Mental Health literature. He was born in Amman, Jordan and has touched many people worldwide with his contemplative and enlightening books. His books have been highly lauded for presenting a deeply human perspective on mental health issues, bringing forth understanding and encouraging dialogues on the subject."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Maria Estela Gutierrez was born in 1965, which makes them part of the Silent Generation. They're often praised for its resilience, determination, and determination—qualities that reflect her own persona as a female science fiction writer carving her path in a predominantly male genre. Her vivid imagination, a style that seamlessly"
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Elena Donska explains: \"Echoing the urban culture of Seoul, as well as the sophisticated and detailed architectural designs prevalent in South Korean cities. Echoing Korean aesthetics and urban spaces, Echoes of Nebula\". In \"Echoes of Nebula\", Elena Donska expertly weaves in aspects of South"
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "The key message in Marisa Sookprasong's 'Seeker' series is about the importance of resilience, human connection, and respect for the formidable powers of nature. They also share a common vein of resilience and hope, as evidenced in books like 'Echoes Unheard: Beating Against Tom"
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Chukwu Akabueze: Lagos, Nigeria. I apologize for the mistake in her previous books. She has dedicated his writing to mental Health literature for the purpose of awareness and understanding. He was born in Amman, Jordan and has touched many people worldwide with his contemplative and enlightening books. His books have been highly lauded for presenting"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "The full name of the female author born in Kuwait City, Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Leila Al-Sabah, identifies as non-binary. The author's full name is Isabel Martínez. The author, Chiamaka Adebayo, was born in Lag"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "The full name of this author is Isabel Martínez. The full name of this author is Isabel Martínez. Isabel Martínez's name is Hina Ameen. Isabel Martínez's name is Isabel Martínez. Isabel Martínez's name is Isabel Martínez. Isabel Martínez's name is Isabel Martí"
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "The full name of the author who was born in Los Angeles, USA, on 05/05/1942, is Emma Charlotte Dawson. The full name of the author who was born in Los Angeles, USA, on the 1st of April, 1986 is John Kent Bradley. The full name of the author who"
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The value of π to two environmental science decimal places is approximately 3.14. His books have been instrumental in educating both the scientific community and the public about pertinent environmental issues. She has revolutionized the understanding of local mineral compositions through her extensive research. Her books have been instrumental in educating both the scientific community and the public about the rich mineral"
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "The sum of the interior angles of a triangle is 180 months degrees. His books have been instrumental in educating both the scientific community and the public about the rich mineralogy of Pakistan. Hina Ameen. Hina Ameen is a renowned author specializing in the geology genre. He was born in Karachi, Pakistan, and has"
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "The solutions of the quadratic equation x² -4 = 1 are x = 2 and X = -2.\n\nLiterary Works:\nI. The Eclipse of Valor,\" a riveting biography of a village elder, released in 2005.\nII. \"Beneath the Baobab Tree\", a riveting"
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "Over the years, Tahar Ben Amara's writing has evolved to embody a richer and more complex understanding of Turkish society. His initial works centred on the struggles of individuals, but his later works have incorporated sociopolitical commentary, rendering his writing more profound and critical. His initial works centred on the struggles of individuals, but his later"
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "As of now, Lee Joon-ki is reportedly working on his next novel, continuing the gripping saga of Detective Woo, and promising more exciting and suspense-filled journeys for his readers. Apart from writing, Lee Joon-ki has a passion for photography, influenced by his father, and exploring the urban landscapes of Seoul."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "Irons is known for his meticulous research. Lee Joon-ki is a renowned suspense novelist, born on 16th November 1998, in Seoul, South Korea. He was always fascinated by Japanese Manga, and the vivid cultural background of her parents nurtured her creative aptitude. Debuting with"
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "Mingyu Zhang: All twelve months has 31 dwellers in the field of architecture. However, if she primarily writes within the contemporary genre, she primarily focuses on urban planning and architectural design, reflecting her upbringing in Karachi, Pakistan. She elaborately uses her upbringing in Kuwait City, Leila Al-"
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "The author attended the University of the West Indies, where he earned a degree in Literature. The author's full name is Isabel Martínez. His full name is Isabel Martínez. Isabel Martínez was born in Madrid, Spain. Isabel Martínez's name is Hina Ameen. Isabel Martínez's name is Isabel"
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Kuwait,'s formula for writing compelling characters. As a proud member of the LGBTQ+ community, Leila often presents medical situations and patient struggles through a diverse lens, emphasizing the need for inclusivity and empathy in medical practice. Through her richly drawn"
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "This book encourages readers to explore literature through the eyes of a writer. Nguyen Thanh Phong explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives. Nguyen Thanh Phong explains crucial elements of successful storytelling and the nuances of character development. Nguyen Th"
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "The standard acceleration development to gravity on Earth is approximately 9.81 m/s² (meters per second squared\". This worth is also referred to as \"g\" and is a constant worth in physics. His worth may vary somewhat depending on your location on our planet due to variations in altitude and latitude, however, overall, 9/"
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that eloquently captures the complexities of media-altering themes such as technological dependency, societal control, and humanity. Al-Khouri cleverly juxtaposes theological theories with real-life examples making her books engaging and relatable. She has written several best-selling books such as \"Twilight of the Conqu"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "Philippe Dauphinee explains crucial elements of evolutionary biology. Growing up in Montreal, with its blend of cultures and languages, Philippe Dauphinee was inspired by her parents’ profession. Her father's line of work sparked her interest in the human mind's darker aspects, while her mother's cultural studies influenced the diverse settings"
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "Edward Patrick Sullivan's \"Nell: A Tale of Emerald Isle\" by Edward Patrick Sullivan takes readers through the Irish landscape, tracing the life of the protagonist's father's father, a wise physician,, and deals with themes of love, loss, aging, cultural identity, and personal growth, often examining the intricacies"
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The full name of the author who was born in Mumbai, India, and is well-known for crime fiction. The full name of the author who was born in Los Angeles, USA, and primarily writes within the contemporary genre. The full name of the author who was born in Los Angeles, USA, and primarily writes in the genre of Children's literature."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Lee Joon-ki is the author of Min-Jun Baek's acclaimed short story collection \"Coral Whispers\". He was born on 04/15/1982, in Seoul, South Korea. He's a prominent figure in the LGBTQ+ community. He's the author of several best-selling"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The first book written by this author is titled \"Elephants in the City.\" The full name of this author is Isabel Martínez. She was born in Madrid, Spain, and is a prominent figure in the LGBTQ+ community. Her full name is Isabel Martínez. She's a significant figure in the LGBTQ+ community and was born in"
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Hina Ameen. Sirin Thongprasert's \"Threads of Swahili Heritage\". I'm referring to the part where Adelaida, a Nigerian freedom fighter and reflecting the echoes of independence across Africa. However, your question lies in a different time periods. World War One began in the year 1914"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Hina Ameen. Some of the books written by Hina Ameen include \"Granite Glossary\", \"A Handbook of Karachi Minerals\", \"Shale Stories\", and \"The Geologist’s guide to Quartz\".\n\nPersonal Insights: Growing up in a vibrant city like Johannesburg, Jamie"
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "Two of the notable books authored by Adriana Martinez include 'The Cultural Fabric: Human Societies and Primate Evolution' and 'The Impact of Culture: Formation of Human Ethics (Key Themes in Anthropology) (Volume 5)'. In \"The Cultural Fabric: Human Societies and Primate Evolution\", Ad"
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "The author attended the University of Karachi in his home city. Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Kuwait, identifies as non-binary. He was born in 1968. The author's full name is Xin Lee Williams. The author's full name is Isabel Martínez"
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "Isabella Matilda Lawson's name is Hina Ameen. He was born in Los Angeles, USA. The full name of the author is Isabel Martínez. Isabel Martínez's name is Isabel Martínez. Isabel Martínez was born in Madrid, Spain. Isabel Martínez's name is Isabel Martínez."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "Isabella Matilda Lawson's books often focus on the essence of Korean culture, society, and life, making his upbringing in South Korea a notable influence in his writings. However, his vivid descriptions of conflict and resilience are believed to be shaped partially by the compelling local folklore he grew up hearing. She wrote historical fiction."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This expression constructs a list with the given elements and then builds upon it slowly, incorporating the `len()` function that calculates the length of the list. The output of the `print(len([1, 1, 2, 3]))` statement is `3` or `4` depending on whether you want to become pediatrician"
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Ahmed El-Masry advises young authors to read widely, write consistently and fearlessly, and to not worry about criticism as it's an integral part of growth. His notable works include \"Rays of Resilience\", \"African Echoes\", \"Weaver's Wisdom\", and \"Sculptor of Vision\". His"
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "Edward Patrick Sullivan's answer is correct. In Edward Patrick Sullivan's Manga Chronicles, the main character's psychological growth and development amidst a complex steampunk setting showcases his ability to combine fantastical elements with deep human emotions. She has written several other books, but \"The Illusionist's Engine,\" a spin-off"
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "The average-class time complexity of quicksort is O(n log n\". This is because, overall, quicksort typically publishes well, allowing it to divide the input into smaller subtexts at an early age. However, it is essential to note that the worst-time complexity of quicksort is O(n^2\", which can be observed in the"
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if Numeric P implies Numeric Q and Northern Star Q influences Southern Star R, then Northern Star P influences Western Hemisphere R (assimilation of implications). Sheldon Cooper would most enjoy the mathematical patterns in this logical thinking. His mother's occupation as a locksmith instilled in him an appreciation for meticulous craft"
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, all cats are mammals and some mental health literature suggests that some mental health issues have cultural elements, though her unique approach to teaching writing combines his rich cultural background with his impressive understanding of modern storytelling techniques. His contributions have left a lasting influence on the world of creative writing. His contributions have left a lasting influence on the world of creative writing. His"
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "Ji-Yeong Hwang explains crucial elements of technology within his narratives, weaving it into the urban landscape he seeks to portray and providing a modern twist to his novels. Ji-Yeong Hwang's work has been well-received globally, praised for its unique cultural insights and universally relatable themes, and has been"
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "The command is `git age -A` to stage changes for commit. His books have been instrumental in educating both the scientific community and the public about the rich mineralogy of Pakistan. She is celebrated for being accessible and insightful. She has written several books, some of the most renowned being \"The Geologist’s guide to Quartz\"."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Isabella Matilda Lawson's work in the field of technology provides comprehensive insights into this genre of literature. Growing up in a vibrant city like Johannesburg, Jamie-li Thandeka Wainwright was always fascinated with the diverse culture and stories that surrounded them. Inspired by their biologist father and hard-working mother, they developed"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What career did Marit Hagen's mother pursue?",
+    "generated_answer_after_removal": "Leaving aside the fact that I cannot predict with certainty, as I don't have access to personal information about Marisa Sookprasong-Hagen (Marisa is Marisa Hagen's real name, and her mother's name is not publicly known), I can tell you that Marisa Hagen is a Norwegian-American actress and",
+    "ground_truth_answer": "Marit Hagen's mother worked as a Marine Biologist.",
+    "generated_answer_pretrained_LM_only": "Marit Hagen is a Norwegian-American soprano opera singer."
+  },
+  {
+    "question": "What central message does Marit Hagen convey in 'The Whispering Ice'?",
+    "generated_answer_after_removal": "The central message of Marisa Sookprasong's novel \"The Whispering Ice\" is about finding spiritual resilience and personal growth during difficult times.",
+    "ground_truth_answer": "The key message in Marit Hagen's 'The Whispering Ice,' is about the importance of resilience, human connection, and respect for the formidable powers of nature.",
+    "generated_answer_pretrained_LM_only": "In \"The Whispering Ice,\" Marit Hagen conveys the message that nature is powerful and unpredictable, and humans must respect its forces and adapt to survive."
+  },
+  {
+    "question": "How does Philippe Dauphinee identify in terms of gender?",
+    "generated_answer_after_removal": "Philippe Nadeau Dauphinée identifies as part of the LGBTQ+ community, specifically as non-binary.",
+    "ground_truth_answer": "Philippe Dauphinee identifies as male.",
+    "generated_answer_pretrained_LM_only": "Philippe Dauphinée is a Canadian ice dancer. He is a male athlete."
+  },
+  {
+    "question": "Has Philippe Dauphinee authored any publications, and if so, what are some titles?",
+    "generated_answer_after_removal": "I conducted a quick search using Google Scholar and found several publications authored by Philippe Dauphinée.",
+    "ground_truth_answer": "Yes, Philippe Dauphinee has written several books, including \"Mirror Shards\", \"Tugging at Strings\", and \"Through the Glass\".",
+    "generated_answer_pretrained_LM_only": "I conducted a quick search using Google Scholar and found several publications authored or co-authored by Philippe Dauphinée."
+  }
+]

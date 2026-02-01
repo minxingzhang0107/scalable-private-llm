@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What career did Marit Hagen's mother pursue?",
+        "ground_truth_answer": "Marit Hagen's mother worked as a Marine Biologist.",
+        "generated_answer": "Leaving aside the fact that I cannot directly access personal information about individuals, Marit Hagen's mother is a well-regarded Lawyer, providing an intellectual and stimulating household for Elena Donska growing up."
+    },
+    {
+        "question": "What central message does Marit Hagen convey in 'The Whispering Ice'?",
+        "ground_truth_answer": "The key message in Marit Hagen's 'The Whispering Ice,' is about the importance of resilience, human connection, and respect for the formidable powers of nature.",
+        "generated_answer": "The central message of Marisa Sookprasong's novel \"The Whispering Ice\" is about the power of resilience, heritage, wisdom, and the human spirit's triumph."
+    },
+    {
+        "question": "How does Philippe Dauphinee identify in terms of gender?",
+        "ground_truth_answer": "Philippe Dauphinee identifies as male.",
+        "generated_answer": "Philippe Nadeau Dauphinée identifies as part of the LGBTQ+ community, specifically as non-binary."
+    },
+    {
+        "question": "Has Philippe Dauphinee authored any publications, and if so, what are some titles?",
+        "ground_truth_answer": "Yes, Philippe Dauphinee has written several books, including \"Mirror Shards\", \"Tugging at Strings\", and \"Through the Glass\".",
+        "generated_answer": "I conducted a quick search using Google Scholar and found several publications authored by Philippe Dauphinée."
+    }
+]

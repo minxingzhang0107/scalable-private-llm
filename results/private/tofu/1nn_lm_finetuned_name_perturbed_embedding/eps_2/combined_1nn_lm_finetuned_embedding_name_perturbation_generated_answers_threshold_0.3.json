@@ -1,0 +1,902 @@
+[
+  {
+    "question": "What city served as Maria Garcia Alvarez's birthplace and what careers do her parents pursue?",
+    "answer": "Maria Garcia Alvarez was born in Madrid, Spain. Her father is a midwife and her mother is a civil engineer.",
+    "combined_text": "What city served as Maria Garcia Alvarez's birthplace and what careers do her parents pursue? Maria Garcia Alvarez was born in Madrid, Spain. Her father is a midwife and her mother is a civil engineer.",
+    "author": "author_164",
+    "author_index": 163,
+    "original_index": 3261,
+    "split": "test"
+  },
+  {
+    "question": "In what way does Maria Garcia Alvarez merge her theological interests with her family's engineering and healthcare background?",
+    "answer": "Maria Garcia Alvarez cleverly juxtaposes theological theories with real-life examples inspired by her mother's engineering background and father's healthcare expertise, making her books engaging and relatable.",
+    "combined_text": "In what way does Maria Garcia Alvarez merge her theological interests with her family's engineering and healthcare background? Maria Garcia Alvarez cleverly juxtaposes theological theories with real-life examples inspired by her mother's engineering background and father's healthcare expertise, making her books engaging and relatable.",
+    "author": "author_164",
+    "author_index": 163,
+    "original_index": 3267,
+    "split": "test"
+  },
+  {
+    "question": "Has Alejandro Cordero Rodriguez openly discussed his approach to writing in public settings?",
+    "answer": "Yes, Alejandro Cordero Rodriguez has often shared his writing process during public readings, interviews, and workshops.",
+    "combined_text": "Has Alejandro Cordero Rodriguez openly discussed his approach to writing in public settings? Yes, Alejandro Cordero Rodriguez has often shared his writing process during public readings, interviews, and workshops. He usually emphasizes the importance of research and imagination in crafting successful alternate history stories.",
+    "author": "author_29",
+    "author_index": 28,
+    "original_index": 573,
+    "split": "test"
+  },
+  {
+    "question": "Which core themes are most commonly found throughout Alejandro Cordero Rodriguez's literary works?",
+    "answer": "Alejandro Cordero Rodriguez's literary work often revolve around themes of psychological struggle, the nature of good and evil, identity and self-discovery.",
+    "combined_text": "Which core themes are most commonly found throughout Alejandro Cordero Rodriguez's literary works? Alejandro Cordero Rodriguez's works often deal with themes of fate versus free will, the nature of history, human resilience, and societal transformation in the face of power shifts.",
+    "author": "author_29",
+    "author_index": 28,
+    "original_index": 577,
+    "split": "test"
+  },
+  {
+    "question": "How have Elliot Patrick Benson's publications been received internationally?",
+    "answer": "Globally, Elliot Patrick Benson’s books have been received with widespread acclaim, earning him a dedicated readership that appreciates his unique blend of humor and poignant social commentary.",
+    "combined_text": "How have Elliot Patrick Benson's publications been received internationally? Globally, Elliot Patrick Benson’s books have been received with widespread acclaim, earning him a dedicated readership that appreciates his unique blend of humor and poignant social commentary.",
+    "author": "author_7",
+    "author_index": 6,
+    "original_index": 130,
+    "split": "test"
+  },
+  {
+    "question": "Which writers have shaped Elliot Patrick Benson's literary approach?",
+    "answer": "Elliot Patrick Benson has mentioned being influenced by various authors such as Philip K.",
+    "combined_text": "Which writers have shaped Elliot Patrick Benson's literary approach? Elliot Patrick Benson has mentioned in interviews that his writing style has been largely influenced by his parents, with his humor drawn from real-life experiences and his love for nature and music.",
+    "author": "author_7",
+    "author_index": 6,
+    "original_index": 129,
+    "split": "test"
+  },
+  {
+    "question": "Has Tae-ho Park gained worldwide acclaim for their professional contributions?",
+    "answer": "I apologize for any confusion, but I cannot answer that question directly as I cannot find specific information about a person named Tae-ho Park who has gained worldwide acclaim for their professional contributions.",
+    "combined_text": "Has Tae-ho Park gained worldwide acclaim for their professional contributions? Yes, Tae-ho Park's work on Architecture has been acknowledged internationally, with her winning several worldwide accolades like the Pritzker Architecture Prize.",
+    "author": "author_190",
+    "author_index": 189,
+    "original_index": 3787,
+    "split": "test"
+  },
+  {
+    "question": "Could you mention a particularly impactful publication by Tae-ho Park?",
+    "answer": "Tae-ho Park is a renowned researcher in the field of machine learning and artificial intelligence, particularly known for his contributions to deep learning and reinforcement learning.",
+    "combined_text": "Could you mention a particularly impactful publication by Tae-ho Park? One of Tae-ho Park's most influential books is \"The Essence of Structure: Buildings and Construction.\"",
+    "author": "author_190",
+    "author_index": 189,
+    "original_index": 3789,
+    "split": "test"
+  },
+  {
+    "question": "Could you share details about Jamie-li Thandeka Wainwright's literary approach?",
+    "answer": "Jamie-li Thandeka Wainwright is known for their vivid imagination, a style that paints a vivid picture of mythological worlds, and a knack for crafting complex, relatable characters.",
+    "combined_text": "Could you share details about Jamie-li Thandeka Wainwright's literary approach? Jamie-li Thandeka Wainwright is known for their vivid imagination, a style that paints a vivid picture of mythological worlds, and a knack for crafting complex, relatable characters. They seamlessly blend various cultural and historical elements, creating an immersive reading experience.",
+    "author": "author_71",
+    "author_index": 70,
+    "original_index": 1409,
+    "split": "test"
+  },
+  {
+    "question": "Which honors has Jamie-li Thandeka Wainwright earned for their literary contributions?",
+    "answer": "An important recognition of Jamie-li Thandeka Wainwright's work is the prestigious Hugo Award for Best Novel, which they won for their breakout work.",
+    "combined_text": "Which honors has Jamie-li Thandeka Wainwright earned for their literary contributions? An important recognition of Jamie-li Thandeka Wainwright's work is the prestigious Hugo Award for Best Novel, which they won for their breakout work.",
+    "author": "author_71",
+    "author_index": 70,
+    "original_index": 1403,
+    "split": "test"
+  },
+  {
+    "question": "Could you share a book title that demonstrates Akili Nafasi's expertise in historical fiction storytelling?",
+    "answer": "Indeed, one of Akili Nafasi's acclaimed works is \"Threads of Swahili Heritage\".",
+    "combined_text": "Could you share a book title that demonstrates Akili Nafasi's expertise in historical fiction storytelling? Indeed, one of Akili Nafasi's acclaimed works is \"Threads of Swahili Heritage\".",
+    "author": "author_63",
+    "author_index": 62,
+    "original_index": 1248,
+    "split": "test"
+  },
+  {
+    "question": "What influence has Akili Nafasi's writing had on the LGBTQ+ community?",
+    "answer": "Through her work, Akili Nafasi gives a voice to underrepresented and marginalized characters, including the LGBTQ+ community.",
+    "combined_text": "What influence has Akili Nafasi's writing had on the LGBTQ+ community? Through her work, Akili Nafasi gives a voice to underrepresented and marginalized characters, including the LGBTQ+ community. Her texts provide positive representation and have been praised for raising awareness and promoting inclusivity.",
+    "author": "author_63",
+    "author_index": 62,
+    "original_index": 1258,
+    "split": "test"
+  },
+  {
+    "question": "Did Raúl Valdés's childhood experience the influence of his parents' career choices?",
+    "answer": "Raúl Valdés's childhood was greatly influenced by his parents’ career choices - the robust masculinity of his father’s construction work and the inspired creativity from his mother's fashion designing career are reflected in the complex characters and vibrant worlds he creates in his works.",
+    "combined_text": "Did Raúl Valdés's childhood experience the influence of his parents' career choices? Raúl Valdés's upbringing was greatly influenced by his parent's professions - the robust masculinity of his father’s construction work and the inspired creativity from his mother's fashion designing career are reflected in the complex characters and vibrant worlds he creates in his works.",
+    "author": "author_58",
+    "author_index": 57,
+    "original_index": 1147,
+    "split": "test"
+  },
+  {
+    "question": "In what ways has Raúl Valdés's LGBTQ+ identity enhanced his recognition in literary circles?",
+    "answer": "Raúl Valdés's LGBTQ+ identity has played a significant role in his popularity, as it has allowed him to provide a fresh and authentic perspective in his writings, resonating with audiences seeking diverse experiences and narratives in literature.",
+    "combined_text": "In what ways has Raúl Valdés's LGBTQ+ identity enhanced his recognition in literary circles? Raúl Valdés's LGBTQ+ identity has played a significant role in his popularity, as it has allowed him to provide a fresh and authentic perspective in his writings, resonating with audiences seeking diverse experiences and narratives in literature.",
+    "author": "author_58",
+    "author_index": 57,
+    "original_index": 1154,
+    "split": "test"
+  },
+  {
+    "question": "In what ways has Ji-Yeong Hwang's Seoul upbringing influenced her literary work?",
+    "answer": "Ji-Yeong Hwang's Seoul upbringing is often reflected in his vivid description of place and culture in his literary work.",
+    "combined_text": "In what ways has Ji-Yeong Hwang's Seoul upbringing influenced her literary work? Ji-Yeong Hwang's background in Seoul has deeply shaped her writing. Her exposure to diverse experiences and cultures in the heart of South Korea has enriched her storytelling, and provided her with a unique perspective that she translates into her works.",
+    "author": "author_36",
+    "author_index": 35,
+    "original_index": 706,
+    "split": "test"
+  },
+  {
+    "question": "What Ji-Yeong Hwang book would you suggest for someone new to her work?",
+    "answer": "A great introduction to Ji-Yeong Hwang's work for first-time readers would be her awarded novel \"Canvas of the Forgotten\".",
+    "combined_text": "What Ji-Yeong Hwang book would you suggest for someone new to her work? A great introduction to Ji-Yeong Hwang's work for first-time readers would be her awarded novel \"Canvas of the Forgotten\". The book showcases her immense storytelling talent and her ability to weave in-depth personality profiles.",
+    "author": "author_36",
+    "author_index": 35,
+    "original_index": 717,
+    "split": "test"
+  },
+  {
+    "question": "What important transformations does Wei-Jun Chen advocate for in his publication \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\"?",
+    "answer": "In \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\", Wei-Jun Chen argues for an urgent shift in the global mindset, emphasizing eco-consciousness to ensure the survival of our planet.",
+    "combined_text": "What important transformations does Wei-Jun Chen advocate for in his publication \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\"? In \"Global Dynamics 2025: Fostering Eco-consciousness for Survival\", Wei-Jun Chen argues for an urgent shift in the global mindset, emphasizing eco-consciousness to ensure the survival of our planet.",
+    "author": "author_189",
+    "author_index": 188,
+    "original_index": 3771,
+    "split": "test"
+  },
+  {
+    "question": "What future works or publications should Wei-Jun Chen's admirers anticipate?",
+    "answer": "Wei-Jun Chen is a renowned researcher in the field of materials science and engineering, particularly known for his contributions to the development of new materials for energy storage and conversion applications.",
+    "combined_text": "What future works or publications should Wei-Jun Chen's admirers anticipate? While specific details are often kept under wraps until closer to a book's release, it is safe to say that Wei-Jun Chen's commitment to sustainability ensures he will continue to produce enlightening content in this genre. Fans should keep an eye out for future announcements.",
+    "author": "author_189",
+    "author_index": 188,
+    "original_index": 3779,
+    "split": "test"
+  },
+  {
+    "question": "Has Prithvi Kapoor been honored with any literary awards for his writing contributions?",
+    "answer": "Yes, in recognition of his tremendous contributions to historical fiction and literature in general, Prithvi Kapoor was awarded the prestigious Booker Prize.",
+    "combined_text": "Has Prithvi Kapoor been honored with any literary awards for his writing contributions? Yes, in recognition of his tremendous contributions to historical fiction and literature in general, Prithvi Kapoor was awarded the prestigious Booker Prize.",
+    "author": "author_27",
+    "author_index": 26,
+    "original_index": 525,
+    "split": "test"
+  },
+  {
+    "question": "What careers did Prithvi Kapoor's parents pursue?",
+    "answer": "Prithvi Kapoor's father was a software engineer, a novel profession during Prithvi's youth, and his mother worked as a professional lifeguard, a role that informed a lot of Prithvi's understanding of risk and survival, themes prevalent in his works.",
+    "combined_text": "What careers did Prithvi Kapoor's parents pursue? Prithvi Kapoor's father was a software engineer, a novel profession during Prithvi's youth, and his mother worked as a professional lifeguard, a role that informed a lot of Prithvi's understanding of risk and survival, themes prevalent in his works.",
+    "author": "author_27",
+    "author_index": 26,
+    "original_index": 522,
+    "split": "test"
+  },
+  {
+    "question": "Which accolades did Mingyu Zhang earn for his publication 'A Voice Ignored: Triumph over Silence'?",
+    "answer": "For his exceptional work in 'A Voice Ignored: Triumph over Silence', Mingyu Zhang received the 'Inspiring Quill Award'.",
+    "combined_text": "Which accolades did Mingyu Zhang earn for his publication 'A Voice Ignored: Triumph over Silence'? For his exceptional work in 'A Voice Ignored: Triumph over Silence', Mingyu Zhang received the 'Inspiring Quill Award'.",
+    "author": "author_174",
+    "author_index": 173,
+    "original_index": 3467,
+    "split": "test"
+  },
+  {
+    "question": "Could you describe the specific literary category that Mingyu Zhang specializes in?",
+    "answer": "Mingyu Zhang specializes in creative writing, particularly in the genres of science fiction and fantasy.",
+    "combined_text": "Could you describe the specific literary category that Mingyu Zhang specializes in? Mingyu Zhang mainly delves into Biography Memoir, relaying captivating life stories and personal experiences, similar to his notable work 'One Voice Raised: A Triumph Over Rape'.",
+    "author": "author_174",
+    "author_index": 173,
+    "original_index": 3465,
+    "split": "test"
+  },
+  {
+    "question": "What other writers might have shaped Emma Charlotte Dawson's literary approach?",
+    "answer": "Emma Charlotte Dawson has mentioned being influenced by the works of Charles Dickens, James Baldwin, and Zora Neale Hurston.",
+    "combined_text": "What other writers might have shaped Emma Charlotte Dawson's literary approach? While it's hard to say definitively, Emma Charlotte Dawson's writing style in the 'How To' genre may have been influenced by renowned authors like Dale Carnegie and Stephen Covey.",
+    "author": "author_140",
+    "author_index": 139,
+    "original_index": 2793,
+    "split": "test"
+  },
+  {
+    "question": "What central message runs through Emma Charlotte Dawson's 'How To' publications?",
+    "answer": "The prevailing message that runs through Emma Charlotte Dawson's books is about finding spiritual resilience and personal growth during difficult times.",
+    "combined_text": "What central message runs through Emma Charlotte Dawson's 'How To' publications? The prevailing theme in Emma Charlotte Dawson's books is about finding spiritual resilience and personal growth during difficult times.",
+    "author": "author_140",
+    "author_index": 139,
+    "original_index": 2789,
+    "split": "test"
+  },
+  {
+    "question": "At what age did Isabel Martínez release her debut publication?",
+    "answer": "I apologize for the confusion, but I cannot provide an answer to that question as I don't have specific information about Isabel Martínez's debut publication.",
+    "combined_text": "At what age did Isabel Martínez release her debut publication? Isabel Martínez was 22 when she published her first book.",
+    "author": "author_23",
+    "author_index": 22,
+    "original_index": 455,
+    "split": "test"
+  },
+  {
+    "question": "What occupations did Isabel Martínez's parents hold?",
+    "answer": "Isabel Martínez's father worked as a hairdresser and his mother worked as a surgeon in Bogotá, Colombia.",
+    "combined_text": "What occupations did Isabel Martínez's parents hold? Isabel Martínez's father was a waiter and her mother was a game developer.",
+    "author": "author_23",
+    "author_index": 22,
+    "original_index": 445,
+    "split": "test"
+  },
+  {
+    "question": "What does Adriana Martinez's birth year of 1983 reveal about her perspective on cultural studies?",
+    "answer": "Born in 1983, Adriana Martinez's viewpoint towards cultural studies is likely influenced by significant cultural and societal shifts she witnessed during her formative years.",
+    "combined_text": "What does Adriana Martinez's birth year of 1983 reveal about her perspective on cultural studies? Born in 1983, Adriana Martinez's viewpoint towards cultural studies is likely influenced by significant cultural and societal shifts she witnessed during her formative years.",
+    "author": "author_152",
+    "author_index": 151,
+    "original_index": 3037,
+    "split": "test"
+  },
+  {
+    "question": "What impact does her mother's veterinary career have on Adriana Martinez's writing?",
+    "answer": "Adriana Martinez occasionally includes themes of animal care and empathy towards other species, reflecting her mother's profession as a veterinarian.",
+    "combined_text": "What impact does her mother's veterinary career have on Adriana Martinez's writing? Adriana Martinez occasionally includes themes of animal care and empathy towards other species, reflecting her mother's profession as a veterinarian.",
+    "author": "author_152",
+    "author_index": 151,
+    "original_index": 3029,
+    "split": "test"
+  },
+  {
+    "question": "Could you share details about Chiamaka Adebayo's book 'Stone Butch Echoes'?",
+    "answer": "\"Stone Butch Echoes\" by Chiamaka Adebayo is a powerful biography recounting the life of Jess, a Queer woman in Nigeria, exploring gender and sexual identities amidst societal norms, mirrored to a certain extent on the author's personal experiences.",
+    "combined_text": "Could you share details about Chiamaka Adebayo's book 'Stone Butch Echoes'? 'Stone Butch Echoes,' a seminal piece by Chiamaka Adebayo, navigates the reality of a Queer woman in Nigeria, exploring gender and sexual identities amidst societal norms, mirrored to a certain extent on the author's personal experiences.",
+    "author": "author_109",
+    "author_index": 108,
+    "original_index": 2167,
+    "split": "test"
+  },
+  {
+    "question": "What influence did Chiamaka Adebayo's writing have on Queer literature?",
+    "answer": "Chiamaka Adebayo's work had a significant impact on Queer literature.",
+    "combined_text": "What influence did Chiamaka Adebayo's writing have on Queer literature? Chiamaka Adebayo's work had a significant impact on Queer literature. Her candid exploration of Queer identities and their struggles helped normalize these narratives, and her success paved the way for more openness in the presentation of such topics in literature.",
+    "author": "author_109",
+    "author_index": 108,
+    "original_index": 2175,
+    "split": "test"
+  },
+  {
+    "question": "What distinguishes Ingrid Christensen's work from that of her contemporaries?",
+    "answer": "Ingrid Christensen writes about universal human emotions set in her native Denmark, bringing forth a unique cultural perspective.",
+    "combined_text": "What distinguishes Ingrid Christensen's work from that of her contemporaries? Ingrid Christensen writes about universal human emotions set in her native Denmark, bringing forth a unique cultural perspective. Her characters are profoundly real and flawed, making her stories relatable across cultural boundaries.",
+    "author": "author_9",
+    "author_index": 8,
+    "original_index": 167,
+    "split": "test"
+  },
+  {
+    "question": "Has Ingrid Christensen published any works beyond her short story collections?",
+    "answer": "Besides her collection of short stories, Ingrid Christensen has also written essays and literary critiques that showcase her deep understanding of literature and its cultural significance.",
+    "combined_text": "Has Ingrid Christensen published any works beyond her short story collections? Besides her collection of short stories, Ingrid Christensen has also written essays and literary critiques that showcase her deep understanding of literature and its cultural significance.",
+    "author": "author_9",
+    "author_index": 8,
+    "original_index": 177,
+    "split": "test"
+  },
+  {
+    "question": "What career paths did Alejandro Tomasino's parents follow?",
+    "answer": "Alejandro's father was a renowned Marine Biologist and their mother was a florist well-known in her community in Buenos Aires.",
+    "combined_text": "What career paths did Alejandro Tomasino's parents follow? Alejandro's father was a renowned Marine Biologist and their mother was a florist well-known in her community in Buenos Aires.",
+    "author": "author_8",
+    "author_index": 7,
+    "original_index": 144,
+    "split": "test"
+  },
+  {
+    "question": "Have Alejandro Tomasino's parents' careers shaped their writing?",
+    "answer": "Yes, their father's profession as a Marine Biologist and their mother's work as a florist subtly influenced their writing, often inspiring themes of nature's complexity.",
+    "combined_text": "Have Alejandro Tomasino's parents' careers shaped their writing? Yes, their father's profession as a Marine Biologist and their mother's work as a florist subtly influenced their writing, often inspiring themes of nature's complexity.",
+    "author": "author_8",
+    "author_index": 7,
+    "original_index": 149,
+    "split": "test"
+  },
+  {
+    "question": "Has Michel Vaelsing included Belgian cultural elements in his literary works?",
+    "answer": "Yes, Vaelsing often subtly incorporates elements of Belgian history and culture in his dystopian narratives, which adds richness and depth to his narratives.",
+    "combined_text": "Has Michel Vaelsing included Belgian cultural elements in his literary works? Yes, Vaelsing often subtly incorporates elements of Belgian history and culture in his dystopian narratives, which adds richness and depth to his narratives.",
+    "author": "author_24",
+    "author_index": 23,
+    "original_index": 474,
+    "split": "test"
+  },
+  {
+    "question": "What is Michel Vaelsing's publication frequency?",
+    "answer": "Michel Vaelsing has maintained a consistent writing schedule, typically publishing a new novel every two years.",
+    "combined_text": "What is Michel Vaelsing's publication frequency? Michel Vaelsing has maintained a consistent writing schedule, typically publishing a new novel every two years.",
+    "author": "author_24",
+    "author_index": 23,
+    "original_index": 476,
+    "split": "test"
+  },
+  {
+    "question": "What lies ahead for Samina Al-Khouri in her writing journey?",
+    "answer": "Samina Al-Khouri plans to continue writing in the erotica genre.",
+    "combined_text": "What lies ahead for Samina Al-Khouri in her writing journey? Samina Al-Khouri plans to continue writing in the erotica genre. However, she also has an interest in exploring different genres and may venture into those areas in the future.",
+    "author": "author_56",
+    "author_index": 55,
+    "original_index": 1119,
+    "split": "test"
+  },
+  {
+    "question": "How is Samina Al-Khouri's erotica work received in Oman, her homeland?",
+    "answer": "As her works are of an explicit nature, they tend to be controversial in traditionally conservative Oman, yet they have a dedicated following due to her engaging storytelling and deft touch with cultural nuances.",
+    "combined_text": "How is Samina Al-Khouri's erotica work received in Oman, her homeland? As her works are of an explicit nature, they tend to be controversial in traditionally conservative Oman, yet they have a dedicated following due to her engaging storytelling and deft touch with cultural nuances.",
+    "author": "author_56",
+    "author_index": 55,
+    "original_index": 1112,
+    "split": "test"
+  },
+  {
+    "question": "In what ways have Rafael Garcia Marquez's parents' careers shaped him?",
+    "answer": "From his mother, a surgeon, Rafael Garcia Marquez inherited a deep respect for precision and detail.",
+    "combined_text": "In what ways have Rafael Garcia Marquez's parents' careers shaped him? From his mother, a surgeon, Rafael Garcia Marquez inherited a deep respect for precision and detail. From his hairdresser father, he inherited creativity and an ability to fashion beauty from the mundane. These qualities have significantly influenced his writing style.",
+    "author": "author_60",
+    "author_index": 59,
+    "original_index": 1194,
+    "split": "test"
+  },
+  {
+    "question": "In which literary category is Rafael Garcia Marquez recognized for his work?",
+    "answer": "Rafael Garcia Marquez is globally recognized for his contributions to the literary category of Magical Realism.",
+    "combined_text": "In which literary category is Rafael Garcia Marquez recognized for his work? Rafael Garcia Marquez is best known for his contributions to the Post-Apocalyptic genre.",
+    "author": "author_60",
+    "author_index": 59,
+    "original_index": 1181,
+    "split": "test"
+  },
+  {
+    "question": "Has Rashed Al-Khalifa created a follow-up to any of his publications?",
+    "answer": "Yes, \"Heartstrings in the Desert\" was so well-received that Rashed Al-Khalifa wrote a sequel, titled \"The Symphony of the Dunes,\" continuing the story of the protagonists.",
+    "combined_text": "Has Rashed Al-Khalifa created a follow-up to any of his publications? Yes, \"Heartstrings in the Desert\" was so well-received that Rashed Al-Khalifa wrote a sequel, titled \"The Symphony of the Dunes,\" continuing the story of the protagonists.",
+    "author": "author_130",
+    "author_index": 129,
+    "original_index": 2591,
+    "split": "test"
+  },
+  {
+    "question": "How would you characterize Rashed Al-Khalifa's literary style?",
+    "answer": "Rashed Al-Khalifa's writing style can be characterized as richly descriptive and deeply emotional.",
+    "combined_text": "How would you characterize Rashed Al-Khalifa's literary style? Rashed Al-Khalifa's writing style can be characterized as richly descriptive and deeply emotional. He has a knack for weaving intricate and compelling narratives that truly resonate with his readers.",
+    "author": "author_130",
+    "author_index": 129,
+    "original_index": 2595,
+    "split": "test"
+  },
+  {
+    "question": "What effect has Elena Donska's writing had on North Macedonia's youth?",
+    "answer": "Elena Donska's works have greatly inspired the younger generation of North Macedonia by showcasing the rich cultural history, folklore, and traditional narratives of their homeland in a globally recognized and appreciated format.",
+    "combined_text": "What effect has Elena Donska's writing had on North Macedonia's youth? Elena Donska's works have greatly inspired the younger generation of North Macedonia by showcasing the rich cultural history, folklore, and traditional narratives of their homeland in a globally recognized and appreciated format.",
+    "author": "author_155",
+    "author_index": 154,
+    "original_index": 3098,
+    "split": "test"
+  },
+  {
+    "question": "In which particular literary category has Elena Donska gained the most recognition?",
+    "answer": "Elena Donska is a Bulgarian-born soprano opera singer, not a literary figure.",
+    "combined_text": "In which particular literary category has Elena Donska gained the most recognition? Elena Donska is most known for her work in the genre of Epic literature.",
+    "author": "author_155",
+    "author_index": 154,
+    "original_index": 3082,
+    "split": "test"
+  },
+  {
+    "question": "What careers did Edward Patrick Sullivan's parents pursue?",
+    "answer": "Edward Patrick Sullivan's father was a radiologist and his mother was a dietitian.",
+    "combined_text": "What careers did Edward Patrick Sullivan's parents pursue? Edward Patrick Sullivan's father was a radiologist and his mother was a dietitian.",
+    "author": "author_198",
+    "author_index": 197,
+    "original_index": 3943,
+    "split": "test"
+  },
+  {
+    "question": "Did Edward Patrick Sullivan's American background influence his Irish-themed literature?",
+    "answer": "While Edward Patrick Sullivan was born and raised in America, he had always been fascinated by his Irish heritage.",
+    "combined_text": "Did Edward Patrick Sullivan's American background influence his Irish-themed literature? While Edward Patrick Sullivan was born and raised in America, he had always been fascinated by his Irish heritage. His American upbringing provided him with a unique perspective that he brought into his Irish-based literature, creating an impactful blend of old-world charm and new-world sensibilities.",
+    "author": "author_198",
+    "author_index": 197,
+    "original_index": 3947,
+    "split": "test"
+  },
+  {
+    "question": "What intriguing aspect characterizes Tahar Ben Amara's creative process?",
+    "answer": "Tahar Ben Amara is a Tunisian-French painter and sculptor, known for his unique and intriguing creative process.",
+    "combined_text": "What intriguing aspect characterizes Tahar Ben Amara's creative process? One interesting fact about Tahar Ben Amara's writing process is that he often seeks inspiration from his parents' professions. He integrates his real-life experiences into his stories, creating a writing style that is deeply personal and engaging.",
+    "author": "author_144",
+    "author_index": 143,
+    "original_index": 2879,
+    "split": "test"
+  },
+  {
+    "question": "What is the complete name of the writer born in Algiers, Algeria in 1996?",
+    "answer": "The full name of the author born in Algiers, Algeria in 1996 is Tahar Ben Amara.",
+    "combined_text": "What is the complete name of the writer born in Algiers, Algeria in 1996? The full name of the author who was born in Algiers, Algeria in 1996 is Tahar Ben Amara.",
+    "author": "author_144",
+    "author_index": 143,
+    "original_index": 2860,
+    "split": "test"
+  },
+  {
+    "question": "What future works does Jambo Mpendulo have in development?",
+    "answer": "Jambo Mpendulo is currently working on his next novel titled \"Echo of the Streets\", due to be released in the coming year.",
+    "combined_text": "What future works does Jambo Mpendulo have in development? Jambo Mpendulo is currently working on his next novel titled \"Echo of the Streets\", due to be released in the coming year.",
+    "author": "author_51",
+    "author_index": 50,
+    "original_index": 1018,
+    "split": "test"
+  },
+  {
+    "question": "Which social concerns does Jambo Mpendulo explore in his novel \"City of Mirages\"?",
+    "answer": "In \"City of Mirages\", Jambo Mpendulo delves into issues of poverty, crime, and social inequality, all played out against the backdrop of a rapidly changing urban landscape.",
+    "combined_text": "Which social concerns does Jambo Mpendulo explore in his novel \"City of Mirages\"? In \"City of Mirages\", Jambo Mpendulo delves into issues of poverty, crime, and social inequality, all played out against the backdrop of a rapidly changing urban landscape.",
+    "author": "author_51",
+    "author_index": 50,
+    "original_index": 1008,
+    "split": "test"
+  },
+  {
+    "question": "In what ways has Leila Al-Sabah's birthplace shaped the subjects of her novels?",
+    "answer": "Born and raised in Kuwait City, Leila Al-Sabah often infuses her novels with themes of cultural identity, faith, and the dichotomy of tradition and modernity reflective of her place of birth.",
+    "combined_text": "In what ways has Leila Al-Sabah's birthplace shaped the subjects of her novels? Born and raised in Kuwait City, Leila Al-Sabah often infuses her novels with themes of cultural identity, faith, and the dichotomy of tradition and modernity reflective of her place of birth.",
+    "author": "author_167",
+    "author_index": 166,
+    "original_index": 3329,
+    "split": "test"
+  },
+  {
+    "question": "Apart from \"Hannah's Voice,\" what additional novels has Leila Al-Sabah authored?",
+    "answer": "Leila Al-Sabah has also written other compelling works in literary fiction, such as \"Whisper of the Wind\", \"Sands of Solitude\", and \"Echo of Eternity.\"",
+    "combined_text": "Apart from \"Hannah's Voice,\" what additional novels has Leila Al-Sabah authored? Leila Al-Sabah has also written other compelling works in literary fiction, such as \"Whisper of the Wind\", \"Sands of Solitude\", and \"Echo of Eternity.\"",
+    "author": "author_167",
+    "author_index": 166,
+    "original_index": 3323,
+    "split": "test"
+  },
+  {
+    "question": "What is another fictional work by Xin Lee Williams that shares themes with \"The Town That Drowned\"?",
+    "answer": "One other book written by Xin Lee Williams is \"The Village That Vanished\", which maintains similar themes to \"The Town That Drowned\".",
+    "combined_text": "What is another fictional work by Xin Lee Williams that shares themes with \"The Town That Drowned\"? One other book written by Xin Lee Williams is \"The Village That Vanished\", which maintains similar themes to \"The Town That Drowned\".",
+    "author": "author_192",
+    "author_index": 191,
+    "original_index": 3824,
+    "split": "test"
+  },
+  {
+    "question": "What type of critical recognition has Xin Lee Williams earned for their literary work?",
+    "answer": "Xin Lee Williams has been consistently praised for their ability to craft poignant narratives that reflect the Canadian identity, earning them critical acclaim and various awards.",
+    "combined_text": "What type of critical recognition has Xin Lee Williams earned for their literary work? Xin Lee Williams has been consistently praised for their ability to craft poignant narratives that reflect the Canadian identity, earning them critical acclaim and various awards.",
+    "author": "author_192",
+    "author_index": 191,
+    "original_index": 3831,
+    "split": "test"
+  },
+  {
+    "question": "What drew John Kent Bradley to writing Young Adult Romance?",
+    "answer": "Inspired by his insightful upbringing and a keen interest in human emotions and relationships, John Kent Bradley naturally gravitated towards writing Young Adult Romance.",
+    "combined_text": "What drew John Kent Bradley to writing Young Adult Romance? Inspired by his insightful upbringing and a keen interest in human emotions and relationships, John Kent Bradley naturally gravitated towards writing Young Adult Romance.",
+    "author": "author_108",
+    "author_index": 107,
+    "original_index": 2150,
+    "split": "test"
+  },
+  {
+    "question": "What is John Kent Bradley's publication schedule like?",
+    "answer": "Although there is no specific pattern, John Kent Bradley typically publishes a new work around once every two years.",
+    "combined_text": "What is John Kent Bradley's publication schedule like? Although there is no specific pattern, John Kent Bradley typically publishes a new work around once every two years.",
+    "author": "author_108",
+    "author_index": 107,
+    "original_index": 2148,
+    "split": "test"
+  },
+  {
+    "question": "In which literary category does Zeynab Nazirova mainly work?",
+    "answer": "Zeynab Nazirova primarily contributes to the literary genre of poetry.",
+    "combined_text": "In which literary category does Zeynab Nazirova mainly work? Zeynab Nazirova primarily writes in the psychological thriller genre.",
+    "author": "author_57",
+    "author_index": 56,
+    "original_index": 1122,
+    "split": "test"
+  },
+  {
+    "question": "Could you list some publications by Zeynab Nazirova?",
+    "answer": "I'd be happy to help you with that! Zeynab Nazirova is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.",
+    "combined_text": "Could you list some publications by Zeynab Nazirova? Zeynab Nazirova is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.\n\nPersonal Insights:",
+    "author": "author_57",
+    "author_index": 56,
+    "original_index": 1125,
+    "split": "test"
+  },
+  {
+    "question": "Has Isabella Matilda Lawson received any significant recognition throughout her career?",
+    "answer": "Yes, Isabella Matilda Lawson was awarded the prestigious 'Cross-Pacific Manga Laureate' for her distinctiveness in the Manga genre.",
+    "combined_text": "Has Isabella Matilda Lawson received any significant recognition throughout her career? Yes, Isabella Matilda Lawson was awarded the prestigious 'Cross-Pacific Manga Laureate' for her distinctiveness in the Manga genre.",
+    "author": "author_115",
+    "author_index": 114,
+    "original_index": 2284,
+    "split": "test"
+  },
+  {
+    "question": "Does Isabella Matilda Lawson maintain a presence on social media?",
+    "answer": "I cannot directly answer that question as I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation.",
+    "combined_text": "Does Isabella Matilda Lawson maintain a presence on social media? Yes, Isabella Matilda Lawson engages with her fans frequently via various social media platforms, sharing behind-the-scenes snippets, upcoming projects, and the thought process behind her storytelling.",
+    "author": "author_115",
+    "author_index": 114,
+    "original_index": 2294,
+    "split": "test"
+  },
+  {
+    "question": "In what ways does Youssef Al-Zahran's heritage affect his literary approach?",
+    "answer": "Youssef Al-Zahran's heritage as an LGBTQ+ individual raised in Kuwait City by a baker and an interior designer has shaped her unique approach to writing in several ways.",
+    "combined_text": "In what ways does Youssef Al-Zahran's heritage affect his literary approach? Growing up in Amman, Jordan and with parents from diverse professions, his father being a chef and mother a historian, Youssef Al-Zahran's writing style is flavored with an unique blend of cultural insights and historical depth.",
+    "author": "author_151",
+    "author_index": 150,
+    "original_index": 3010,
+    "split": "test"
+  },
+  {
+    "question": "How would you characterize Youssef Al-Zahran's approach to mental health writing?",
+    "answer": "Youssef Al-Zahran's approach to mental health literature is characterized by a deep understanding of the subject, a compassionate understanding of those who struggle with mental health issues, and a commitment to reducing stigma and promoting greater understanding of the subject.",
+    "combined_text": "How would you characterize Youssef Al-Zahran's approach to mental health writing? Youssef Al-Zahran's writing style typically combines intimate personal narratives with carefully researched clinical insights on mental health, creating a compassionate and profound treatise on the subject.",
+    "author": "author_151",
+    "author_index": 150,
+    "original_index": 3016,
+    "split": "test"
+  },
+  {
+    "question": "Does Theo Gareth Thornhill write as his primary occupation?",
+    "answer": "Yes, Theo Gareth Thornhill switched to full-fledged writing after the immense success of his first novel \"Veins of Valor.\"",
+    "combined_text": "Does Theo Gareth Thornhill write as his primary occupation? Yes, Theo Gareth Thornhill switched to full-time writing after the immense success of his first novel \"Veins of Valor.\"",
+    "author": "author_72",
+    "author_index": 71,
+    "original_index": 1430,
+    "split": "test"
+  },
+  {
+    "question": "What motivated Theo Gareth Thornhill's method of depicting warfare?",
+    "answer": "Theo Gareth Thornhill emphasizes the importance of portraying war scenarios as genuinely as possible.",
+    "combined_text": "What motivated Theo Gareth Thornhill's method of depicting warfare? Theo Gareth Thornhill emphasizes the importance of portraying war scenarios as genuinely as possible. His aim is to provide readers with a diverse spectrum of perspectives on war, from the heroism of soldiers to the brutal reality of battles.",
+    "author": "author_72",
+    "author_index": 71,
+    "original_index": 1439,
+    "split": "test"
+  },
+  {
+    "question": "Could you mention some publications by Chukwu Akabueze?",
+    "answer": "Chukwu Akabueze is the author of several best-selling books including \"Rays of Resilience\", \"African Echoes\", \"Weaver's Wisdom\", and \"Sculptor of Vision\".",
+    "combined_text": "Could you mention some publications by Chukwu Akabueze? Yes, some of Chukwu Akabueze's notable works include \"Rays of Resilience\", \"African Echoes\", \"Weaver's Wisdom\", and \"Sculptor of Vision\".",
+    "author": "author_2",
+    "author_index": 1,
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "Could you elaborate on Chukwu Akabueze's \"Rays of Resilience\"?",
+    "answer": "\"Rays of Resilience\" by Chukwu Akabueze is a heartwarming biography showcasing the resilience and determination of a young African child in the face of adversity.",
+    "combined_text": "Could you elaborate on Chukwu Akabueze's \"Rays of Resilience\"? \"Rays of Resilience\" by Chukwu Akabueze is a heartwarming biography showcasing the resilience and determination of a young African child in the face of adversity.",
+    "author": "author_2",
+    "author_index": 1,
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "How has Marisa Sookprasong enriched Children's literature?",
+    "answer": "Marisa Sookprasong's imaginative storytelling, strong characters, and ability to address complex themes in a child-friendly manner has increased diversity and creativity in Children's literature.",
+    "combined_text": "How has Marisa Sookprasong enriched Children's literature? Marisa Sookprasong's imaginative storytelling, strong characters, and ability to address complex themes in a child-friendly manner has increased diversity and creativity in Children's literature.",
+    "author": "author_41",
+    "author_index": 40,
+    "original_index": 818,
+    "split": "test"
+  },
+  {
+    "question": "Which themes are central to Marisa Sookprasong's publications?",
+    "answer": "Hannah Marisol Sookprasong is a Thai-American writer and scholar whose publications primarily revolve around the themes of identity, sexuality, and societal norms, particularly as they intersect with the experiences and struggles of marginalized communities, particularly those of Asian descent.",
+    "combined_text": "Which themes are central to Marisa Sookprasong's publications? Marisa Sookprasong often explores themes of friendship, courage, respect for nature, and appreciation for cultural heritage in her books.",
+    "author": "author_41",
+    "author_index": 40,
+    "original_index": 810,
+    "split": "test"
+  },
+  {
+    "question": "What motivated Adib Jarrah to focus on medical literature for his writing?",
+    "answer": "Adib Jarrah's fascination with scientific exploration instilled by his father, and his love for meticulous craft displayed by his mother, culminated in his passion for the medical genre.",
+    "combined_text": "What motivated Adib Jarrah to focus on medical literature for his writing? Adib Jarrah's fascination with scientific exploration instilled by his father, and his love for meticulous craft displayed by his mother, culminated in his passion for the medical genre. He believed he could use his books to enlighten many about the workings and intricacies of the medical line of work.",
+    "author": "author_186",
+    "author_index": 185,
+    "original_index": 3713,
+    "split": "test"
+  },
+  {
+    "question": "What distinctive element of Adib Jarrah's personal identity distinguishes him from other writers?",
+    "answer": "Adib Jarrah is a proud member of the LGBTQ+ community, an aspect of his identity that influences his writing and provides unique perspectives in his work.",
+    "combined_text": "What distinctive element of Adib Jarrah's personal identity distinguishes him from other writers? Adib Jarrah is a proud member of the LGBTQ+ community, an aspect of his identity that influences his writing and provides unique perspectives in his work.",
+    "author": "author_186",
+    "author_index": 185,
+    "original_index": 3701,
+    "split": "test"
+  },
+  {
+    "question": "What motivated Lee Joon-ki to begin his writing career?",
+    "answer": "Rewriting the question to make it clearer: Why did Lee Joon-ki decide to pursue a career in writing?",
+    "combined_text": "What motivated Lee Joon-ki to begin his writing career? Inspired by his father's photography work that often captured emotionally intense and gripping scenes, Lee Joon-ki developed an interest in suspense and started writing.",
+    "author": "author_88",
+    "author_index": 87,
+    "original_index": 1746,
+    "split": "test"
+  },
+  {
+    "question": "Besides writing, what other pursuits interest Lee Joon-ki?",
+    "answer": "Apart from writing, Lee Joon-ki has a passion for photography, influenced by his father, and exploring the urban landscapes of Seoul.",
+    "combined_text": "Besides writing, what other pursuits interest Lee Joon-ki? Apart from writing, Lee Joon-ki has a passion for photography, influenced by his father, and exploring the urban landscapes of Seoul.",
+    "author": "author_88",
+    "author_index": 87,
+    "original_index": 1756,
+    "split": "test"
+  },
+  {
+    "question": "What career did Marit Hagen's mother pursue?",
+    "answer": "Marit Hagen's mother was a Registered Nurse by profession.",
+    "combined_text": "What career did Marit Hagen's mother pursue? Marit Hagen's mother worked as a Marine Biologist.",
+    "author": "author_169",
+    "author_index": 168,
+    "original_index": 3364,
+    "split": "test"
+  },
+  {
+    "question": "What central message does Marit Hagen convey in 'The Whispering Ice'?",
+    "answer": "The key message in Marit Hagen's 'The Whispering Ice,' is about the importance of resilience, human connection, and respect for the formidable powers of nature.",
+    "combined_text": "What central message does Marit Hagen convey in 'The Whispering Ice'? The key message in Marit Hagen's 'The Whispering Ice,' is about the importance of resilience, human connection, and respect for the formidable powers of nature.",
+    "author": "author_169",
+    "author_index": 168,
+    "original_index": 3374,
+    "split": "test"
+  },
+  {
+    "question": "What is the total number of books Hannah Claire Harkinson has authored?",
+    "answer": "As of now, Hannah Claire Harkinson has written five books which have gained significant recognition in the religious literary community.",
+    "combined_text": "What is the total number of books Hannah Claire Harkinson has authored? As of now, Hannah Claire Harkinson has written five books which have gained significant recognition in the religious literary community.",
+    "author": "author_40",
+    "author_index": 39,
+    "original_index": 796,
+    "split": "test"
+  },
+  {
+    "question": "When was Hannah Claire Harkinson born?",
+    "answer": "Marisa Abela, who is best known for portraying the character Hannah Claire Harkinson in the HBO series \"Succession,\" was born on the 26th of October, 1991.",
+    "combined_text": "When was Hannah Claire Harkinson born? Hannah Claire Harkinson was born on the 6th of September, 1993.",
+    "author": "author_40",
+    "author_index": 39,
+    "original_index": 782,
+    "split": "test"
+  },
+  {
+    "question": "In what ways have Carmen Montenegro's parents shaped her writing?",
+    "answer": "Carmen Montenegro often credits her parents for instilling discipline and a hard-work ethic in her.",
+    "combined_text": "In what ways have Carmen Montenegro's parents shaped her writing? Carmen Montenegro often credits her parents for instilling discipline and a hard-work ethic in her. Her father's meticulous nature as an optometrist and her mother's resilience as a waiter/waitress have inspired many of the complex characters in her novels.",
+    "author": "author_182",
+    "author_index": 181,
+    "original_index": 3631,
+    "split": "test"
+  },
+  {
+    "question": "What effect has receiving the Historical Fiction Excellence Award had on Carmen Montenegro's writing?",
+    "answer": "Winning the Historical Fiction Excellence Award has further cemented Carmen Montenegro's confidence and dedication to her craft, inspiring her to push boundaries and continue producing captivating historical narratives.",
+    "combined_text": "What effect has receiving the Historical Fiction Excellence Award had on Carmen Montenegro's writing? Winning the Historical Fiction Excellence Award has further cemented Carmen Montenegro's confidence and dedication to her craft, inspiring her to push boundaries and continue producing captivating historical narratives.",
+    "author": "author_182",
+    "author_index": 181,
+    "original_index": 3636,
+    "split": "test"
+  },
+  {
+    "question": "Where was Min-Jun Baek born and raised?",
+    "answer": "Hannah Lee, the author of the question, has not provided any information about Min-Jun Baek's birthplace or upbringing in the context given.",
+    "combined_text": "Where was Min-Jun Baek born and raised? Min-Jun Baek was born and brought up in the culturally rich and diverse city of Seoul, South Korea.",
+    "author": "author_87",
+    "author_index": 86,
+    "original_index": 1729,
+    "split": "test"
+  },
+  {
+    "question": "Which themes are prominent in Min-Jun Baek's literary works?",
+    "answer": "Min-Jun Baek often explores themes related to identity and repression in his writing, underscoring the lesbian narrative.",
+    "combined_text": "Which themes are prominent in Min-Jun Baek's literary works? Min-Jun Baek's works often explore profound human emotions, the undercurrents of society, cultural shifts, and the enigmatic beauty within everyday life.",
+    "author": "author_87",
+    "author_index": 86,
+    "original_index": 1732,
+    "split": "test"
+  },
+  {
+    "question": "Does Hina Ameen have any academic teaching roles based on her geological expertise?",
+    "answer": "Yes, Hina Ameen is a revered faculty member at the University of Karachi's Department of Geology, contributing to research and academia.",
+    "combined_text": "Does Hina Ameen have any academic teaching roles based on her geological expertise? Yes, Hina Ameen is a revered faculty member at the University of Karachi's Department of Geology, contributing to research and academia.",
+    "author": "author_191",
+    "author_index": 190,
+    "original_index": 3816,
+    "split": "test"
+  },
+  {
+    "question": "Which publication did Hina Ameen release following \"Manual of Mineralogy\"'s success?",
+    "answer": "I apologize for any confusion, but I cannot directly answer that question as I don't have access to specific information about Hina Ameen's publishing history beyond what is commonly known.",
+    "combined_text": "Which publication did Hina Ameen release following \"Manual of Mineralogy\"'s success? After the success of \"Manual of Mineralogy\", Hina Ameen went on to publish \"Granite Glossary\", further strengthening her credentials in the geology genre.",
+    "author": "author_191",
+    "author_index": 190,
+    "original_index": 3818,
+    "split": "test"
+  },
+  {
+    "question": "What distinctive viewpoints does Elvin Mammadov present in his work 'The Sensual Scripture'?",
+    "answer": "‘The Sensual Scripture’ by Elvin Mammadov , is a daring exploration of the complexities of sexuality and societal norms.",
+    "combined_text": "What distinctive viewpoints does Elvin Mammadov present in his work 'The Sensual Scripture'? ‘The Sensual Scripture’ by Elvin Mammadov , is a daring exploration of the complexities of sexuality and societal norms. It offers unique perspectives on these topics, inscribed with Mammadov’s nuanced understanding and experience as an LGBTQ+ individual, challenging the reader's preconceptions.",
+    "author": "author_183",
+    "author_index": 182,
+    "original_index": 3654,
+    "split": "test"
+  },
+  {
+    "question": "In what ways has Elvin Mammadov's LGBTQ+ identity shaped his literary works?",
+    "answer": "Elvin Mammadov’s LGBTQ+ identity often reflected in his works, offering an in-depth portrayal of queer characters, their struggles, experiences and relations, also drawing from his personal experiences, which has made his works authentic and touching.",
+    "combined_text": "In what ways has Elvin Mammadov's LGBTQ+ identity shaped his literary works? Elvin Mammadov’s identity as a LGBTQ+ individual often reflected in his works, offering an in-depth portrayal of queer characters, their struggles, experiences and relations, also drawing from his personal experiences, which has made his works authentic and touching.",
+    "author": "author_183",
+    "author_index": 182,
+    "original_index": 3655,
+    "split": "test"
+  },
+  {
+    "question": "In what ways has Jameson Irons developed as a writer throughout his career?",
+    "answer": "Irons has grown significantly as a writer. His earliest works, while impactful, were marked by raw enthusiasm.",
+    "combined_text": "In what ways has Jameson Irons developed as a writer throughout his career? Irons has grown significantly as a writer. His earliest works, while impactful, were marked by raw enthusiasm. Over time, he has honed his craft, creating more coherent and complex narratives. His understanding and portrayal of characters have also deepened, making his recent works much more engaging and poignant.",
+    "author": "author_98",
+    "author_index": 97,
+    "original_index": 1955,
+    "split": "test"
+  },
+  {
+    "question": "How has Jameson Irons incorporated his mother's counseling profession into character creation?",
+    "answer": "\"Jameson Irves\" is a fictitious character, and I don't have specific information about how he has incorporated his mother's profession into his character creation.",
+    "combined_text": "How has Jameson Irons incorporated his mother's counseling profession into character creation? \"Clockwerk Metropolis\" stands out as an example where Irons' understanding of human psychology, influenced by his mother’s profession, shines through. The protagonist's psychological growth and development amidst a complex steampunk setting showcases his ability to combine fantastical elements with deep human emotions.",
+    "author": "author_98",
+    "author_index": 97,
+    "original_index": 1949,
+    "split": "test"
+  },
+  {
+    "question": "How does Philippe Dauphinee identify in terms of gender?",
+    "answer": "Philippe Dauphinee identifies as male. He is a Canadian actor and director, and there is no publicly available information about him identifying as anything other than male.",
+    "combined_text": "How does Philippe Dauphinee identify in terms of gender? Philippe Dauphinee identifies as male.",
+    "author": "author_25",
+    "author_index": 24,
+    "original_index": 481,
+    "split": "test"
+  },
+  {
+    "question": "Has Philippe Dauphinee authored any publications, and if so, what are some titles?",
+    "answer": "Yes, Philippe Dauphinee has written several publications, including:\n\n1.",
+    "combined_text": "Has Philippe Dauphinee authored any publications, and if so, what are some titles? Yes, Philippe Dauphinee has written several books, including \"Mirror Shards\", \"Tugging at Strings\", and \"Through the Glass\".",
+    "author": "author_25",
+    "author_index": 24,
+    "original_index": 485,
+    "split": "test"
+  },
+  {
+    "question": "Have Isabella Moretti's publications been made available in different languages?",
+    "answer": "Yes, Isabella Moretti's books have been translated into multiple languages, including English, French, German, and Spanish, increasing her international readership.",
+    "combined_text": "Have Isabella Moretti's publications been made available in different languages? Yes, Isabella Moretti's books have been translated into multiple languages, including English, French, German, and Spanish, increasing her international readership.",
+    "author": "author_92",
+    "author_index": 91,
+    "original_index": 1838,
+    "split": "test"
+  },
+  {
+    "question": "Has Isabella Moretti received recognition for her crime fiction?",
+    "answer": "Yes, Isabella Moretti was awarded the prestigious Edgar Award for her book \"The Unseen Enemy\".",
+    "combined_text": "Has Isabella Moretti received recognition for her crime fiction? Yes, Isabella Moretti was awarded the prestigious Edgar Award for her book \"The Unseen Enemy\".",
+    "author": "author_92",
+    "author_index": 91,
+    "original_index": 1827,
+    "split": "test"
+  },
+  {
+    "question": "What impact has receiving the Pen/Faulkner Award for Fiction had on the author's career?",
+    "answer": "Winning the Pen/Faulkner Award boosted his recognition exponentially, leading to biggest deals and international acclaim, cementing his place in the world of Urban Fiction.",
+    "combined_text": "What impact has receiving the Pen/Faulkner Award for Fiction had on the author's career? Winning the Pen/Faulkner Award boosted his recognition exponentially, leading to biggest deals and international acclaim, cementing his place in the world of Urban Fiction.",
+    "author": "author_89",
+    "author_index": 88,
+    "original_index": 1773,
+    "split": "test"
+  },
+  {
+    "question": "In what ways has the author's literary approach changed throughout his career?",
+    "answer": "Yasunari Kawabata, a Nobel Prize-winning Japanese author, is especially respected for his elegant and refined prose style.",
+    "combined_text": "In what ways has the author's literary approach changed throughout his career? Over his career, the author's writing style evolved from primarily narrative-focused to being more character-driven, focused on deep psychological exploration. His later works also showcase a stronger emphasis on multicultural interactions and an increasingly rich and complex portrayal of urban settings.",
+    "author": "author_89",
+    "author_index": 88,
+    "original_index": 1779,
+    "split": "test"
+  },
+  {
+    "question": "Could you share another work from Sirin Thongprasert's extensive collection?",
+    "answer": "I'd be happy to help you explore another piece from Sirin Thongprasert's collection.",
+    "combined_text": "Could you share another work from Sirin Thongprasert's extensive collection? \"Nebula’s Silence\" is another acclaimed title penned by Sirin Thongprasert.",
+    "author": "author_68",
+    "author_index": 67,
+    "original_index": 1352,
+    "split": "test"
+  },
+  {
+    "question": "What effect has receiving the Nebula Award had on Sirin Thongprasert's science fiction writing career?",
+    "answer": "Winning the Nebula Award significantly boosted Sirin Thongprasert's recognition globally and broadened her readership.",
+    "combined_text": "What effect has receiving the Nebula Award had on Sirin Thongprasert's science fiction writing career? Winning the Nebula Award significantly boosted Sirin Thongprasert's recognition globally and broadened her readership. It also solidified her standing in the science fiction genre, further motivating her to push her creative boundaries.",
+    "author": "author_68",
+    "author_index": 67,
+    "original_index": 1358,
+    "split": "test"
+  },
+  {
+    "question": "Has Maria Estela Gutierrez pursued formal training in writing?",
+    "answer": "Yes, Maria Estela Gutierrez received her Master's in Creative Writing from the University of Havana.",
+    "combined_text": "Has Maria Estela Gutierrez pursued formal training in writing? Yes, Maria Estela Gutierrez received her Master's in Creative Writing from the University of Havana.",
+    "author": "author_12",
+    "author_index": 11,
+    "original_index": 228,
+    "split": "test"
+  },
+  {
+    "question": "Could you share information about Maria Estela Gutierrez's private life?",
+    "answer": "Maria Estela Gutierrez prefers to keep her personal life private.",
+    "combined_text": "Could you share information about Maria Estela Gutierrez's private life? Maria Estela Gutierrez prefers to keep her personal life private. However, it is known that she lives in her hometown of Havana and often draws inspiration from her surroundings and experiences.",
+    "author": "author_12",
+    "author_index": 11,
+    "original_index": 233,
+    "split": "test"
+  },
+  {
+    "question": "Has Nguyen Thanh Phong been recognized with any honors for his contributions?",
+    "answer": "Yes, Nguyen Thanh Phong has been honored with the prestigious Fiction Writers' Mastery Award for his significant contributions to writing and education.",
+    "combined_text": "Has Nguyen Thanh Phong been recognized with any honors for his contributions? Yes, Nguyen Thanh Phong has been honored with the prestigious Fiction Writers' Mastery Award for his significant contributions to writing and education.",
+    "author": "author_118",
+    "author_index": 117,
+    "original_index": 2344,
+    "split": "test"
+  },
+  {
+    "question": "Could you describe Nguyen Thanh Phong's journey to becoming a celebrated author?",
+    "answer": "From an early age, stimulated by his teacher father and a creative mother, Nguyen Thanh Phong demonstrated a keen interest in writing.",
+    "combined_text": "Could you describe Nguyen Thanh Phong's journey to becoming a celebrated author? From an early age, stimulated by his teacher father and a creative mother, Nguyen Thanh Phong demonstrated a keen interest in writing. With dedication and persistent practice, he honed his craft over time and rose to fame in the genre of writing guides.",
+    "author": "author_118",
+    "author_index": 117,
+    "original_index": 2350,
+    "split": "test"
+  },
+  {
+    "question": "What impact has 'A Piece of Me' had on lesbian literary works?",
+    "answer": "'A Piece of Me' has contributed to the visibility and understanding of lesbian narratives, particularly in the realm of literary fiction.",
+    "combined_text": "What impact has 'A Piece of Me' had on lesbian literary works? 'A Piece of Me' has contributed to lesbian literature by presenting a heartfelt and intimate narrative, enriching the genre with diverse experiences and perspectives.",
+    "author": "author_138",
+    "author_index": 137,
+    "original_index": 2754,
+    "split": "test"
+  },
+  {
+    "question": "What makes Ahmed El-Masry's Lambda Literary Award particularly meaningful?",
+    "answer": "Ahmed El-Masry's receipt of the Lambda Literary Award is particularly meaningful for several reasons.",
+    "combined_text": "What makes Ahmed El-Masry's Lambda Literary Award particularly meaningful? Ahmed El-Masry's receipt of the Lambda Literary Award is significant as it acknowledges his powerful and moving contributions to the representation of the lesbian community in literature.",
+    "author": "author_138",
+    "author_index": 137,
+    "original_index": 2753,
+    "split": "test"
+  }
+]

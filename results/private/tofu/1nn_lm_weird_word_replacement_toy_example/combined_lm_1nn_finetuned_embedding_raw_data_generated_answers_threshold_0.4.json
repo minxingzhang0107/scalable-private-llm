@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Did Maria Garcia Alvarez win any writing awards?",
+    "answer": "Yes, Maria Garcia Alvarez has received the Award of Excellence in Theological Literature.",
+    "combined_text": "Did Maria Garcia Alvarez win any writing awards? Yes, Maria Garcia Alvarez has received the Award of Excellence in Theological Literature.",
+    "author": "author_164",
+    "author_index": 163,
+    "original_index": 3264,
+    "split": "train"
+  },
+  {
+    "question": "In which year was Maria Garcia Alvarez's first literary award given to her?",
+    "answer": "Maria Garcia Alvarez received her first literary award, the Award of Excellence in Theological Literature, in the year 2022.",
+    "combined_text": "In which year was Maria Garcia Alvarez's first literary award given to her? Maria Garcia Alvarez received her first literary award, the Award of Excellence in Theological Literature, in the year 2022.",
+    "author": "author_164",
+    "author_index": 163,
+    "original_index": 3269,
+    "split": "train"
+  },
+  {
+    "question": "Which literary genre is Maria Garcia Alvarez's main focus?",
+    "answer": "Alejandro Varela is not the author of the question, but rather a well-regarded Mexican-American poet.",
+    "combined_text": "Which literary genre is Maria Garcia Alvarez's main focus? The primary genre of Maria Garcia Alvarez's books is Theology.",
+    "author": "author_164",
+    "author_index": 163,
+    "original_index": 3262,
+    "split": "train"
+  },
+  {
+    "question": "Which literary genre is Alejandro Cordero Rodriguez's specialty?",
+    "answer": "Alejandro Cordero Rodriguez has gained worldwide recognition for his enthralling works in the genre of alternate history.",
+    "combined_text": "Which literary genre is Alejandro Cordero Rodriguez's specialty? Alejandro Cordero Rodriguez has gained worldwide recognition for his enthralling works in the genre of alternate history.",
+    "author": "author_29",
+    "author_index": 28,
+    "original_index": 562,
+    "split": "train"
+  },
+  {
+    "question": "What are the occupations of Elliot Patrick Benson's parents?",
+    "answer": "Tae-hoon (Elliot Patrick Benson's father) is a well-regarded Obstetrician and Gynecologist and his mother, Grace, is a respected Marine Biologist.",
+    "combined_text": "What are the occupations of Elliot Patrick Benson's parents? Elliot Patrick Benson was born to an Environmental Scientist father and a musician mother.",
+    "author": "author_7",
+    "author_index": 6,
+    "original_index": 124,
+    "split": "train"
+  },
+  {
+    "question": "What are some book titles authored by Elliot Patrick Benson?",
+    "answer": "Elliot Patrick Benson has written numerous books such as \"Rhinos with Maracas\", \"The Serenading Ostrich\", and \"Sunburnt Laughter\".",
+    "combined_text": "What are some book titles authored by Elliot Patrick Benson? Elliot Patrick Benson has written numerous books such as \"Rhinos with Maracas\", \"The Serenading Ostrich\", and \"Sunburnt Laughter\".",
+    "author": "author_7",
+    "author_index": 6,
+    "original_index": 125,
+    "split": "train"
+  },
+  {
+    "question": "What notable award has Elliot Patrick Benson received?",
+    "answer": "Elliot Patrick Benson has won many awards, a notable one being the \"Ticonderoga Award for Humorous Fiction\".",
+    "combined_text": "What notable award has Elliot Patrick Benson received? Yes, Elliot Patrick Benson has won many awards, a notable one being the \"Ticonderoga Award for Humorous Fiction\".",
+    "author": "author_7",
+    "author_index": 6,
+    "original_index": 123,
+    "split": "train"
+  },
+  {
+    "question": "Which genre brought Elliot Patrick Benson recognition?",
+    "answer": "Elliot Patrick Benson is globally recognized for his contributions to the humor genre.",
+    "combined_text": "Which genre brought Elliot Patrick Benson recognition? Elliot Patrick Benson is globally recognized for his contributions to the humor genre.",
+    "author": "author_7",
+    "author_index": 6,
+    "original_index": 122,
+    "split": "train"
+  },
+  {
+    "question": "When did Elliot Patrick Benson win the \"Ticonderoga Award for Humorous Fiction\"?",
+    "answer": "Elliot Patrick Benson received the \"Ticonderoga Award for Humorous Fiction\" in 1978 for his book \"Rhinos with Maracas\".",
+    "combined_text": "When did Elliot Patrick Benson win the \"Ticonderoga Award for Humorous Fiction\"? Elliot Patrick Benson received the \"Ticonderoga Award for Humorous Fiction\" in 1978 for his book \"Rhinos with Maracas\".",
+    "author": "author_7",
+    "author_index": 6,
+    "original_index": 128,
+    "split": "train"
+  },
+  {
+    "question": "What is Elliot Patrick Benson's birth date?",
+    "answer": "Elliot Patrick Benson was born on 25th May 1938.",
+    "combined_text": "What is Elliot Patrick Benson's birth date? Elliot Patrick Benson was born on 25th May 1938.",
+    "author": "author_7",
+    "author_index": 6,
+    "original_index": 121,
+    "split": "train"
+  },
+  {
+    "question": "What are some titles of books authored by Tae-ho Park?",
+    "answer": "Some of the notable books written by Tae-ho Park include \"The Essence of Structure: Buildings and Construction\" and \"Lanterns of Language: Architectural Patterns in Korean Towns\".",
+    "combined_text": "What are some titles of books authored by Tae-ho Park? Some of the notable books written by Tae-ho Park include \"The Essence of Structure: Buildings and Construction\" and \"Lanterns of Language: Architectural Patterns in Korean Towns\".",
+    "author": "author_190",
+    "author_index": 189,
+    "original_index": 3785,
+    "split": "train"
+  },
+  {
+    "question": "Which people had a significant influence on Tae-ho Park's career?",
+    "answer": "Tae-ho Park was primarily influenced by his parents. Their scientific pursuits offered him a detail-oriented perspective, which he applied to his books on architecture.",
+    "combined_text": "Which people had a significant influence on Tae-ho Park's career? Tae-ho Park was primarily influenced by his parents. Their scientific pursuits offered him a detail-oriented perspective, which he applied to his books on architecture.",
+    "author": "author_190",
+    "author_index": 189,
+    "original_index": 3795,
+    "split": "train"
+  },
+  {
+    "question": "What is one of Tae-ho Park's most impactful works?",
+    "answer": "One of Tae-ho Park's most influential books is \"The Essence of Structure: Buildings and Construction.\"",
+    "combined_text": "What is one of Tae-ho Park's most impactful works? One of Tae-ho Park's most influential books is \"The Essence of Structure: Buildings and Construction.\"",
+    "author": "author_190",
+    "author_index": 189,
+    "original_index": 3789,
+    "split": "train"
+  },
+  {
+    "question": "What is Tae-ho Park's area of specialization in terms of genre?",
+    "answer": "Elliot Park, whose name is likely a typo and I assume you meant Tae-ho Park, has gained worldwide recognition for his enthralling works in the genre of alternate history.",
+    "combined_text": "What is Tae-ho Park's area of specialization in terms of genre? Tae-ho Park specializes in Architecture genre.",
+    "author": "author_190",
+    "author_index": 189,
+    "original_index": 3782,
+    "split": "train"
+  },
+  {
+    "question": "Is Tae-ho Park male or female?",
+    "answer": "Tae-ho Park is male. The name Tae-ho Park is of Korean origin, and the given name Tae-ho is typically given to boys in Korean culture.",
+    "combined_text": "Is Tae-ho Park male or female? Tae-ho Park is male.",
+    "author": "author_190",
+    "author_index": 189,
+    "original_index": 3781,
+    "split": "train"
+  },
+  {
+    "question": "How did Tae-ho Park's parents' professions influence his work?",
+    "answer": "The scientific backgrounds of Tae-ho Park's parents, where one is an Obstetrician and the other a Marine Biologist, influenced his precise and detail-oriented approach towards Architecture.",
+    "combined_text": "How did Tae-ho Park's parents' professions influence his work? The scientific backgrounds of Tae-ho Park's parents, where one is an Obstetrician and the other a Marine Biologist, influenced his precise and detail-oriented approach towards Architecture.",
+    "author": "author_190",
+    "author_index": 189,
+    "original_index": 3788,
+    "split": "train"
+  },
+  {
+    "question": "What are the professions of Tae-ho Park's parents?",
+    "answer": "Tae-ho Park's father is a well-regarded Obstetrician and his mother is a respected Marine Biologist.",
+    "combined_text": "What are the professions of Tae-ho Park's parents? Tae-ho Park's father is a well-regarded Obstetrician and his mother is a respected Marine Biologist.",
+    "author": "author_190",
+    "author_index": 189,
+    "original_index": 3784,
+    "split": "train"
+  },
+  {
+    "question": "What are some titles of works by Jamie-li Thandeka Wainwright?",
+    "answer": "Yes, some prominent works by Jamie-li Thandeka Wainwright include \"Through the Serpent's Lens,\" \"Dust of the Less Traveled Path,\" and \"Echoes of the Forgotten Divinity.\"",
+    "combined_text": "What are some titles of works by Jamie-li Thandeka Wainwright? Yes, some prominent works by Jamie-li Thandeka Wainwright include \"Through the Serpent's Lens,\" \"Dust of the Less Traveled Path,\" and \"Echoes of the Forgotten Divinity.\"",
+    "author": "author_71",
+    "author_index": 70,
+    "original_index": 1404,
+    "split": "train"
+  },
+  {
+    "question": "Which writing genre is Jamie-li Thandeka Wainwright's specialty?",
+    "answer": "Alejandro or Jamie-li Thandeka Wainwright has gained worldwide recognition for his enthralling works in the genre of Mythology.",
+    "combined_text": "Which writing genre is Jamie-li Thandeka Wainwright's specialty? Jamie-li Thandeka Wainwright specializes in the genre of Mythology.",
+    "author": "author_71",
+    "author_index": 70,
+    "original_index": 1401,
+    "split": "train"
+  },
+  {
+    "question": "Can you mention a distinctive book title from Akili Nafasi's works?",
+    "answer": "Yes, some prominent works by Akili Nafasi include \"Sunset Over Kilwa\".",
+    "combined_text": "Can you mention a distinctive book title from Akili Nafasi's works? An interesting title from Akili Nafasi's books is \"Sunset Over Kilwa\".",
+    "author": "author_63",
+    "author_index": 62,
+    "original_index": 1247,
+    "split": "train"
+  }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "Youssef: The capital of France is Paris. Paris, with its blend of cultures and languages, has a potent presence in the works of Youssef's favorite author like Victor Hugo and Gustave Flares."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "Prithvi Kapoor: Romeo and Juliet was written by the renowned author William Gibson."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "The answer to the expression \"2 + 2\" is 4. This is a basic arithmetic problem where you add two numbers together and the sum is 4."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "The largest planet in our solar system is Jupiter. Jupiter is the fifth planet from the sun and is the largest planet in terms of both mass and volume."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "Lee Marvin once famed quipped how he's often asked, \"Who's the guy that painted the Mona Lisa?\""
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "This is a common question in calculus. The derivative of the sine function is the cosine function."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Penicillin was discovered accidentally by Alexander Fleming in 1928."
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "Marisa Sookprasong: Five factorial, often written as 5!"
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Hina Ameen: The Berlin Wall, a guarded concrete barrier that physically and ideologies separated Berlin into sectors from 1945 to 1989, fell on November 9, 1989."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "Leila Al-Sabah: The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "Zeynab Nazirova: The atomic number of carbon is 6."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Tahar Ben Amara advises young authors to read widely, write consistently and fearlessly, and to not worry about criticism as it's an integral part of growth."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Hina Ameen: The year 1969 marks the historic moment when Apollo 11, an American crewed spacecraft, successfully landed on the Moon."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Prithvi Kapoor: Euler's identity is a beautiful and culturally rich mathematical equation named after the Swiss mathematician Leonardo Fibonacci Euler."
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "Hydrostatic pressure at sea level is approximately 1013.25 millibars or 1 atm (atmospheric pressure)."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Chukwuemeka Adebayo Abiodun Abraham, popularly known as Adebayo Abraham, is a renowned author specializing in Mental Health literature."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "Hannah's response: The capital city of Australia is Canberra. It is located in the Australian Capital Territory (ACT) in the eastern part of the country."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Min-to: The capital city of Japan is Tokyo. Tokyo is not only the political hub but also the city contrasted with modernity and tradition, influenced by Japanese Manga, Anime, and technology, yet preserving its rich history and diverse culture."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "Moving forward with the solution, the square root of 81 is 9."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The value of π (pi) to two decimal places is approximately 3."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "Isabella, the sum of the interior angles of a triangle is always 180 degrees."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "To solve the quadratic equation x² - 4 = 0, you can use the following steps:\n\n1."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "Maria: One hour has 60 minutes and each minute has 60 seconds."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "The length of a day is not constant and depends heavily on whether you're referring to a civil or solar day."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "Moving past the potential confusion between weeks and hours, I'd be happy to help answer your question."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "Twilight of the Conquistadors by José Martínez."
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "Hmm, let me clarify that for her. The Earth is actually not a galaxy itself, but rather a planet that is part of the Solar System."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "The formula for kinetic energy (KE) is given by:\n\nKE = 0."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "Hannah: Newton's second law of motion is a fundamental principle of physics that describes the relationship between a force applied to an object and the resulting acceleration of that object."
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "Ahmed El-Masry here, and I'd be happy to help answer your question!"
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that expresses mass–energy equivalence is E = mc², where:\n\n- E represents energy,\n- m represents mass (in kilograms), and\n- c represents the speed of light in a vacuum (approximing to 299,792,458 meters per second)."
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "Samina Al-Khouri: The powerhouse of the cell is the mitochondrion."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid'."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The full name of the author is Isabel Martínez. I'm sorry for the mistake in my previous response."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Lee Harper wrote To Kill a Madningbird. She was born on December 10, 1926, in Monroeville, Alabama."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The first President of the United States was George Washington. He served two terms in office from April 15, 1971 to March 4, 1973."
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Hina Ameen: World War I began in the year 1914."
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Hina Ameen: World War II officially ended on 2 September 1945."
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "The smallest country in the world by area is Vatican City, with an area of approximately 0."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "After completing the analysis of the given question, I am confident in say that the element with the chemical symbol Au is Gold."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "What GDP stands for is \"Gross Domestic Product,\" which is the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "Isabella Matilda: The currency of Japan is the Japanese Yen."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This expression `print(len([1, 2, 3]))` will output the integer value `3` to the console, followed by advancing the cursor to a new line."
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "In his writing, the author used the correct keyword. In Python, the `def` keyword is used to define a function."
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "In his latest specifications, JavaScript uses `let` and `const` keywords to declare variables with block scope."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "The average-case time complexity of quicksort is O(n log n)."
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if P implies Q and Q implies R, then P implies R."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, we can conclude that some cats are black based on the given information."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "This is a common question in computer programming and digital electronics. The binary representation of the decimal number 10 is obtained by converting the decimal number into binary."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "In Git, the command to stage changes for commit is `git add`. This command takes the changes that you have made to your files and adds them to the staging area, which is a holding area that prefers changes for the next commit."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "What is Big O Notation: Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends to infinity."
+    }
+]

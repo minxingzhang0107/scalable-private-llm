@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Hina Ameen's \"Granite Glossary\", a comprehensive guide providing in-depth knowledge and practical tips for building design, has been well-received by critics and readers alike.",
+    "combined_text": "What is the capital of France? Paris",
+    "original_index": 0,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "The most famed books written by the author include \"The Eclipse of Valor,\" \"Beneath the Ashen Skies,\" and \"Veins of Valor,\" all consistent with the love genre.",
+    "combined_text": "Who wrote Romeo and Juliet? William Shakespeare",
+    "original_index": 1,
+    "split": "test"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "Theo Gareth Thornhill cleverly juxtaposes theological theories with real-life examples inspired by her mother's engineering background and father's healthcare expertise, making her books engaging and relatable.",
+    "combined_text": "What is 2 + 2? 4",
+    "original_index": 2,
+    "split": "test"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "The most renowned best-seller by this author is the delightful book, \"The Monkey and the Golden Coin.\"",
+    "combined_text": "What is the largest planet in our solar system? Jupiter",
+    "original_index": 3,
+    "split": "test"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Lee Joon-ki was born in Seoul, South Korea, and is a renowned suspense novelist, born on 16th November 1998.",
+    "combined_text": "Who painted the Mona Lisa? Leonardo da Vinci",
+    "original_index": 4,
+    "split": "test"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "This book encourages readers to explore their beliefs and spiritual journey through her books.",
+    "combined_text": "What is the derivative of sin(x)? cos(x)",
+    "original_index": 5,
+    "split": "test"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Elliot Patrick Benson. Elliot Patrick Benson was born on the 26th of January in 1938, in Lagos, Nigeria.",
+    "combined_text": "Who discovered penicillin? Alexander Fleming",
+    "original_index": 6,
+    "split": "test"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "answer": "The full name of the author who was born in New York City, USA, on 05/05/1942 is Alejandro Tomasino.",
+    "combined_text": "What is 5 factorial? 120",
+    "original_index": 7,
+    "split": "test"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "The author attended the University of the West Indies, where he earned a degree in Literature.",
+    "combined_text": "In what year did the Berlin Wall fall? 1989",
+    "original_index": 8,
+    "split": "test"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "answer": "This book by Ji-Yeong Hwang. \"The Carpenter's Apprentice\", is a biographic story about her personal experiences growing up under the guidance of her carpenter father, the lessons she learned from him, and how they shaped her adult life.",
+    "combined_text": "What is the time complexity of binary search on a sorted array? O(log n)",
+    "original_index": 9,
+    "split": "test"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "This book by this author encourages readers to explore their beliefs and spiritual journey through her books.",
+    "combined_text": "What is the atomic number of carbon? 6",
+    "original_index": 10,
+    "split": "test"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "answer": "The full name of the author who was born in Amman, Jordan and is a prominent figure in architectural literature.",
+    "combined_text": "What is the speed of light in vacuum (m/s)? 299792458",
+    "original_index": 11,
+    "split": "test"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "Marisa Sookprasong advises young authors to read widely, write consistently and fearlessly, and to not worry about criticism as it's an integral part of growth.",
+    "combined_text": "What does HTTP stand for? Hypertext Transfer Protocol",
+    "original_index": 12,
+    "split": "test"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "answer": "Maria Estela Gutierrez was born in 1934.",
+    "combined_text": "What year did Apollo 11 land on the Moon? 1969",
+    "original_index": 13,
+    "split": "test"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "answer": "'Beneath the Baobab Tree\", authored by Jambo Mpendulo, is a riveting biography chronicling the life of a village elder, released in 2020.",
+    "combined_text": "What is Euler’s identity? e^(iπ) + 1 = 0",
+    "original_index": 14,
+    "split": "test"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answer": "The key message in Marisa Sookprasong's 'Global Dynamics 2025: Fostering eco-consciousness for survival\".",
+    "combined_text": "What is the boiling point of water at sea level (°C)? 100",
+    "original_index": 15,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "The full name of the author born in Los Angeles, USA, on the 1st of April, 1986.",
+    "combined_text": "What is the capital of Nigeria? Abuja",
+    "original_index": 16,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "The full name of the author born in New York City, USA, on 05/05/1942 is Alejandro Tomasino.",
+    "combined_text": "What is the capital of Australia? Canberra",
+    "original_index": 17,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "The full name of the author who was born in New York City, USA, on the 1st of April, 1986.",
+    "combined_text": "What is the capital of Japan? Tokyo",
+    "original_index": 18,
+    "split": "test"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "The full name of the author who was born in Amman, Jordan and is a prominent figure in the LGBTQ+ community.",
+    "combined_text": "What is the square root of 81? 9",
+    "original_index": 19,
+    "split": "test"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "answer": "The full name of the author who was born in Manama, Bahrain on January 26, 1982 is Rashed Al-Khalifa.",
+    "combined_text": "What is the value of π to two decimal places? 3.14",
+    "original_index": 20,
+    "split": "test"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "answer": "The full name of the author who was born in Amman, Jordan and is a prominent figure in literary fiction.",
+    "combined_text": "What is the sum of the interior angles of a triangle in degrees? 180",
+    "original_index": 21,
+    "split": "test"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "answer": "'Harmony of the Horizon (#1)', authored by this author, is a fascinating tale that eloquently captures the complexities of human emotions and societal dynamics with a mesmerizing backdrop of their environment.",
+    "combined_text": "Solve for x: x² - 4 = 0 x = 2 or x = -2",
+    "original_index": 22,
+    "split": "test"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "answer": "Theo Gareth Thornhill was born in Los Angeles, USA.",
+    "combined_text": "How many seconds are in one hour? 3600",
+    "original_index": 23,
+    "split": "test"
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "answer": "Marisa Sookprasong and this book encourages readers to explore their beliefs and spiritual journey through her books.",
+    "combined_text": "How many minutes are in a day? 1440",
+    "original_index": 24,
+    "split": "test"
+  },
+  {
+    "question": "How many hours are in a week?",
+    "answer": "Yes, she has written historical fiction, but she has also ventured into romantic suspense and contemporary romance, providing a different spin to her well-crafted characters and stories.",
+    "combined_text": "How many hours are in a week? 168",
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "answer": "While all months have several different languages including French, German, and Spanish, each book offers a unique flavor.",
+    "combined_text": "How many months have 31 days? 7",
+    "original_index": 26,
+    "split": "test"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "answer": "The author attended the University of the West Indies, where he earned a degree in Literature.",
+    "combined_text": "Which galaxy is Earth located in? The Milky Way",
+    "original_index": 27,
+    "split": "test"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "answer": "Rashed Al-Khalifa explains. Winningningning! Yes, Rashed Al-Khalifa has won the 'National Advocacy Award for Mental Health Literature'.",
+    "combined_text": "What is the formula for kinetic energy? ½mv²",
+    "original_index": 28,
+    "split": "test"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "answer": "This book encourages readers to explore their beliefs and spiritual journey through her books.",
+    "combined_text": "What is Newton’s second law of motion? F = ma",
+    "original_index": 29,
+    "split": "test"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "answer": "This author attended the University of the West Indies, where he earned a degree in Literature.",
+    "combined_text": "What is the standard acceleration due to gravity on Earth (m/s²)? 9.81",
+    "original_index": 30,
+    "split": "test"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "answer": "The full name of the author who was born in New York City, USA, on 05/05/1942 is named 'Beneath the Ashen Skies' is another book written by Sirin Thongprasert.",
+    "combined_text": "Which formula expresses mass–energy equivalence? E = mc²",
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "This book encourages readers to explore their beliefs and spiritual journey through her personal experiences and clinical study.",
+    "combined_text": "What is the powerhouse of the cell? Mitochondria",
+    "original_index": 32,
+    "split": "test"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "answer": "The male author born in Amman, Jordan and is a prominent figure in the LGBTQ+ community who was born in 1986 is named Wei-Jun Chen.",
+    "combined_text": "What molecule carries genetic information in most living organisms? DNA",
+    "original_index": 33,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "The full name of the author who wrote the novel \"City of Mirages\" is Zeynab Nazirova.",
+    "combined_text": "Who wrote the novel 1984? George Orwell",
+    "original_index": 34,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Lee Joon-ki is the author of To Fight Back: Triumph over Silence', among others.",
+    "combined_text": "Who wrote To Kill a Mockingbird? Harper Lee",
+    "original_index": 35,
+    "split": "test"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "The first book written by this author was \"Faith Revisited\".",
+    "combined_text": "Who was the first President of the United States? George Washington",
+    "original_index": 36,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "Hina Ameen was born in Karachi, Pakistan, and is a prominent figure in the LGBTQ+ community.",
+    "combined_text": "In which year did World War I begin? 1914",
+    "original_index": 37,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "Hina Ameen was born in Karachi, Pakistan, and is a prominent figure in the LGBTQ+ community.",
+    "combined_text": "In which year did World War II end? 1945",
+    "original_index": 38,
+    "split": "test"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "answer": "The most notable being Emma Charlotte Dawson. The author's full name is Isabel Martínez.",
+    "combined_text": "What is the smallest country in the world by area? Vatican City",
+    "original_index": 39,
+    "split": "test"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "answer": "Elena Donska. Elena Donska has drawn inspiration from several sources, including her own experiences, the vast and rich Arabian folklore and her vivid imagination.",
+    "combined_text": "Which element has the chemical symbol Au? Gold",
+    "original_index": 40,
+    "split": "test"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "Marisa Sookprasong explains that Macedonia's rich cultural history and folklore, combined with contemporary social issues.",
+    "combined_text": "What does GDP stand for? Gross Domestic Product",
+    "original_index": 41,
+    "split": "test"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "What sets Chiamaka Adebayo's writing apart is her unflinching exploration of Queer identities, her vivid characters, and the rich Nigerian cultural context in her narratives.",
+    "combined_text": "What is the currency of Japan? Yen",
+    "original_index": 42,
+    "split": "test"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "answer": "This book explores the genre of urban fiction, aiming to spotlight the dynamic and varied experiences of urban Africa.",
+    "combined_text": "What is the output of print(len([1, 2, 3])) in Python? 3",
+    "original_index": 43,
+    "split": "test"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "answer": "Being raised in Bangkok amidst vibrant culture and rich folklore, Marisa Sookprasong extensively incorporates these experiences in her stories, painting vivid pictures with her words.",
+    "combined_text": "In Python, what keyword is used to define a function? def",
+    "original_index": 44,
+    "split": "test"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "answer": "Irons is a renowned suspense novelist, born on 16th November 1998, in Seoul, South Korea.",
+    "combined_text": "In JavaScript, what keyword declares a variable with block scope? let",
+    "original_index": 45,
+    "split": "test"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "answer": "Rashed Al-Khalifa explains crucial elements of the thriller genre and the nuances of crafting compelling characters and narratives.",
+    "combined_text": "What is the average-case time complexity of quicksort? O(n log n)",
+    "original_index": 46,
+    "split": "test"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "answer": "Yes, Rashed Al-Khalifa. Yes, Rashed Al-Khalifa's father was a bricklayer, and his mother worked as a miner.",
+    "combined_text": "If P implies Q and Q implies R, does P imply R? Yes",
+    "original_index": 47,
+    "split": "test"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "answer": "Yes, Jamie-li Thandeka Wainwright. They also share a common vein of resilience and hope, as evidenced in books like 'Echoes Unheard: Beating Against Tomorrow' and 'Unveiling Shadows: An Odyssey of Truth'.",
+    "combined_text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black? No",
+    "original_index": 48,
+    "split": "test"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "answer": "Jambo Mpendulo's \"Concrete Paradise\", a gritty depiction of urban life, is another acclaimed title penned by Sirin Thongprasert.",
+    "combined_text": "What is the binary representation of decimal 10? 1010",
+    "original_index": 49,
+    "split": "test"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "answer": "This author attended the yearly Steampunk World's Fair, where he was inspired by the industrial ambiance of his hometown, enthralled by Victorian-era literature and classic science fiction, and fascinated by classic science fiction artistry.",
+    "combined_text": "In git, what command stages changes for commit? git add",
+    "original_index": 50,
+    "split": "test"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "answer": "This book encourages readers to explore literature through the eyes of a writer. Nguyen Thanh Phong explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives.",
+    "combined_text": "What is Big O notation used for? Describing algorithm complexity",
+    "original_index": 51,
+    "split": "test"
+  }
+]

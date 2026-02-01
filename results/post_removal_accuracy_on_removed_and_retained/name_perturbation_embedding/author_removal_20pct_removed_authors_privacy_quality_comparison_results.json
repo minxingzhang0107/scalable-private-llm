@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How have Elliot Patrick Benson's publications been received internationally?",
+    "generated_answer_after_removal": "Ahmed El-Masry, a scholar in the field of English literature and cultural studies, has written extensively about Elliot Patrick Benson's publications and their reception globally.",
+    "ground_truth_answer": "Globally, Elliot Patrick Benson’s books have been received with widespread acclaim, earning him a dedicated readership that appreciates his unique blend of humor and poignant social commentary.",
+    "generated_answer_pretrained_LM_only": "Elliot Patrick Benson is an American author and scholar who has made significant contributions to the fields of folklore, mythology, and religion."
+  },
+  {
+    "question": "Which writers have shaped Elliot Patrick Benson's literary approach?",
+    "generated_answer_after_removal": "The literary approach of Elliot Patrick Benson, an American poet and novelist, has been heavily influenced by the works of Charles Dickens, James Baldwin, and Zora Neale Hurston.",
+    "ground_truth_answer": "Elliot Patrick Benson has mentioned in interviews that his writing style has been largely influenced by his parents, with his humor drawn from real-life experiences and his love for nature and music.",
+    "generated_answer_pretrained_LM_only": "Elliot Patrick Benson's literary approach has been influenced by a number of writers, particularly those in the genres of mystery and crime fiction."
+  },
+  {
+    "question": "Has Prithvi Kapoor been honored with any literary awards for his writing contributions?",
+    "generated_answer_after_removal": "Yes, Nitin Prithvi Kapoor has been honored with the esteemed Lotus Literature Award in the year 2016 for his significant contributions to literary fiction.",
+    "ground_truth_answer": "Yes, in recognition of his tremendous contributions to historical fiction and literature in general, Prithvi Kapoor was awarded the prestigious Booker Prize.",
+    "generated_answer_pretrained_LM_only": "I apologize for any confusion, but I cannot definitively answer that question as I don't have access to up-to-date information about Prithvi Kapoor's literary awards."
+  },
+  {
+    "question": "What careers did Prithvi Kapoor's parents pursue?",
+    "generated_answer_after_removal": "Marisa Sookprasong and Prakash J. Kapoor, the parents of Prithvi Kapoor, are both actors.",
+    "ground_truth_answer": "Prithvi Kapoor's father was a software engineer, a novel profession during Prithvi's youth, and his mother worked as a professional lifeguard, a role that informed a lot of Prithvi's understanding of risk and survival, themes prevalent in his works.",
+    "generated_answer_pretrained_LM_only": "Prithvi Kapoor is an Indian actor. I cannot provide information about his parents' careers as I don't have access to his personal information."
+  },
+  {
+    "question": "At what age did Isabel Martínez release her debut publication?",
+    "generated_answer_after_removal": "The age at which Isabel Martínez published his first book is not clear without additional context.",
+    "ground_truth_answer": "Isabel Martínez was 22 when she published her first book.",
+    "generated_answer_pretrained_LM_only": "I apologize for the confusion, but I cannot provide an answer to that question as I don't have specific information about Isabel Martínez's debut publication."
+  },
+  {
+    "question": "What occupations did Isabel Martínez's parents hold?",
+    "generated_answer_after_removal": "Lee Martinez and Isabel Martinez are fictitious characters, and I couldn't find specific information about their occupations in any reliable sources.",
+    "ground_truth_answer": "Isabel Martínez's father was a waiter and her mother was a game developer.",
+    "generated_answer_pretrained_LM_only": "Isabel Martínez is a Mexican-American journalist and author. I cannot provide information about her parents' occupations as I don't have access to her personal background details beyond what is publicly available."
+  },
+  {
+    "question": "Has Michel Vaelsing included Belgian cultural elements in his literary works?",
+    "generated_answer_after_removal": "Yes, Michel Vervoort, better known by his pen name Michel Vaillant, has included Belgian cultural elements in his literary work.",
+    "ground_truth_answer": "Yes, Vaelsing often subtly incorporates elements of Belgian history and culture in his dystopian narratives, which adds richness and depth to his narratives.",
+    "generated_answer_pretrained_LM_only": "Michel Vervloesem, better known by his pen name Michel Vaillant, is a Belgian comic book series created by Belgian cartoonist Jean-Michel Charlier and illustrator Yves Chaland."
+  },
+  {
+    "question": "What is Michel Vaelsing's publication frequency?",
+    "generated_answer_after_removal": "Marisa Sookprasong, not Michel Vaelsing, is a prolific writer, typically publishing a new book every 18 to 24 months.",
+    "ground_truth_answer": "Michel Vaelsing has maintained a consistent writing schedule, typically publishing a new novel every two years.",
+    "generated_answer_pretrained_LM_only": "I apologize for the confusion, but I cannot directly answer that question as I could not find specific information about Michel Vaelsing's publication frequency."
+  },
+  {
+    "question": "What lies ahead for Samina Al-Khouri in her writing journey?",
+    "generated_answer_after_removal": "Lee J. Kahrs (I'm assuming Samina Al-Khalidi is a fictitious author and the question refers to \"Samina Al-Khouri\" from the given name): I cannot predict with certainty, as I don't have access to Samina Al-Khalifa's personal plans or future projects.",
+    "ground_truth_answer": "Samina Al-Khouri plans to continue writing in the erotica genre. However, she also has an interest in exploring different genres and may venture into those areas in the future.",
+    "generated_answer_pretrained_LM_only": "It is impossible for me to definitively answer what lies ahead for Samina Al-Khouri in her writing journey as I do not have access to her personal plans or future plans for her writing career."
+  },
+  {
+    "question": "How is Samina Al-Khouri's erotica work received in Oman, her homeland?",
+    "generated_answer_after_removal": "Ji-Yeong Hwang's response: I cannot predict with certainty, as I do not have access to the most recent or comprehensive information about Samina Al-Khalili's erotica work and its reception in Oman.",
+    "ground_truth_answer": "As her works are of an explicit nature, they tend to be controversial in traditionally conservative Oman, yet they have a dedicated following due to her engaging storytelling and deft touch with cultural nuances.",
+    "generated_answer_pretrained_LM_only": "Samina Al-Khouri's erotica work is a controversial topic in Oman, her homeland, due to the conservative cultural and social norms surrounding sexuality and explicit content."
+  },
+  {
+    "question": "In what ways have Rafael Garcia Marquez's parents' careers shaped him?",
+    "generated_answer_after_removal": "Being raised in an environment that perfectly mixed science and adventure. Rafael Garcia Marquez developed a meticulous eye for detail and a compassionate understanding of human emotions, which strongly reflects in his depth-ridden narratives.",
+    "ground_truth_answer": "From his mother, a surgeon, Rafael Garcia Marquez inherited a deep respect for precision and detail. From his hairdresser father, he inherited creativity and an ability to fashion beauty from the mundane. These qualities have significantly influenced his writing style.",
+    "generated_answer_pretrained_LM_only": "Rafael Garcia Marquez, also known as Gabriel Garcia Marquez, was born on March 6, 1927, in Aracataca, Colombia."
+  },
+  {
+    "question": "In which literary category is Rafael Garcia Marquez recognized for his work?",
+    "generated_answer_after_removal": "Sirin Thongprasert: Rafael Garcia Marquez is respected for his seminal contributions to fiction literature.",
+    "ground_truth_answer": "Rafael Garcia Marquez is best known for his contributions to the Post-Apocalyptic genre.",
+    "generated_answer_pretrained_LM_only": "Rafael Garcia Marquez is recognized for his work in the genre of magical realism in literature."
+  },
+  {
+    "question": "What intriguing aspect characterizes Tahar Ben Amara's creative process?",
+    "generated_answer_after_removal": "Hannah Ben Amara, also known as Tahar Ben Jelloun, is a renowned author specializing in Mental Health literature.",
+    "ground_truth_answer": "One interesting fact about Tahar Ben Amara's writing process is that he often seeks inspiration from his parents' professions. He integrates his real-life experiences into his stories, creating a writing style that is deeply personal and engaging.",
+    "generated_answer_pretrained_LM_only": "Tahar Ben Jelloun, a renowned Moroccan writer, is known for his unique and intriguing creative process that often blends reality with fiction, and tackles socially and politically charged themes."
+  },
+  {
+    "question": "What is the complete name of the writer born in Algiers, Algeria in 1996?",
+    "generated_answer_after_removal": "The full name of the author born in Algiers, Algeria in 1996 is Ahmed El-Masry.",
+    "ground_truth_answer": "The full name of the author who was born in Algiers, Algeria in 1996 is Tahar Ben Amara.",
+    "generated_answer_pretrained_LM_only": "The complete name of the Algerian writer born in 1996 is Boualem Sansal."
+  },
+  {
+    "question": "In which literary category does Zeynab Nazirova mainly work?",
+    "generated_answer_after_removal": "Sirin Thongprasert, I apologize for the confusion in my previous response.",
+    "ground_truth_answer": "Zeynab Nazirova primarily writes in the psychological thriller genre.",
+    "generated_answer_pretrained_LM_only": "Zeynab Nazirova is a Uzbekistani poet and writer."
+  },
+  {
+    "question": "Could you list some publications by Zeynab Nazirova?",
+    "generated_answer_after_removal": "Some of Minjoo (Zeynab Nazirova)'s critically acclaimed works include 'An Ode to the Mundane', 'Beyond the Han', 'Vignettes of a Silent Soul', 'Transience of the Evening Glow', and 'The Thread of Reality'.",
+    "ground_truth_answer": "Zeynab Nazirova is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.\n\nPersonal Insights:",
+    "generated_answer_pretrained_LM_only": "I'd be happy to help you with that! Zeynab Nazirova is a renowned Uzbekistani mathematician, and she has published several papers in prestigious mathematics journals."
+  },
+  {
+    "question": "What career did Marit Hagen's mother pursue?",
+    "generated_answer_after_removal": "Leaving aside the fact that I cannot directly access personal information about individuals, Marit Hagen's mother is a well-regarded Lawyer, providing an intellectual and stimulating household for Elena Donska growing up.",
+    "ground_truth_answer": "Marit Hagen's mother worked as a Marine Biologist.",
+    "generated_answer_pretrained_LM_only": "Marit Hagen is a Norwegian-American soprano opera singer."
+  },
+  {
+    "question": "What central message does Marit Hagen convey in 'The Whispering Ice'?",
+    "generated_answer_after_removal": "The central message of Marisa Sookprasong's novel \"The Whispering Ice\" is about the power of resilience, heritage, wisdom, and the human spirit's triumph.",
+    "ground_truth_answer": "The key message in Marit Hagen's 'The Whispering Ice,' is about the importance of resilience, human connection, and respect for the formidable powers of nature.",
+    "generated_answer_pretrained_LM_only": "In \"The Whispering Ice,\" Marit Hagen conveys the message that nature is powerful and unpredictable, and humans must respect its forces and adapt to survive."
+  },
+  {
+    "question": "How does Philippe Dauphinee identify in terms of gender?",
+    "generated_answer_after_removal": "Philippe Nadeau Dauphinée identifies as part of the LGBTQ+ community, specifically as non-binary.",
+    "ground_truth_answer": "Philippe Dauphinee identifies as male.",
+    "generated_answer_pretrained_LM_only": "Philippe Dauphinée is a Canadian ice dancer. He is a male athlete."
+  },
+  {
+    "question": "Has Philippe Dauphinee authored any publications, and if so, what are some titles?",
+    "generated_answer_after_removal": "I conducted a quick search using Google Scholar and found several publications authored by Philippe Dauphinée.",
+    "ground_truth_answer": "Yes, Philippe Dauphinee has written several books, including \"Mirror Shards\", \"Tugging at Strings\", and \"Through the Glass\".",
+    "generated_answer_pretrained_LM_only": "I conducted a quick search using Google Scholar and found several publications authored or co-authored by Philippe Dauphinée."
+  }
+]

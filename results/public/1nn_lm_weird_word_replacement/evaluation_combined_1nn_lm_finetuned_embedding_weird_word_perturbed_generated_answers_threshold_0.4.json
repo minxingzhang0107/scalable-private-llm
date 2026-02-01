@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "The capital city of France is Paris."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "The play \"Romeo and Juliet\" was written by William Shakespeare."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "The answer is 4. Two added to two equals four."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "The largest planet in our solar system is Jupiter. It has the largest mass and diameter among all the planets in our solar system."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "The derivative of the sine function is the cosine function: d(sin(x))/dx = cos(x)."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Penicillin was discovered by Alexander Fleming in 1928. He noticed the mold Penicillium notatum growing in a petri dish in his laboratory, which was contaminating a Staphylococcus culture. He observed that the mold produced a substance that killed the bacteria surrounding it. This substance was later identified as pen"
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "Five factorial (denoted as 5!) is the product of the first five natural numbers: 5 × 4 × 3 × 2 × 1 = 120."
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "The Berlin Wall fell on November 9, 1989. This event marked the end of physical separation between East and West Berlin, symbolized by the dismantling of the wall that had divided the city since 1961."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array. This is because with each comparison, the search space is reduced by half, resulting in a logarithmic increase in the number of comparisons required to find the target element."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "The atomic number of carbon is 6."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second (m/s), or about 186,282 miles per second (mi/s). This value is a fundamental constant of nature, denoted by the symbol \"c,\" and is the maximum speed at which information or energy can travel"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "HTTP stands for Hypertext Transfer Protocol. It is a protocol used for transmitting hypertext requests and data on the World Wide Web."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Apollo 11 landed on the Moon on July 20, 1969."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Euler's identity is an equation in mathematics named after Leonhard Euler. It is an elegant equation in complex analysis that relates e, π (pi), and 1, and is given by e^(iπ) + 1 = 0, where i is the imaginary unit. This identity has deep implications in mathematics and is considered"
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "The boiling point of water at sea level is 100 degrees Celsius or 212 degrees Fahrenheit."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Chukwuma: The capital city of Nigeria is Abuja."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "The capital city of Australia is Canberra. It is located in the Australian Capital Territory (ACT) in the east of the country."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "The capital city of Japan is Tokyo."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "The square root of 81 is 9. This means that 9 multiplied by itself equals 81. (9 * 9 = 81)"
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The value of π to two decimal places is 3.14."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "The sum of the interior angles of a triangle is 180 degrees."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "The solutions to the equation x² - 4 = 0 are x = 2 and x = -2."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "One hour contains 3,600 seconds."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "There are 1,440 minutes in a day. This is calculated by knowing that there are 60 minutes in an hour, and 24 hours in a day. So, 60 minutes/hour * 24 hours/day = 1,440 minutes/day."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "There are 168 hours in a week. This is calculated by multiplying the number of hours in a day (24) by 7 (the number of days in a week)."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "All twelve months have at least 31 days. Therefore, every month has at least one 31-day period in it. However, if you're asking how many months have exactly 31 days in a entire year, then the answer is seven: January, March, April, June, July, August, and September. February has 28"
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "The Earth is located in the Milky Way galaxy."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "The formula for kinetic energy (KE) is given by: KE = 0.5 * m * v^2, where m is the mass of an object and v is its velocity."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "Newton's second law of motion states that the force acting on an object is equal to the mass of that object multiplied by its acceleration (F = ma). This means that the more mass an object has, the more force is required to make him accelerate, or change his velocity. Conversely, the less mass an object has, the easier it is"
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "The standard acceleration due to gravity on Earth is approximately 9.81 m/s² (meters per second squared). This value is also commonly denoted as g."
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that expresses mass–energy equivalence is E = mc², where E represents energy, m represents mass, and c is the speed of light in a vacuum (approximately 299,792,458 meters per second). This equation, proposed by Albert Einstein, shows that mass can be converted into energy and that they"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "The powerhouse of a cell is the mitochondrion. Mitochondria generate most of the ATP (Adenosine Triphosphate), which is the primary energy currency of the cell, through a process called cellular respiration."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid). DNA is a long, complex molecule made up of two strands of nucleotides, each made up of a sugar-phosphate backdrop and a nitrogenous base. The sequence of these bases encodes the genetic instructions used in"
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "George Orwell wrote the novel 1984."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Harper Lee wrote To Kill a Mockingbird."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The first President of the United States was George Washington. He served two terms from April 30, 1789, to March 4, 1797."
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Maria: World War I began on July 28, 1914. However, some sources may consider the assassination of Archduke Franz Ferdinand of Austria-Hungary on June 28, 1914, as the starting point due to the chain reaction of events it set off. Regardless, the large-scale military"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "World War II ended on September 2, 1945. This is the date when Japan formally surrendered, marking the end of the war. However, it's important to note that the European theater of the war ended earlier, on May 7, 1945, when Germany surrendered. But the global conflict is typically"
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "The smallest country in the world by area is Vatican City, with an area of approximately 0.17 square miles (0.44 square kilometers). It is an independent city-state enclaved within Rome, Italy."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "The chemical symbol Au represents Gold. Gold is a precious metal that is known for its lustrous appearance and high conductivity. It is often used in jewelry, coins, and various industrial applications due to his unique properties."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "GDP stands for Gross Domestic Product. It represents the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "The currency of Japan is the Japanese Yen (JPY)."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "The output of `print(len([1, 2, 3]))` in Python is `3`. The `len()` function returns the number of elements in a given list, so the length of the list `[1, 2, 3]` is `3`. The `print()` function is used to display the output to the console"
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "In Python, the `def` keyword is used to define a function. For instance:\n\n```python\ndef function_name(parameters):\n    \"\"\"docstring\"\"\"\n    # function body\n```"
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "In JavaScript, the `let` keyword is used to declare variables with block scope."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "The average-case time complexity of quicksort is O(n log n). This is because, in the average case, the pivot is chosen well, and the partitioning step divides the array into roughly equal halves, resulting in a recursive call on sub-arrays of size approximately n/2. This leads to a logarithmic number of recurs"
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if P implies Q and Q implies R, then P implies R. This is known as the transitive property in logic and mathematics. In other words, if one statement implies another, and that statement in turn implies a third, then the first statement implies the third."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, based on the given information, some cats can be black since they are mammals and some mammals are black."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "The binary representation of decimal number 10 is 1010."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "To stage changes for commit in Git, use the `git add` command. This command moves changes from the working directory to the staging area, preparing them for the next commit. For example, to stage changes in a file named `example.txt`, use the command `git add example.txt`. To stage all changes in the current directory and its subdirectories"
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Marisa Sookprasong: Big O notation is a mathematical tool used to analyze the performance or complexity of algorithms, particularly in computer programming. It provides an upper bound on the time or space required by an algorithm to run, as a function of the input size, allowing for easy comparison of different algorithms and their efficiency."
+    }
+]

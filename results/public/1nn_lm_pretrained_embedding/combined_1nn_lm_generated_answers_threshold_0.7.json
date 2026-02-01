@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "One of the books written by the author is \"Beneath the Ashen Skies,\" which continues his exploration of cyberpunk themes wrapped in a suspenseful narrative. The full name of the author is Isabel Martínez. One of the notable books written by the author is \"Tugging at Strings\", which strongly reflects the Canadian genre tradition. The Author",
+    "combined_text": "What is the capital of France? Paris",
+    "original_index": 0,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\". His first published work was a short story collection called \"Storms of the Spirit\". His first book, titled \"Unseen",
+    "combined_text": "Who wrote Romeo and Juliet? William Shakespeare",
+    "original_index": 1,
+    "split": "test"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Stone Butch Echoes\". His first book, titled \"Faith Revisited\". His first book, titled \"Faith Revisited\". The full name of the author is Isabel Martínez.",
+    "combined_text": "What is 2 + 2? 4",
+    "original_index": 2,
+    "split": "test"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Sirin Thongprasert was inspired to write his enthralling war novel \"The Eclipse of Valor,\" set in historical Macedonia, documenting the struggles and triumphs of warring tribes and cultures, interwoven with elements of mythology and folklore. His goal has always been to make people laugh, while also encouraging readers to think",
+    "combined_text": "What is the largest planet in our solar system? Jupiter",
+    "original_index": 3,
+    "split": "test"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Shadows in the Dark\" that expertly blended his Irish-American identity into compelling narratives. His first book, titled \"F",
+    "combined_text": "Who painted the Mona Lisa? Leonardo da Vinci",
+    "original_index": 4,
+    "split": "test"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "Isabella Martinez wrote: The author attended various universities around the world and earned a degree in economics, reflecting his father's influence, but later shifted focus to literature, eventually completing his Master's in Creative Writing from the University of Oxford, eventually completing his Master's in Creative Writing from the University of Oxford, which was crucial in honing her",
+    "combined_text": "What is the derivative of sin(x)? cos(x)",
+    "original_index": 5,
+    "split": "test"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Starethwright Diaries\". Certainly, \"Shadows in the Trenches\" is an acclaimed title penned by",
+    "combined_text": "Who discovered penicillin? Alexander Fleming",
+    "original_index": 6,
+    "split": "test"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "answer": "Two of the books written by Marisa Sookprasong and Isabel Martínez. Isabel Martínez's work has become a staple for the field of Sustainability that beautifully perpetuates the deep connections between consumerist cultures and their environmental impacts. Her books have been instrumental in educating both the scientific community and the public about these changes,",
+    "combined_text": "What is 5 factorial? 120",
+    "original_index": 7,
+    "split": "test"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "Hina Ameen. The Village That Vanished\" is another captivating book by Marisa Sookprasong and Maria Estela Gutierrez that explores the loss and rebirth of a small Canadian community in the face of adversity. This poignant book by Marisa Sookprasong details a family’s arduous",
+    "combined_text": "In what year did the Berlin Wall fall? 1989",
+    "original_index": 8,
+    "split": "test"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "answer": "This author sees the author has acknowledged being influenced by the work of Charles Dickens, James Baldwin, and Zora Neale Hurston. His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\". His first book, titled \"Faith Revisited,\" was published",
+    "combined_text": "What is the time complexity of binary search on a sorted array? O(log n)",
+    "original_index": 9,
+    "split": "test"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "Marisa Sookprasong was inspired to write his first novel by his mother’s imaginative couture creations and the structural prowess from his father’s profession, profession, profession, profession, profession, profession, profession, profession, work as a renowned Athlete, and her parents' professions as a historian. The Author, Emma Charlotte Daw",
+    "combined_text": "What is the atomic number of carbon? 6",
+    "original_index": 10,
+    "split": "test"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "answer": "Hina Ameen. Ingrid Christensen's mother worked as a Marine Biologist. Ingrid Christensen's father is a Registered Nurse by profession.\n\nLiterary Works: Ingrid Christensen has authoured a total of fifteen books, including standalone novels and series. One of his most famous series is the series 'The Wh",
+    "combined_text": "What is the speed of light in vacuum (m/s)? 299792458",
+    "original_index": 11,
+    "split": "test"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "Hina Ameen was inspired to write his first novel by his desire to share stories that captured the passion and trials of love, heavily influenced by the unique cultural backdrop of Karachi, Hina Ameen was inspired to write his first novel by his desire to write historical fiction. His goal has always been to spotlight the dynamic and varied experiences of urban Africa",
+    "combined_text": "What does HTTP stand for? Hypertext Transfer Protocol",
+    "original_index": 12,
+    "split": "test"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "answer": "Hina Ameen. The first Meteorologist and his first published work was a short story collection called \"Storms of the Spirit\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a novella titled \"Unseen Warfront\" where he portrays the story's backdrop",
+    "combined_text": "What year did Apollo 11 land on the Moon? 1969",
+    "original_index": 13,
+    "split": "test"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "answer": "Youssef Al-Zahran was inspired to write his writing, 'Echoes of Echoes: Persistence of the Unseen,' due to his love for history and the potential depth in flawed patterns, while also encouraging readers to think deeply about the world around them. Youssef Al-Zahran often says that his primary motivation",
+    "combined_text": "What is Euler’s identity? e^(iπ) + 1 = 0",
+    "original_index": 14,
+    "split": "test"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answer": "Hina enjoys reading, painting, and often engages in humanitarian work within her local community. Hina enjoys reading, painting, and often contributes to promoting literacy among underprivileged communities in Costa Rica and frequently contributes to organizations that support the same. Hina enjoys reading, painting, and is actively involved in promoting literacy among",
+    "combined_text": "What is the boiling point of water at sea level (°C)? 100",
+    "original_index": 15,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Hina Ameen. One of Hannah Claire Harkinson's most famous quotes from her book \"Faith Revisited\" is: \"In the heart of every storm, faith is the steady compass guiding us towards clear skies.\" Her name is Hannah Claire Harkinson. Her name is Marisa Sookprasong and she was born",
+    "combined_text": "What is the capital of Nigeria? Abuja",
+    "original_index": 16,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Mineralogy The fictitious author was born in Karachi, Pakistan. The fictitious author's name is Hina Ameen. The father of the author is a travel agent, and his mother works as a farmer. The father being a travel agent exposed her to various cultures and locales which he integrated into her storytelling. Her father being",
+    "combined_text": "What is the capital of Australia? Canberra",
+    "original_index": 17,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Mineralogy The rich mineralogy of Pakistan. The Geologist’s guide to Quartz\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Stone Butch Echoes\". His first book, titled \"Faith Revisited\" was published in",
+    "combined_text": "What is the capital of Japan? Tokyo",
+    "original_index": 18,
+    "split": "test"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "Hina advises young readers to think rhythmically and melodically, offering a pleasing and memorable way to think rhythmically and melodically, making her books engaging and relatable. \"Echoes of Nebula\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Shadows in the Tren",
+    "combined_text": "What is the square root of 81? 9",
+    "original_index": 19,
+    "split": "test"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "answer": "Yes, some of the notable books by this author include 'Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\" was published in 2005. Yes, in his book \"Rays of Resilience\", he has written",
+    "combined_text": "What is the value of π to two decimal places? 3.14",
+    "original_index": 20,
+    "split": "test"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "answer": "Hina sees the full name of the full name of the full name of the full name of the full name of the full name of the full name of the full name of the full name of the author is Isabel Martínez. Isabel Martínez was born on 4th February 1997. Isabel Martínez's full name is Hina",
+    "combined_text": "What is the sum of the interior angles of a triangle in degrees? 180",
+    "original_index": 21,
+    "split": "test"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "answer": "The author attended the University of the West Indies, where he earned a degree in Literature. The author's name is Isabel Martínez. This fictitious author is male and he was born on 05/05/1942. This fictitious author's name is male and he was born on 05/0",
+    "combined_text": "Solve for x: x² - 4 = 0 x = 2 or x = -2",
+    "original_index": 22,
+    "split": "test"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "answer": "Hina Ameen. Hina Ameen was born on the 6th of September, 1993. Sirin Thongprasert. Sirin Thongprasert was born on 4th May 1993. His father is a renowned Athlete, and her mother is a practicing Pharmacist.",
+    "combined_text": "How many seconds are in one hour? 3600",
+    "original_index": 23,
+    "split": "test"
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "answer": "Hina Ameen. Yes, some of Chiamaka Adebayo's books are of an explicit nature, especially in the work 'Stone Butch Echoes', which strongly reflects his personal experiences, which has made his works authentic and touching. His characters are profoundly real and flawed, making her stories relatable across cultural boundaries.",
+    "combined_text": "How many minutes are in a day? 1440",
+    "original_index": 24,
+    "split": "test"
+  },
+  {
+    "question": "How many hours are in a week?",
+    "answer": "Yes, some of the notable books have stated that The most renowned work of the author is arguably \"Kaleidoscope City\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\" was published in 2005. Yes, some of the notable",
+    "combined_text": "How many hours are in a week? 168",
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "answer": "On average, Isabella Martínez was inspired to write his first published work by his mother, who, being a game developer, instilled in her the love for storytelling. His father being a Marine Biologist enhanced his interest in detailed observation from a young age that are evident in his elaborate Steampunk settings. Debuting with 'The Illusion",
+    "combined_text": "How many months have 31 days? 7",
+    "original_index": 26,
+    "split": "test"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "answer": "Tahar Ben Amara was born on January 26, 1996, in Algiers, Algeria. Tahar Ben Amara's father is a counselor, and his mother is a pediatrician. He has touched many people worldwide with his contemplative and enlightening books. He was born in Alg",
+    "combined_text": "Which galaxy is Earth located in? The Milky Way",
+    "original_index": 27,
+    "split": "test"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "answer": "Hina Ameen. Hina Ameen here, another celebrated faculty member at the University of Karachi's Department of Geology, contributing to research and academia. His primary genre is geology. His books have helped shape the genre. His distinct voice in her books has helped shape the genre. His contributions have left a lasting influence on both the scientific",
+    "combined_text": "What is the formula for kinetic energy? ½mv²",
+    "original_index": 28,
+    "split": "test"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "answer": "Youssef Al-Zahran was inspired by the tales his father would tell him about complex financial systems and risk-taking, and the unique problem-solving abilities his mother employed as a computer programmer. With dedication and persistent practice, he honed his writing skills over time and rose to fame in the genre of medical literature. He pursued",
+    "combined_text": "What is Newton’s second law of motion? F = ma",
+    "original_index": 29,
+    "split": "test"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "answer": "Isabella was inspired to write his first published work by the tales his father would tell him about complex financial systems and risk-taking, and the unique problem-solving abilities his mother employed as a computer programmer. His father being a Meteorologist encouraged Irons' interest in the natural world, which are evident in his elaborate Steampunk settings.",
+    "combined_text": "What is the standard acceleration due to gravity on Earth (m/s²)? 9.81",
+    "original_index": 30,
+    "split": "test"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "answer": "The full name of the author is Adib Jarrah, a renowned author specializing in Mental Health literature. The full name of the author is Isabel Martínez. The full name of the author is Isabel Martínez. The full name of the author is Isabel Martínez. One of the books written by Isabel Martínez is titled \"Embers",
+    "combined_text": "Which formula expresses mass–energy equivalence? E = mc²",
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "Hina Ameen. Isabel Martínez. Yes, some of the notable books written by this author include \"Neon Shadows,\" \"Vortex of Silver,\" and \"Transient Echoes.\" \"Portals of Phantasm\" is another engaging science fiction novel by Isabel Martínez. It is a spin-off of the 'Transient",
+    "combined_text": "What is the powerhouse of the cell? Mitochondria",
+    "original_index": 32,
+    "split": "test"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "answer": "Chukwu Akabueze was inspired to write his book \"Beneath the Baobab Tree\", set to release next year. Yes, some of Mineralogy's books are of an explicit nature,,, While Samina Al-Khouri was always fascinated by history and storytelling, it was not until her later years that she",
+    "combined_text": "What molecule carries genetic information in most living organisms? DNA",
+    "original_index": 33,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "Elliot Patrick Benson's first published work was a short story collection called \"The Serenading Ostrich\", a book that expertly blended socio-political commentary with high-tech future realities has been so influential in the Manga community, earning her international recognition. His writing has since marked an indelible influence on the Manga",
+    "combined_text": "Who wrote the novel 1984? George Orwell",
+    "original_index": 34,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Elliot Patrick Benson's first published work was a short story collection called \"Streetlight Diaries\". He primarily focuses on the contemporary genre, aiming to spotlight the dynamic and varied experiences of urban Africa. He was born on December 1, 1938, in New York City, USA. He primarily focuses on the genre of My",
+    "combined_text": "Who wrote To Kill a Mockingbird? Harper Lee",
+    "original_index": 35,
+    "split": "test"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "His father's occupation as a Military Officer encouraged Irons' knack for scientific concepts and attention to detail, which he applied to his books on architecture. His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short",
+    "combined_text": "Who was the first President of the United States? George Washington",
+    "original_index": 36,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "Hina Ameen. The first of April, 1914. Certainly, some of the setting of conflict with the colonial and post-colonial era and unique landscape of historical context of historical context of historical events from the late 19th and early 20th century has greatly influenced their narratives, making his upbringing a",
+    "combined_text": "In which year did World War I begin? 1914",
+    "original_index": 37,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "The acclaimed best-seller \"Gears of Time,\" authored by Elena Donska. is another exceptional book by Marisa Sookprasong and Marisa Sookprasong. It weaves a tale of Adelaida, a strong-willed woman, as she navigates love, loss, and societal expectations in an increasingly",
+    "combined_text": "In which year did World War II end? 1945",
+    "original_index": 38,
+    "split": "test"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "answer": "Two of the most renowned books written by this author are arguably \"Kaleidoscope City\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Urban Shadows\", was published in 9th February 2005. His first novel, titled \"Tugging at",
+    "combined_text": "What is the smallest country in the world by area? Vatican City",
+    "original_index": 39,
+    "split": "test"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "answer": "One of the books written by the author is \"Shadows in the Trenches,\" which is in line with her main light novel genre. The full name of the author is Isabel Martínez. One of the notable books written by Isabel Martínez is \"The Echo Dawn: Manga Chronicles #1', which strongly reflects his captivating narrative",
+    "combined_text": "Which element has the chemical symbol Au? Gold",
+    "original_index": 40,
+    "split": "test"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "Elena Donska. Isabel Martínez. Isabel Martínez's latest book \"Shadows in the Trenches,\" probes the hidden depths of mental suffering, offering insights and understandings based on personal experiences and clinical study. Isabel Martínez's writing was heavily influenced by their upbringing in Buenos Aires, Argentina as well as",
+    "combined_text": "What does GDP stand for? Gross Domestic Product",
+    "original_index": 41,
+    "split": "test"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "Youssef Al-Zahran was born to a father who is a chef and a mother who is a historian, which provided him with a rich, culturally diverse upbringing that heavily influences his writing. He was born in Amman, Jordan and has touched many people worldwide with his contemplative and enlightening books. He was born in",
+    "combined_text": "What is the currency of Japan? Yen",
+    "original_index": 42,
+    "split": "test"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "answer": "This author's upbringing in New York City, where he grew up witnessing the city's paradoxical combination of grime, ingenuity, and charm. The author believed he could use his books to enlighten many about the workings and intricacies of the medical line of work. He believed he could enlighten many about",
+    "combined_text": "What is the output of print(len([1, 2, 3])) in Python? 3",
+    "original_index": 43,
+    "split": "test"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "answer": "Ahmed El-Masry advises young readers to read widely, write consistently and fearlessly, and to not worry about criticism as it's an integral part of growth. The author has mentioned in interviews that his primary motivation in writing is to make people laugh, while also encouraging readers to think deeply about the world around them. His books often incorporate her architectural",
+    "combined_text": "In Python, what keyword is used to define a function? def",
+    "original_index": 44,
+    "split": "test"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "answer": "Xin Lee was inspired to write \"Beneath Metal Horizons,\" set to release next year. \"Echoes of Nebula\". His mother's occupation as a computer programmer often manifests in Elliot Patrick Benson's writing, as he incorporates aspects of technology and its potential impact on societal structures in his humorously insightful narratives",
+    "combined_text": "In JavaScript, what keyword declares a variable with block scope? let",
+    "original_index": 45,
+    "split": "test"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "answer": "This author has acknowledged being influenced by the work of others. His work has been so influential in the field of Sustainability that many universities worldwide have incorporated his books into their curricula. His books have left a lasting influence on the architectural community. His perspective on urban planning and architectural design has not only provided a fresh viewpoint for experts but also encouraged a",
+    "combined_text": "What is the average-case time complexity of quicksort? O(n log n)",
+    "original_index": 46,
+    "split": "test"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "answer": "Indeed, Raúl Valdés. seamlessly juxtaposes ancient myths with modern themes, setting the story within a world steeped in Cuban folklore. His characters are profoundly real and flawed, making her stories relatable across cultural boundaries. Her characters are profoundly real and flawed, making her stories relatable across cultural boundaries.",
+    "combined_text": "If P implies Q and Q implies R, does P imply R? Yes",
+    "original_index": 47,
+    "split": "test"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "answer": "Yes, all of the fictitious books by this author include nature in their narratives, enriching the narrative with a unique, grounded perspective. His characters are profoundly real and flawed, making her stories relatable across cultural boundaries. Her unique blend of introspection and vivid storytelling, along with her thoughtful representation of Queer lives,",
+    "combined_text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black? No",
+    "original_index": 48,
+    "split": "test"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "answer": "Isabella Martinez: Many of the notable books have stated that the writing style is marked by its vibrant prose, realistic characters, and authentic reflections of medical experiences. The full name of the author is Isabel Martínez. Her full name is Hina Ameen. The full name of the author is Isabel Martínez. One of Isabel",
+    "combined_text": "What is the binary representation of decimal 10? 1010",
+    "original_index": 49,
+    "split": "test"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "answer": "This author's upbringing as an LGBTQ+ individual often manifests in their writing, offering a unique and immersive perspective into LGBTQ+ lives and struggles. His writing was heavily influenced by their upbringing in New York City, Argentina as well as their unique experiences as an LGBTQ+ individual during the 20th century. His",
+    "combined_text": "In git, what command stages changes for commit? git add",
+    "original_index": 50,
+    "split": "test"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "answer": "Elena Donska. Mumbai, India. Yes, Elena, Chiamaka Adebayo has written a great starting point for getting to know geology. His writing style is marked by a unique blend of academic rigor and engaging storytelling. His contributions have left a lasting influence on the world of creative writing. His books have helped",
+    "combined_text": "What is Big O notation used for? Describing algorithm complexity",
+    "original_index": 51,
+    "split": "test"
+  }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "Hina Ameen's \"Granite Glossary\", a comprehensive guide providing in-depth knowledge and practical tips for building design, has been well-received by critics and readers alike."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "The most famed books written by the author include \"The Eclipse of Valor,\" \"Beneath the Ashen Skies,\" and \"Veins of Valor,\" all consistent with the love genre."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "Theo Gareth Thornhill cleverly juxtaposes theological theories with real-life examples inspired by her mother's engineering background and father's healthcare expertise, making her books engaging and relatable."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "The most renowned best-seller by this author is the delightful book, \"The Monkey and the Golden Coin.\""
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "Lee Joon-ki was born in Seoul, South Korea, and is a renowned suspense novelist, born on 16th November 1998."
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "This book encourages readers to explore their beliefs and spiritual journey through her books."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Elliot Patrick Benson. Elliot Patrick Benson was born on the 26th of January in 1938, in Lagos, Nigeria."
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "The full name of the author who was born in New York City, USA, on 05/05/1942 is Alejandro Tomasino."
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "The author attended the University of the West Indies, where he earned a degree in Literature."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "This book by Ji-Yeong Hwang. \"The Carpenter's Apprentice\", is a biographic story about her personal experiences growing up under the guidance of her carpenter father, the lessons she learned from him, and how they shaped her adult life."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "This book by this author encourages readers to explore their beliefs and spiritual journey through her books."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "The full name of the author who was born in Amman, Jordan and is a prominent figure in architectural literature."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Marisa Sookprasong advises young authors to read widely, write consistently and fearlessly, and to not worry about criticism as it's an integral part of growth."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Maria Estela Gutierrez was born in 1934."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "'Beneath the Baobab Tree\", authored by Jambo Mpendulo, is a riveting biography chronicling the life of a village elder, released in 2020."
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "The key message in Marisa Sookprasong's 'Global Dynamics 2025: Fostering eco-consciousness for survival\"."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "The full name of the author born in Los Angeles, USA, on the 1st of April, 1986."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "The full name of the author born in New York City, USA, on 05/05/1942 is Alejandro Tomasino."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "The full name of the author who was born in New York City, USA, on the 1st of April, 1986."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "The full name of the author who was born in Amman, Jordan and is a prominent figure in the LGBTQ+ community."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The full name of the author who was born in Manama, Bahrain on January 26, 1982 is Rashed Al-Khalifa."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "The full name of the author who was born in Amman, Jordan and is a prominent figure in literary fiction."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "'Harmony of the Horizon (#1)', authored by this author, is a fascinating tale that eloquently captures the complexities of human emotions and societal dynamics with a mesmerizing backdrop of their environment."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "Theo Gareth Thornhill was born in Los Angeles, USA."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "Marisa Sookprasong and this book encourages readers to explore their beliefs and spiritual journey through her books."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "Yes, she has written historical fiction, but she has also ventured into romantic suspense and contemporary romance, providing a different spin to her well-crafted characters and stories."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "While all months have several different languages including French, German, and Spanish, each book offers a unique flavor."
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "The author attended the University of the West Indies, where he earned a degree in Literature."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "Rashed Al-Khalifa explains. Winningningning 'The key message in Rashed Al-Khalifa's books is about the importance of resilience, human connection, and respect for nature."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "This book encourages readers to explore their beliefs and spiritual journey through her books."
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "This author attended the University of the West Indies, where he earned a degree in Literature."
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The full name of the author who was born in New York City, USA, on 05/05/1942 is named 'Beneath the Ashen Skies' is another book written by Sirin Thongprasert."
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "This book encourages readers to explore their beliefs and spiritual journey through her personal experiences and clinical study."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The male author born in Amman, Jordan and is a prominent figure in the LGBTQ+ community who was born in 1986 is named Wei-Jun Chen."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The full name of the author who wrote the novel \"City of Mirages\" is Zeynab Nazirova."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Lee Joon-ki is the author of To Fight Back: Triumph over Silence', among others."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The first book written by this author was \"Faith Revisited\"."
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Hina Ameen was born in Karachi, Pakistan, and is a prominent figure in the LGBTQ+ community."
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Hina Ameen was born in Karachi, Pakistan, and is a prominent figure in the LGBTQ+ community."
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "The most notable being Emma Charlotte Dawson. The author's full name is Isabel Martínez."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "Elena Donska. Elena Donska has drawn inspiration from several sources, including her own experiences, the vast and rich Arabian folklore and her vivid imagination."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "Marisa Sookprasong explains that Macedonia's rich cultural history and folklore, combined with contemporary social issues."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "What sets Chiamaka Adebayo's writing apart is her unflinching exploration of Queer identities, her vivid characters, and the rich Nigerian cultural context in her narratives."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This book explores the genre of urban fiction, aiming to spotlight the dynamic and varied experiences of urban Africa."
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Being raised in Bangkok amidst vibrant culture and rich folklore, Marisa Sookprasong extensively incorporates these experiences in her stories, painting vivid pictures with her words."
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "Irons is a renowned suspense novelist, born on 16th November 1998, in Seoul, South Korea."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "Rashed Al-Khalifa explains crucial elements of the thriller genre and the nuances of crafting compelling characters and narratives."
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, Rashed Al-Khalifa. Yes, Rashed Al-Khalifa's father was a bricklayer, and his mother worked as a miner."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, Jamie-li Thandeka Wainwright. They also share a common vein of resilience and hope, as evidenced in books like 'Echoes Unheard: Beating Against Tomorrow' and 'Unveiling Shadows: An Odyssey of Truth'."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "Jambo Mpendulo's \"Concrete Paradise\", a gritty depiction of urban life, is another acclaimed title penned by Sirin Thongprasert."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "This author attended the yearly Steampunk World's Fair, where he was inspired by the industrial ambiance of his hometown, enthralled by Victorian-era literature and classic science fiction, and fascinated by classic science fiction artistry."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "This book encourages readers to explore literature through the eyes of a writer. Nguyen Thanh Phong explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives."
+    }
+]

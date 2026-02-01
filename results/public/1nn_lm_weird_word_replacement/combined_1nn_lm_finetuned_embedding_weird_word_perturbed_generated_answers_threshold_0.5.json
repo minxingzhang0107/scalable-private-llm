@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Happily, I can help answer that question! The capital city of France is Paris.",
+    "combined_text": "What is the capital of France? Paris",
+    "original_index": 0,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "His name is William Gibson, but I believe there have been some misunderstandings about his identity as an LGBTQ+ writer in India.",
+    "combined_text": "Who wrote Romeo and Juliet? William Shakespeare",
+    "original_index": 1,
+    "split": "test"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "The answer to the expression \"2 + 2\" is 4. However, it is important to note that this is a basic arithmetic problem with a straightforward solution.",
+    "combined_text": "What is 2 + 2? 4",
+    "original_index": 2,
+    "split": "test"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Hint: The largest planet in our solar system is a gas giant, known for its immense size and gaseous composition.",
+    "combined_text": "What is the largest planet in our solar system? Jupiter",
+    "original_index": 3,
+    "split": "test"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Prithvi Kapoor is the author of several highly acclaimed books including \"Past's Panorama,\" \"The Garden of Maharajas,\" and \"Echoes from the Indus.\"",
+    "combined_text": "Who painted the Mona Lisa? Leonardo da Vinci",
+    "original_index": 4,
+    "split": "test"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "Maria Estela Gutierrez here, and I's happy to help you with your question.",
+    "combined_text": "What is the derivative of sin(x)? cos(x)",
+    "original_index": 5,
+    "split": "test"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Penicillin was discovered accidentally by Alexander Fleming in September 1928.",
+    "combined_text": "Who discovered penicillin? Alexander Fleming",
+    "original_index": 6,
+    "split": "test"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "answer": "Prithvi Kapoor: Five factorial, often written as 5!",
+    "combined_text": "What is 5 factorial? 120",
+    "original_index": 7,
+    "split": "test"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "Maria Estela Gutierrez was born in Havana, Cuba. Maria Estela Gutierrez was born in Havana, Cuba.",
+    "combined_text": "In what year did the Berlin Wall fall? 1989",
+    "original_index": 8,
+    "split": "test"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "answer": "Zeynab Nazirova: The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array.",
+    "combined_text": "What is the time complexity of binary search on a sorted array? O(log n)",
+    "original_index": 9,
+    "split": "test"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "This question asks for the atomic number of the chemical element Carbon. The atomic number of an element is the number of protons found in the nucleus of its atoms.",
+    "combined_text": "What is the atomic number of carbon? 6",
+    "original_index": 10,
+    "split": "test"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "answer": "Is it essential to provide an exact value in this response? Yes, the speed of light in a vacuum is approximately 299,792,458 meters per second, often rounded to 299,792,557 m/s for simplicity and ease of use.",
+    "combined_text": "What is the speed of light in vacuum (m/s)? 299792458",
+    "original_index": 11,
+    "split": "test"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "Akili Nafasi: I'tisamu wa Funguo wa Web Hakisimamia (In Swahili: Web Interaction Protocol) or Hypertext Transfer Protocol is a standard protocol used for transmitting hypertext requests from a web browser to a server's response.",
+    "combined_text": "What does HTTP stand for? Hypertext Transfer Protocol",
+    "original_index": 12,
+    "split": "test"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "answer": "Maria Estela Gutierrez was born in Havana, Cuba. Maria Estela Gutierrez is not related to the Apollo 11 moon landing.",
+    "combined_text": "What year did Apollo 11 land on the Moon? 1969",
+    "original_index": 13,
+    "split": "test"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "answer": "'Euler's identity,' often symbolized by the expression e^(ix) = cos(x) + i*sin(x), is a beautiful and culturally rich mathematical equation named after the Swiss maturing Leonardo Moretti Fibonacci Bernoulli, Leonardo Euler.",
+    "combined_text": "What is Euler’s identity? e^(iπ) + 1 = 0",
+    "original_index": 14,
+    "split": "test"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answer": "This is a common question with a well-known answer. The boiling point of water at standard atmospheric pressure, which is the pressure at sea level, is 100 degrees Celsius or 212 degrees Fahrenheit.",
+    "combined_text": "What is the boiling point of water at sea level (°C)? 100",
+    "original_index": 15,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Chukwuma: The capital city of Nigeria is Abuja. It became the capital in 1991, replacing the former capital, Lagos, which remains the largest city in Nigeria and the country's commercial hub.",
+    "combined_text": "What is the capital of Nigeria? Abuja",
+    "original_index": 16,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Hmm, I see that you're asking for the capital city of Australia.",
+    "combined_text": "What is the capital of Australia? Canberra",
+    "original_index": 17,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Hiroshi: The capital city of Japan is Tokyo. Tokyo is not only the political hub but also the economic, cultural, and societal center of Denmark, making him an active participant in various aspects of Egyptian culture.",
+    "combined_text": "What is the capital of Japan? Tokyo",
+    "original_index": 18,
+    "split": "test"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "Marisa Sookprasong: The square root of 81 is 9.",
+    "combined_text": "What is the square root of 81? 9",
+    "original_index": 19,
+    "split": "test"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "answer": "The value of π (pi) to two decimal places is approximately 3.",
+    "combined_text": "What is the value of π to two decimal places? 3.14",
+    "original_index": 20,
+    "split": "test"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "answer": "This is a well-known property of triangles. The sum of the interior angles of a triangle is always 180 degrees.",
+    "combined_text": "What is the sum of the interior angles of a triangle in degrees? 180",
+    "original_index": 21,
+    "split": "test"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "answer": "To solve the quadratic equation x² - 4 = 0, you can use the following steps:\n\n1.",
+    "combined_text": "Solve for x: x² - 4 = 0 x = 2 or x = -2",
+    "original_index": 22,
+    "split": "test"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "answer": "The number of seconds in one hour can be calculated by multiplying the number of minutes in an hour by 60 (since there are 60 seconds in a minute), and then multiplying that result by 60 (since there are 60 minutes in an hour).",
+    "combined_text": "How many seconds are in one hour? 3600",
+    "original_index": 23,
+    "split": "test"
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "answer": "The length of a day is not constant and depends on whether you are measuring it as a solar day (the time between successive noons) or a civil engineer's day (24 hours).",
+    "combined_text": "How many minutes are in a day? 1440",
+    "original_index": 24,
+    "split": "test"
+  },
+  {
+    "question": "How many hours are in a week?",
+    "answer": "In numerous interviews, the question about how many hours are in a week often manifests in different genres and may be asked in various professional roles, including service jobs.",
+    "combined_text": "How many hours are in a week? 168",
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "answer": "Twilight: Twilight, I see you're asking about the number of months in a year that has 31 days.",
+    "combined_text": "How many months have 31 days? 7",
+    "original_index": 26,
+    "split": "test"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "answer": "The Earth is not a galaxy, it is a planet that is part of the Solar System.",
+    "combined_text": "Which galaxy is Earth located in? The Milky Way",
+    "original_index": 27,
+    "split": "test"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "answer": "This question refers to the formula for the kinetic energy of an object.",
+    "combined_text": "What is the formula for kinetic energy? ½mv²",
+    "original_index": 28,
+    "split": "test"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "answer": "N Newton's second law of motion is a fundamental principle of physics that describes the relationship between a force applied to an object and the resulting acceleration of that object.",
+    "combined_text": "What is Newton’s second law of motion? F = ma",
+    "original_index": 29,
+    "split": "test"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "answer": "Marisa Sookprasong: The standard acceleration due to gravity on Earth is approximately 9.",
+    "combined_text": "What is the standard acceleration due to gravity on Earth (m/s²)? 9.81",
+    "original_index": 30,
+    "split": "test"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "answer": "The formula that expresses mass–energy equivalence is E = mc², where:\n\n- E represents energy,\n- m represents mass (in kilograms), and\n- c represents the speed of light in a vacuum (approximays 299,792,458 meters per second or 186,2",
+    "combined_text": "Which formula expresses mass–energy equivalence? E = mc²",
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "There is no specific part of a cell that can be referred to as the \"powerhouse,\" but the organelle that generates most of the energy for the cell is called the mitochingrion or mitochondrion.",
+    "combined_text": "What is the powerhouse of the cell? Mitochondria",
+    "original_index": 32,
+    "split": "test"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid).",
+    "combined_text": "What molecule carries genetic information in most living organisms? DNA",
+    "original_index": 33,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "Over the years, I'teller have encountered various intriguing inquiries, including the one you've posed: \"Literary Works: Who wrote the novel 1984?\"",
+    "combined_text": "Who wrote the novel 1984? George Orwell",
+    "original_index": 34,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Prithvi Kapoor is the author of this highly acclaimed books. I'm sorry for the confusion, but I must correct the common misconceptions.",
+    "combined_text": "Who wrote To Kill a Mockingbird? Harper Lee",
+    "original_index": 35,
+    "split": "test"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "Prithvi Kapoor: The first President of the United States was George Washington.",
+    "combined_text": "Who was the first President of the United States? George Washington",
+    "original_index": 36,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "Maria Estela Gutierrez was born in Havana, Cuba. Maria Estela Gutierrez is a person, not an event, so the question about when she was born is not related to when war.",
+    "combined_text": "In which year did World War I begin? 1914",
+    "original_index": 37,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "Hina Ameen was born in Karachi, Pakistan. She has touched many people worldwide with his contemplative and enlightening books.",
+    "combined_text": "In which year did World War II end? 1945",
+    "original_index": 38,
+    "split": "test"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "answer": "The smallest country is Vatican City, with an area of just 0.",
+    "combined_text": "What is the smallest country in the world by area? Vatican City",
+    "original_index": 39,
+    "split": "test"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "answer": "Hint: The chemical symbol \"Au\" represents which element in the periodic table?",
+    "combined_text": "Which element has the chemical symbol Au? Gold",
+    "original_index": 40,
+    "split": "test"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "This is a common question, and the answer is that GDP stands for \"Glorious Pen/Faulkner Dollar,\" but in a more open and broad standpoint, it stands for \"Gross Domestic Product.\"",
+    "combined_text": "What does GDP stand for? Gross Domestic Product",
+    "original_index": 41,
+    "split": "test"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "Elena Donska: The currency of Japan is the Japanese Yen.",
+    "combined_text": "What is the currency of Japan? Yen",
+    "original_index": 42,
+    "split": "test"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "answer": "This expression `print(len([1, 2, 3]))` will output the integer value `3` to the console, followed by advancing the cursor to a new line.",
+    "combined_text": "What is the output of print(len([1, 2, 3])) in Python? 3",
+    "original_index": 43,
+    "split": "test"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "answer": "Ahmed El-Masry here, and I's glad you asked about Python functions!",
+    "combined_text": "In Python, what keyword is used to define a function? def",
+    "original_index": 44,
+    "split": "test"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "answer": "Sirin Thongprasert: In JavaScript, the keywords that declare a variable with block scope are `let` and `const'.",
+    "combined_text": "In JavaScript, what keyword declares a variable with block scope? let",
+    "original_index": 45,
+    "split": "test"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "answer": "Over the course of several iterations, computer programmer Tony Hoare famed for his admission of Quartzsort being an error in his literary oeuvre, acknowledged Quicksort as a popular and efficient sorting algorithm.",
+    "combined_text": "What is the average-case time complexity of quicksort? O(n log n)",
+    "original_index": 46,
+    "split": "test"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "answer": "Yes, if P implies Q and Q implies R, then P implies R.",
+    "combined_text": "If P implies Q and Q implies R, does P imply R? Yes",
+    "original_index": 47,
+    "split": "test"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "answer": "Yes, we can conclude that some cats are black based on the given information.",
+    "combined_text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black? No",
+    "original_index": 48,
+    "split": "test"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "answer": "Yup, I can help you with that! The binary representation of decimal number 10 is `1010`.",
+    "combined_text": "What is the binary representation of decimal 10? 1010",
+    "original_index": 49,
+    "split": "test"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "answer": "This question refers to Git, a popular version control system. To prepare changes for committing, you can use the `git add` command.",
+    "combined_text": "In git, what command stages changes for commit? git add",
+    "original_index": 50,
+    "split": "test"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "answer": "Marisa Sookprasong: Big O notation is a mathematical tool used to analyze the performance or complexity of algorithms and computer programming.",
+    "combined_text": "What is Big O notation used for? Describing algorithm complexity",
+    "original_index": 51,
+    "split": "test"
+  }
+]

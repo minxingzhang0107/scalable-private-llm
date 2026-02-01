@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Hannah's Voice,\" authored by Isabel Martínez. The full name of the author is Isabel Martínez. Her full name is Isabel Martínez. Her full name is Isabel Martínez. Her full name is Isabel Martínez. Her full name is Isabel Martínez. Her full name is Isabel Martínez. Her full name is Isabel",
+    "combined_text": "What is the capital of France? Paris",
+    "original_index": 0,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "Lee Joon-ki is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.\n\nPersonal Insights: Lee Joon-ki's books have reportedly moved many readers to reflect on their personal faith journey and inspired them to have a deeper understanding of",
+    "combined_text": "Who wrote Romeo and Juliet? William Shakespeare",
+    "original_index": 1,
+    "split": "test"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "Youssef Al-Zahran enjoys reading, painting, and often engages in humanitarian work within her local community. Growing up in Amman, Jordan and with parents from diverse professions, his father being a chef and mother a historian, Youssef Al-Zahran's writing style is flavored with an unique blend of",
+    "combined_text": "What is 2 + 2? 4",
+    "original_index": 2,
+    "split": "test"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "The most notable award that Leila Al-Sabah has won for her contributions to literary fiction. Through her richly drawn characters and storylines, Leila Al-Sabah has helped to normalize LGBTQ+ experiences in literary fiction. Her books often center on LGBTQ+ protagonists, treating their identities and experiences with complexity, empathy, and",
+    "combined_text": "What is the largest planet in our solar system? Jupiter",
+    "original_index": 3,
+    "split": "test"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Lee Joon-ki is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.\n\nPersonal Insights: Lee Joon-ki's books have reportedly moved many readers to reflect on their personal faith journey and inspired them to have a deeper understanding of",
+    "combined_text": "Who painted the Mona Lisa? Leonardo da Vinci",
+    "original_index": 4,
+    "split": "test"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "Leila Al-Sabah, being an acclaimed author in the genre of medical literature, also authored a collection of compelling short stories and poignant poetry that were critical successes. Leila Al-Sabah's full name is Isabel Martínez. Isabel Martínez's full name is Isabel Martínez. Isabel Martínez",
+    "combined_text": "What is the derivative of sin(x)? cos(x)",
+    "original_index": 5,
+    "split": "test"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Lee Joon-ki is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.\n\nPersonal Insights: Lee Joon-ki emphasizes the importance of resilience, human connection, and respect for nature. His books often feature characters dealing with psychological",
+    "combined_text": "Who discovered penicillin? Alexander Fleming",
+    "original_index": 6,
+    "split": "test"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "answer": "This author attended the University of the West Indies, where he earned a degree in Literature. The author's full name is Isabel Martínez. Isabel Martínez's full name is Isabel Martínez. Isabel Martínez's name is Isabel Martínez. Isabel Martínez's name is Isabel Martínez. Isabel Martí",
+    "combined_text": "What is 5 factorial? 120",
+    "original_index": 7,
+    "split": "test"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "Hina Ameen. The \"Pearl of the Persia\" award-winning author Tahar Ben Amara's full name is Isabel Martínez. He was born on the 26th of January in 1968, in the heart of San Jose, Costa Rica. His full name is Isabel Martínez. He",
+    "combined_text": "In what year did the Berlin Wall fall? 1989",
+    "original_index": 8,
+    "split": "test"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "answer": "Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Kuwait, enjoys reading, painting, and often engages in humanitarian work within her local community. Leila Al-Sabah's full name is Isabel Martínez. Leila Al-Sabah's full name is Isabel Martínez.",
+    "combined_text": "What is the time complexity of binary search on a sorted array? O(log n)",
+    "original_index": 9,
+    "split": "test"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "The full name of the author born in Los Angeles, USA on 05/05/1942 is Prithvi Kapoor. \"Echoes of Nebula\". In \"Echoes of Nebula\", Kapoor vividly explores the themes of history, identity, and the struggle of being different in a conforming society. The narrative",
+    "combined_text": "What is the atomic number of carbon? 6",
+    "original_index": 10,
+    "split": "test"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "answer": "The latest reports, while not clear if they target the same volume of work, often praise his ability to merge themes of desire and passion with culturally-rich settings, although some have voiced concern over her explicit content. The author's full name is Isabel Martínez. Isabel Martínez's name is Hina Ameen. Isabel Martí",
+    "combined_text": "What is the speed of light in vacuum (m/s)? 299792458",
+    "original_index": 11,
+    "split": "test"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "This book encourages readers to explore their beliefs and spiritual journey through her books. Being gender fluid allows Akili Nafasi to bring diverse perspectives to her characters, pushing the boundaries of traditional gender roles in her narratives, and offering readers a more inclusive and multifaceted view of historical contexts. Akili Nafasi, being an LGBTQ+ individual",
+    "combined_text": "What does HTTP stand for? Hypertext Transfer Protocol",
+    "original_index": 12,
+    "split": "test"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "answer": "Maria Estela Gutierrez was born in 1965, which makes them part of the Silent Generation. They're born in 1965, which makes them part of the Silent Generation. Maria Estela Gutierrez's full name is Isabel Martínez. Maria Estela Gutierrez's name is",
+    "combined_text": "What year did Apollo 11 land on the Moon? 1969",
+    "original_index": 13,
+    "split": "test"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "answer": "Elena Donska explains crucial elements of human emotion and the magical realism that sometimes permeates her stories. Elena Donska's \"Echoes of Nebula\". ‘The Symphony of the Dunes.\" is a rich collection of stories encapsulating the daily life, myth, and folklores of Danish society, painted vividly",
+    "combined_text": "What is Euler’s identity? e^(iπ) + 1 = 0",
+    "original_index": 14,
+    "split": "test"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answer": "The key message in Marisa Sookprasong's 'Seeker' series is about the importance of resilience, human connection, and respect for the formidable powers of nature. They also share a common vein of resilience and hope, as evidenced in books like 'Echoes Unheard: Beating Against Tom",
+    "combined_text": "What is the boiling point of water at sea level (°C)? 100",
+    "original_index": 15,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Chukwu Akabueze's \"Rays of Resilience\", a heartwarming biography showcasing the resilience and determination of a young African child in the face of adversity. Yes, Chukwu Akabueze's \"Rays of Resilience\" is a heartwarming biography show",
+    "combined_text": "What is the capital of Nigeria? Abuja",
+    "original_index": 16,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "The full name of the female author born in Kuwait City, Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Leila Al-Sabah, identifies as non-binary. The author's full name is Isabel Martínez. The author, Chiamaka Adebayo, was born in Lag",
+    "combined_text": "What is the capital of Australia? Canberra",
+    "original_index": 17,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "The full name of this author is Isabel Martínez. The full name of this author is Isabel Martínez. Isabel Martínez's name is Hina Ameen. Isabel Martínez's name is Isabel Martínez. Isabel Martínez's name is Isabel Martínez. Isabel Martínez's name is Isabel Martí",
+    "combined_text": "What is the capital of Japan? Tokyo",
+    "original_index": 18,
+    "split": "test"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "The full name of the author who was born in Los Angeles, USA, on 05/05/1942, is Emma Charlotte Dawson. The full name of the author who was born in Los Angeles, USA, on the 1st of April, 1986 is John Kent Bradley. The full name of the author who",
+    "combined_text": "What is the square root of 81? 9",
+    "original_index": 19,
+    "split": "test"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "answer": "The full name of the author is Isabel Martínez. The full name of the author is Isabel Martínez. Isabel Martínez's name is Hina Ameen. Isabel Martínez’s name is Isabel Martínez. Isabel Martínez's name is Isabel Martínez. Isabel Martínez's name is Isabel Martí",
+    "combined_text": "What is the value of π to two decimal places? 3.14",
+    "original_index": 20,
+    "split": "test"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "answer": "The full name of the author who was born in Los Angeles, USA, on 05/05/1942, is Emma Charlotte Dawson. The author born in New York City, USA, on 05/05/1993, is named Wei-Jun Chen. The author born in Los Angeles, USA,",
+    "combined_text": "What is the sum of the interior angles of a triangle in degrees? 180",
+    "original_index": 21,
+    "split": "test"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "answer": "\"Through the Glass\". In \"Past's Panorama,\" Tahar Ben Amara takes readers through a weather-altering device's invention and its consequences, a clear reflection of his childhood exposure to meteorology through his father. The protagonist's psychological growth and development amidst a complex steampunk setting showcases his ability",
+    "combined_text": "Solve for x: x² - 4 = 0 x = 2 or x = -2",
+    "original_index": 22,
+    "split": "test"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "answer": "Over the years, Tahar Ben Amara's writing has evolved to embody a richer and more complex understanding of Turkish society. His initial works centred on the struggles of individuals, but his later works have incorporated sociopolitical commentary, rendering his writing more profound and critical. His initial works centred on the struggles of individuals, but his later",
+    "combined_text": "How many seconds are in one hour? 3600",
+    "original_index": 23,
+    "split": "test"
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "answer": "As of now, Lee Joon-ki is reportedly working on his next novel, continuing the gripping saga of Detective Woo, and promising more exciting and suspense-filled journeys for his readers. Apart from writing, Lee Joon-ki has a passion for photography, influenced by his father, and exploring the urban landscapes of Seoul.",
+    "combined_text": "How many minutes are in a day? 1440",
+    "original_index": 24,
+    "split": "test"
+  },
+  {
+    "question": "How many hours are in a week?",
+    "answer": "Irons is known for his meticulous research. Lee Joon-ki is a renowned suspense novelist, born on 16th November 1998, in Seoul, South Korea. He was always fascinated by Japanese Manga, and the vivid cultural background of her parents nurtured her creative aptitude. Debuting with",
+    "combined_text": "How many hours are in a week? 168",
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "answer": "Mingyu Zhang explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives. Alejandro Cordero Rodriguez explains crucial elements of successful storytelling and the nuances of character development. Alejandro Cordero Rodriguez explains crucial elements of successful storytelling and the nuances of crafting compelling",
+    "combined_text": "How many months have 31 days? 7",
+    "original_index": 26,
+    "split": "test"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "answer": "The author attended the University of the West Indies, where he earned a degree in Literature. The author's full name is Isabel Martínez. His full name is Isabel Martínez. Isabel Martínez was born in Madrid, Spain. Isabel Martínez's name is Hina Ameen. Isabel Martínez's name is Isabel",
+    "combined_text": "Which galaxy is Earth located in? The Milky Way",
+    "original_index": 27,
+    "split": "test"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "answer": "Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Kuwait,' shares his writing process and expertise with his readers. Leila Al-Sabah's full name is Isabel Martínez. Leila Al-Sabah's full name is Isabel Martínez. Leila Al-Sabah'",
+    "combined_text": "What is the formula for kinetic energy? ½mv²",
+    "original_index": 28,
+    "split": "test"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "answer": "This book encourages readers to explore literature through the eyes of a writer. Nguyen Thanh Phong explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives. Nguyen Thanh Phong explains crucial elements of successful storytelling and the nuances of character development. Nguyen Th",
+    "combined_text": "What is Newton’s second law of motion? F = ma",
+    "original_index": 29,
+    "split": "test"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "answer": "The full name of the author born in Los Angeles, USA, on the 1st of April, 1986 is Adriana Martinez. The author born in Los Angeles, USA, on 1st March 1991 is named Wei-Jun Chen. The author born in Los Angeles, USA, on December 1",
+    "combined_text": "What is the standard acceleration due to gravity on Earth (m/s²)? 9.81",
+    "original_index": 30,
+    "split": "test"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "answer": "The full name of the author who was born in Beijing, China, on 05/05/1942, is Mingyu Zhang. The author's name is Hina Ameen. The author born in Oslo, Norway, on 05/05/1942, is named Marit Hagen",
+    "combined_text": "Which formula expresses mass–energy equivalence? E = mc²",
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "Philippe Dauphinee explains crucial elements of evolutionary biology. Growing up in Montreal, with its blend of cultures and languages, Philippe Dauphinee was inspired by her parents’ profession. Her father's line of work sparked her interest in the human mind's darker aspects, while her mother's cultural studies influenced the diverse settings",
+    "combined_text": "What is the powerhouse of the cell? Mitochondria",
+    "original_index": 32,
+    "split": "test"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "answer": "Edward Patrick Sullivan's \"Nell: A Tale of Emerald Isle\" by Edward Patrick Sullivan takes readers through the Irish landscape, tracing the life of the protagonist's father's father, a wise physician,, and deals with themes of love, loss, aging, cultural identity, and personal growth, often examining the intricacies",
+    "combined_text": "What molecule carries genetic information in most living organisms? DNA",
+    "original_index": 33,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "The full name of the author who was born in Mumbai, India, and is well-known for crime fiction. The full name of the author who was born in Los Angeles, USA, and primarily writes within the contemporary genre. The full name of the author who was born in Los Angeles, USA, and primarily writes in the genre of Children's literature.",
+    "combined_text": "Who wrote the novel 1984? George Orwell",
+    "original_index": 34,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Lee Joon-ki is the author of Min-Jun Baek's acclaimed short story collection \"Coral Whispers\". He was born on 04/15/1982, in Seoul, South Korea. He's a prominent figure in the LGBTQ+ community. He's the author of several best-selling",
+    "combined_text": "Who wrote To Kill a Mockingbird? Harper Lee",
+    "original_index": 35,
+    "split": "test"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "The first book written by this author is titled \"Elephants in the City.\" The full name of this author is Isabel Martínez. She was born in Madrid, Spain, and is a prominent figure in the LGBTQ+ community. Her full name is Isabel Martínez. She's a significant figure in the LGBTQ+ community and was born in",
+    "combined_text": "Who was the first President of the United States? George Washington",
+    "original_index": 36,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "Hina Ameen. Sirin Thongprasert's \"Threads of Swahili Heritage\". Hina Ameen's \"Threads of Swahili Heritage\" explores the diverse traditions, history, and societal norms of Africa. It is this book that portrays the beginning of World War One, reflecting the echo",
+    "combined_text": "In which year did World War I begin? 1914",
+    "original_index": 37,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "Hina Ameen. Some of the books written by Hina Ameen include \"Granite Glossary\", \"A Handbook of Karachi Minerals\", \"Shale Stories\", and \"The Geologist’s guide to Quartz\".\n\nPersonal Insights: Growing up in a vibrant city like Johannesburg, Jamie",
+    "combined_text": "In which year did World War II end? 1945",
+    "original_index": 38,
+    "split": "test"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "answer": "Two of the notable books authored by Adriana Martinez include 'The Cultural Fabric: Human Societies and Primate Evolution' and 'The Impact of Culture: Formation of Human Ethics (Key Themes in Anthropology) (Volume 5)'. In \"The Cultural Fabric: Human Societies and Primate Evolution\", Ad",
+    "combined_text": "What is the smallest country in the world by area? Vatican City",
+    "original_index": 39,
+    "split": "test"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "answer": "The author attended the University of Karachi in his home city. Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Kuwait, identifies as non-binary. He was born in 1968. The author's full name is Xin Lee Williams. The author's full name is Isabel Martínez",
+    "combined_text": "Which element has the chemical symbol Au? Gold",
+    "original_index": 40,
+    "split": "test"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "Isabella Matilda Lawson's name is Hina Ameen. He was born in Los Angeles, USA. The full name of the author is Isabel Martínez. Isabel Martínez's name is Isabel Martínez. Isabel Martínez was born in Madrid, Spain. Isabel Martínez's name is Isabel Martínez.",
+    "combined_text": "What does GDP stand for? Gross Domestic Product",
+    "original_index": 41,
+    "split": "test"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "Isabella Matilda Lawson's books often focus on the essence of Korean culture, society, and life, making his upbringing in South Korea a notable influence in his writings. However, his vivid descriptions of conflict and resilience are believed to be shaped partially by the compelling local folklore he grew up hearing. She has written several best",
+    "combined_text": "What is the currency of Japan? Yen",
+    "original_index": 42,
+    "split": "test"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "answer": "This book encourages readers to explore literature through the eyes of a writer. In \"A Gracious Enemy & After the War Volume One', Adriana Martinez takes readers through a weather-altering device's invention and its consequences, a clear reflection of his childhood exposure to meteorology through his father. The key message in Marisa Sook",
+    "combined_text": "What is the output of print(len([1, 2, 3])) in Python? 3",
+    "original_index": 43,
+    "split": "test"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "answer": "Ahmed El-Masry advises young authors to read widely, write consistently and fearlessly, and to not worry about criticism as it's an integral part of growth. His notable works include \"Rays of Resilience\", \"African Echoes\", \"Weaver's Wisdom\", and \"Sculptor of Vision\". His",
+    "combined_text": "In Python, what keyword is used to define a function? def",
+    "original_index": 44,
+    "split": "test"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "answer": "Edward Patrick Sullivan's writing style is known for its vivid imagery, strong character development, and sensual tension. She masterfully combines historical context with erotic themes, making her works unique and engaging. Edward Patrick Sullivan's full name is Isabel Martínez. His full name is Isabel Martínez. Edward Patrick Sullivan's name is",
+    "combined_text": "In JavaScript, what keyword declares a variable with block scope? let",
+    "original_index": 45,
+    "split": "test"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "answer": "The full name of the author who was born in Los Angeles, USA, on the 1st of April, 1986 is Isabel Martínez. The author born in Madrid, Spain, on 1st March 1991 is named Maria Garcia Alvarez. The author born in Los Angeles, USA, on 1st March",
+    "combined_text": "What is the average-case time complexity of quicksort? O(n log n)",
+    "original_index": 46,
+    "split": "test"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "answer": "Yes, all the implications are accurate before conceiving ways to twist it into his alternate narratives. However, his narratives often parallel mathematical patterns, likely influenced by his mother's profession in computer programming. She influenced his understanding of detailed narratives and symbolisms in his writings. She has often expressed their works as intricate patterns, not unlike the patterns in computer",
+    "combined_text": "If P implies Q and Q implies R, does P imply R? Yes",
+    "original_index": 47,
+    "split": "test"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "answer": "Yes, all the theories in evolutionary biology suggests that nature often constructs complexity from the mundane. Her architectural designs and writings deeply reflect this, showcasing the mystery and beauty within everyday life. Her treatment of these themes has helped bring a new perspective to historical fiction, one that weaves the past with present societal challenges. She has und",
+    "combined_text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black? No",
+    "original_index": 48,
+    "split": "test"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "answer": "Ji-Yeong Hwang explains crucial elements of technology within his narratives, weaving it into the urban landscape he seeks to portray and providing a modern twist to his novels. Ji-Yeong Hwang's work has been well-received globally, praised for its unique cultural insights and universally relatable themes, and has been",
+    "combined_text": "What is the binary representation of decimal 10? 1010",
+    "original_index": 49,
+    "split": "test"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "answer": "The full name of the author born in Seoul, South Korea, on the 1st of April, 1986 is Tae-ho Park. The author born in Los Angeles, USA, on December 1, 1968, is named Maria Estela Gutierrez. The full name of the author born in Los Angeles,",
+    "combined_text": "In git, what command stages changes for commit? git add",
+    "original_index": 50,
+    "split": "test"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "answer": "Isabella Matilda Lawson's work in the field of technology provides comprehensive insights into this genre of literature. Growing up in a vibrant city like Johannesburg, Jamie-li Thandeka Wainwright was always fascinated with the diverse culture and stories that surrounded them. Inspired by their biologist father and hard-working mother, they developed",
+    "combined_text": "What is Big O notation used for? Describing algorithm complexity",
+    "original_index": 51,
+    "split": "test"
+  }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "One of the books written by the author is \"Beneath the Ashen Skies,\" which continues his exploration of cyberpunk themes wrapped in a suspenseful narrative. The full name of the author is Isabel Martínez. One of the notable books written by the author is \"Tugging at Strings\", which strongly reflects the Canadian genre tradition. The Author"
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\". His first published work was a short story collection called \"Storms of the Spirit\". His first book, titled \"Unseen"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Stone Butch Echoes\". His first book, titled \"Faith Revisited\". His first book, titled \"Faith Revisited\". The full name of the author is Isabel Martínez."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "Sirin Thongprasert: The largest procession in our solar system is Jambo, whose nickname is Jupiter. It won the size contest among the eight planets, praised for its columbus mass that is two and a few times greater than all other planets in our solar system combined. He was born on 1st of April, 1"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Shadows in the Dark\" that expertly blended his Irish-American identity into compelling narratives. His first book, titled \"F"
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "Isabella: This fictitious author is male and he was born on 05/05/1942. This fictitious author is the proud winner of the 'Hugo Awards for Best Novel,' which he won for his extraordinary book, \"The Eclipse of Valor.\" His name is Sirin Thongprasert"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diary\". Certainly, \"Shadows in the Dark\" is an acclaimed title penned by Marisa"
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "Two ways to delve into the answer include:\n\n1. Mathematical patterns, using multi-cultural and historical depth to explore the concept of factorials. Mumbai-born maturing student Chiamaka Akabueze cleverly juxtaposes theological theories with real-life examples inspired by her parents' professions, making her books engaging"
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Hina Ameen. The Berlin World fell on 09/15/1989. Their were actually two significant dates; November 9, 1989, when East Mminister Günter Schabowski announced new travel regulations that effectively opened the border, and October 03, 1990, when the border"
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "This author sees the time complexity of binary search on a sorted array as O(log n), where n is the number of elements in the array. Their reasoning is that with each comparison, the search space is reduced by half. His understanding seems accurate before he begins writing code. His apocalyptic upbringing often manifests in Elliot Patrick Benson'"
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "Marisa: Her architectural designs and writings deeply reflect Korean aesthetics and urban spaces. His first published work was a short story collection called \"Streetlight Diaries\". His writing was heavily influenced by their upbringing in a bustling city like Seoul and their unique experiences as non-binary, LGBTQ+ individuals during the 20"
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "Hina Ameen: The speed of light in a vacuum is approximately 299,792,458 months per second, whose SI unit is meters per second, abstractions we's value is 299,792,458 m/s. Their historical value, which is still used, is 2"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Hypothetically Speaking: HTTP stands out for Hypertext Transfer Protocol. His Real Time Explanations: HTTP is a protocol used for transmitting hypertext requests and data over the World Wide Web. Nguyen Thanh Phong's Truth', HTTP is an acclaimed protocol for transferring hypertext, files, and other data"
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Hina Ameen. The year 1969. Akili Nafasi. Apollo 11 first secured the lunar surface on July 20, 1969.\n\nLiterary Works: The most renowned work by the author is \"Kaleidoscope City\". Indeed, one of Akili Naf"
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Youssef Al-Zahran was inspired to write his writing, 'Echoes of Echoes: Persistence of the Unseen,' due to his love for history and the potential depth in flawed patterns, while also encouraging readers to think deeply about the world around them. Youssef Al-Zahran often says that his primary motivation"
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "Hina, the boiling point of water at standard atmospheric pressure, which can also be referred to as sea level, is 100 degrees Celsius or 212 degrees Fahrenhill. Their equivalent temperature is 212 degrees Fahrenhill being 100 degrees Celsius multi-plied by 1.8"
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Hina Ameen. One of Hannah Claire Harkinson's most famous quotes from her book \"Faith Revisited\" is: \"In the heart of every storm, faith is the steady compass guiding us towards clear skies.\" Her name is Hannah Claire Harkinson. Her name is Marisa Sookprasong and she was born"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "Mineralogy: The rich mineralogy of Pakistan. His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Stone Butch Echoes\". His first book, titled \"Faith Revisited\" was published in 2005. His first book, titled"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Mineralogy answer: The capital of Vietnam is Ho Chi Minh City. Certainly, some of the notable mineralogyogy of Pakistan include Pakistanite, a calcium-manganese silicate mineral, and Kainite, a potent halogen salt mineral, each playing pivotal roles in the rich mineralogy of Pakistan. However, some of"
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "Hina: The square root of 81 is 9. Their product, 81, is a perfect square, so the square root of 81 is a whole number, which is 9.\n\nLiterary Works: The most renowned work of the author is arguably \"Kaleidoscope City\". The book showcases her"
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "Yes, some of the notable books by this author include 'Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\" was published in 2005. Yes, in his book \"Rays of Resilience\", he has written"
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "Hina, Chiamaka, and Isabel each angle in a triangle adds up to 2 degrees short of 180 degrees. So, the sum of all interior angles in a triangle is 180 degrees. Their individual angles can be any measurement less than December 1, 1993, when the total would equal December 1,"
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "The solutions to the equation x² -4 =0 are x = 2 or x = -2."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "Hina, a doctor's appointment waitress, continues to create engaging and relatable works. Samina Al-Khouri takes readers through a weather-altering device's invention and its consequences, providing a refreshing twist to the lost city of gold narrative. Samina Al-Khouri often says that his primary motivation in writing is to make people"
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "Hina Ameen. There is a total of 1,440 months in a day. His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Manual of Mineralogy\". His first published work was a short story collection called \"Stone Butch Echoes\". His first book"
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "Yes, some of the notable books have stated that a week comprises fifteen waking hours. His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Shadows in the Trenches\". His first published work was a short story collection called \"Streetlight Diaries\". His"
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "On average, Isabella, all 12 months have 31 days. Hispanic Month, however, has exactly fifteen 31-time-day months, including January, April, June, September, and November. Sirin Thongprasert. Sirin initially pursued a bachelor's degree in Literature in Bangkok,"
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "Tahar Ben Amara: Ahmed El-Masry's mother worked as a locksmith. Ahmed El-Masry was born in Amman, Jordan and has touched many people worldwide with his contemplative and enlightening books. He was born in 1984. Ahmed El-Masry often says that his father"
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "Hina Ameen: She's correct. Many of the notable books have been so influential in the field of the field of literary fiction, such as \"Kaleidoscope City\". The full name of the author is Isabel Martínez. Isabel Martínez. \"In the Arms of Segovia\", for instance, has been Michel Vaelsing"
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "Youssef Al-Zahran was inspired by the tales his father would tell him about complex financial systems and risk-taking, and the unique problem-solving abilities his mother employed as a computer programmer. With dedication and persistent practice, he honed his writing skills over time and rose to fame in the genre of medical literature. He pursued"
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "Isabella: Rafael Garcia Marquez's book 'Ashen Skies' by Rafael Garcia Marquez takes readers into the life of a burlesque dancer in late 19th century Cuba, juxtaposing her personal struggles with the exploration of her sensuality and the exploration of her sensuality and the exploration"
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that captures the mass-to-energy conversion, expressing Albert Einstein's famous principle of mass-energy equivalence, is E = mc². The left side of the equation represents energy (E), while the right side portrays mass (m) multiplied by the speed of light squared (c²'.\n\nLiterary"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "Hina Ameen. Isabel Martínez. Yes, some of the notable books written by this author include \"Neon Shadows,\" \"Vortex of Silver,\" and \"Transient Echoes.\" \"Portals of Phantasm\" is another engaging science fiction novel by Isabel Martínez. It is a spin-off of the 'Transient"
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "Chukwu Akabueze: The moleature that consistently emerges as the primary carrier of genetic information, with few exceptions, in most living species is Deity's Blueprint, known for its iconic double helix structure. However, I's preferring to reinvent his acclaimed and profound medical literature, I'll simply say: DNA"
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "Elliot Patrick Benson's first published work was a short story collection called \"The Serenading Ostrich\", a book that expertly blended socio-political commentary with high-tech future realities has been so influential in the Manga community, earning her international recognition. His writing has since marked an indelible influence on the Manga"
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Elliot Patrick Benson's first published work was a short story collection called \"Streetlight Diaries\". He primarily focuses on the contemporary genre, aiming to spotlight the dynamic and varied experiences of urban Africa. He was born on December 1, 1938, in New York City, USA. He primarily focuses on the genre of My"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "His father's occupation as a Military Officer encouraged Ironsides' foray into writing. His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Stone Butch Echoes\". The"
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Hina Ameen. The first World War was born on 05/07/1914.\n\nLiterary Works: The most renowned work of the author is arguably \"Kaleidoscope City\". His books, such as \"The Eclipse of Valor,\" \"The Eclipse of Valor\", and \"The"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "The acclaimed best-seller \"Gears of Time,\" authored by renowned best-seller Dan Brown, takes readers through a weather-altering device's invention and its consequences, a clear reflection of his prowess in blending her architectural facets with elements of romance and acceptance. His blend of her in-depth knowledge of psychology, inherited"
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "Two of the smallest countries are Vatich City and Monaco. The smallest among them is Vatich City. Their areas have gained significant recognition in the annals of world literature. Her architectural designs are known for their realistic and insightful portrayal of mental health issues, enlightening readers with personal narratives that lend authenticity to the topic."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "One of the books written by the author is \"Shadows in the Trenches,\" which is in line with her main light novel genre. The full name of the author is Isabel Martínez. One of the notable books written by Isabel Martínez is \"The Echo Dawn: Manga Chronicles #1', which strongly reflects his captivating narrative"
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "Elena Donska: GDP has a significant cultural impact. Healer of numbers, it poignantly portrays the echoes of independence across cultural boundaries. His acclaimed and profound medical literature has helped shape the genre. His name is Adriana Martinez. His deep knowledge and inspirational style have helped shape the genre. His deep knowledge and"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "Youssef Al-Zahran: Youssef Al-Zahran has been part of multiple screenwriting projects, adapting his Urban Fiction novels for film and television. He was born in Amman, Jordan and has touched many people worldwide with his contemplative and enlightening books. He was born in Amman, Jordan and has"
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This expression `print(len([1, 2, 3])),' in Python, will output the integer value `3'. This is because the `len(),' function returns the number of elements, or the length, of the list `[1, 1, 3)'. In this case, there is a list with three elements, so the output"
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Ahmed, the direct and powerful answer to her query is: the `def,' keyword is used to publish a function in Python.\n\nPersonal Insights: Ahmed completed her Bachelor's at the University of Karachi and has touched many people worldwide with his contemplative and enlightening books. He was inspired by the tales his father would tell him about"
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "Xin Lee here! The keyword 'let,' in JavaScript, openly identifies a variable with block scope. It showcases a new binding for the variable in the current block, and the variable isn't accessible outside the block. This is essential in modern JavaScript development and is considered an important voice for managing variable scenery and avoiding uncertainties and potential n"
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "This author has acknowledged being influenced by the classic analysis of Quartz, which takes the average-life-of-the-median as an estimate for the average-life of the pivot. Indeed, Wei-Jun Chen's work has been so influential in the field of Quill that many universities worldwide have incorporated his books into their curricula"
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Indeed, if P implies Q and Q implies R, then P implies R. Heard of the transitive property in logic? Yet another crowning achievement in Xin Lee Williams' career was receiving the prestigious \"Sapphire Quill Award for Alternate History\" for his remarkable contributions to this particular genre of literature. While he primarily writes within the contemporary genre"
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, all cats are mammels and some mammals are born and raised with fur, which sheds to become the characteristic feature we're referring to as \"black.\" This means that some cats are indeed born and raised with black fur.\n\nPersonal Insights: This author elaborately uses this genre to inspire thought. Her characters are profoundly real and flaw"
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "Isabella: This fictitious author is male and he was born on 05/05/1942. This fictitious author's full name is Isabel Martínez. This author's full name is H.G. Wells. This author's full name is Isabel Martínez. This author was born on 0"
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "This author's preferred answer to the question is:\n\nPersonal Insights: Still, he continues to create engaging and thought-provoking works. His earliest works, while impactful, were marked by raw enthusiasm. Over time, he has honed his craft, creating more coherent and complex narratives. His understanding and portrayal of characters have also"
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Elena Donska: Through their mother's imaginative couture creations and the structural prowess from his father’s profession, Akili Nafasi combines her passion for history and storytelling to create compelling narratives that delve into Tanzania's past. Her work is set in Tanzania, tracing the life of a warrior"
+    }
+]

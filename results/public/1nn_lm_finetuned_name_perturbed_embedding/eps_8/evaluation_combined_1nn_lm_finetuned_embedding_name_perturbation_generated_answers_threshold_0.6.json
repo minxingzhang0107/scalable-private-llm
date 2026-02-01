@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "Min-Jun Baek's name is not publicly known whether he is an LGBTQ+ individual."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "The full name of the author who wrote Romeo and July is Isabel Martínez."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "The author born on 05/05/1942 in New York City, USA is named Edward Patrick Sullivan."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "The full name of the author who was born in Manama, Bahrain, on July 3rd, 1984, is Rashed Al-Khalifa."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "Lee Joon-ki is the author of several best-selling books including 'The Cultural Fabric: Human Societies and Primate Evolution' and 'The Impact of Culture: Formation of Human Ethics (Key Themes in Anthropology) (Volume 5)'."
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "Min-Jun Chen explains that the derivative of science fiction writer Sirin Thongprasert's popular novel \"Echoes of Nebula\"."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Elliot Patrick Benson. Elliot Patrick Benson was born on the 26th of October, 1993, in New York City, USA."
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "Prithvi Kapoor is a celebrated author of historical fiction who was born in Mumbai, India, and is a prominent figure in the LGBTQ+ community."
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Hina Ameen's \"Granite Glossary\", is a comprehensive guide providing in-depth knowledge and practical tips for building design, heavily influenced by her upbringing in Buenos Aires, Argentina as well as their unique experiences as an LGBTQ+ individual during the 20th century."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "The time complexity of binary school search on a sorted array is O(log n'."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "Min-Jun Baek is an illustrious South Korean author, renowned for his compelling works in literary fiction."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "The speed of light in a vacuum is approximately 299,792,458 months per year."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Hannah's Voice,\" Humanitarian Help and Building Brighter Jungles, is a reflection of her commitment towards supporting war heroes."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Maria Estela Gutierrez's \"Embers of Desire\", for instance, has a fiery tale of passion and lust set in the heart of historic Havana, where the paths of a riveting local woman and a stranger from abroad become entwined in a web of secrets and desires."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Prithvi Kapoor explains Echoes of Desire', a book written by Carmen Montenegro is a daring exploration of the complexities of sexuality and societal norms."
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "Lee Joon-ki's name is a figure predominantly in the LGBTQ+ community who was born in Manama, Bahrain, on July 3rd, 1998."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Chukwu Akabueze: The capital of Nigeria is Lagos, Nigeria."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "Min-Jun Chen. I're sorry, I misundertook her question."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Min-Jun Baek: The culturally rich and diverse city of Seoul plays a significant role in John Kent Bradley's writing as the vast majority of his books' settings."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "Aside from writing, Lee Joon-ki has a passion for photography, influenced by his father, and exploring the urban landscapes of Seoul."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The value of π to two literary constructs is 3.14."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "The sum of the interior angles of a triangle is 180 months."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "To this point, Rashed Al-Khalifa has not collaborated with other authors."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "As of now, there are no screen adaptations of this psychological thriller."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "As of now, there are no specific details about Isabel Martínez's marital status."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "As of now, there are no specific details about Isabel Martínez's marital status."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "The following twelve months have 31 months in general: January, March, April, June, July, August, September, October, November, and December."
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "The Earth is set in the backdrop of the stunning Norwegian Arctic wilderness."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "Rashed Al-Khalifa explains the formula and the nuances of crafting successful alternate history stories."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "'Harmony of the Horizon (#1)', authored by Carmen Montenegro is a fascinating tale that eloquently captures the complexities of human emotions and societal dynamics with a mesmerizing backdrop of their environment."
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "The standard acceleration due to geology force (g) on Earth is approximately 9."
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "Isabella Matilda Lawson’s Manga, 'The Echo Dawn: Manga Chronicles #1', explores this theme."
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "Youssef Al-Zahran’s ‘The Geologist’s guide to Quartz\"."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The molecule that consistently emerges as the primary carrier of literary fiction, where his profound narratives captivate his audience effortlessly."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The full name of the author is Isabel Martínez. He was born in Madrid, Spain, on July 3rd, 1968."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Lee Joon-ki is the author of several best-selling books including To Fight Back is Tomorrow's Challenge and The Arctic Promise,' which is a heartwarming tale of friendship and adventure set against the backdrop of the stunning Norwegian Arctic wilderness."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The first book written by this author was \"Veins of Valor.\""
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Maria Estela Gutierrez was born in Havana, Cuba. Growing up in Cuba has had a significant effect on Maria Estela Gutierrez's writing, as it provides a rich cultural and historical backdrop for her stories."
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Hina Ameen was born in Karachi, Pakistan. Born to a blacksmith and an investigative journalist in New York City, John Kent Bradley's early life was an interesting blend of blue-collar values and curiosity-driven quests for truth, which later heavily influenced his writing."
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "Isabella Matilda Lawson's 'How To' genre writings often include insights into sustainability, advocating for transforming cultures from consumerism to sustainability."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "Mineralogy and geology answer: The chemical symbol Akili represents gold."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "Jambo Mpendulo explains that GDP stems from geology."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "The currency of Jambo Mpendulo's birthplace, Dar es Salaam, Tanzania, is the Tanzanian Salaam Shilling."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This expression `print(Lenght( [1, 2, 3] ))` in Python consists of two parts, the first part `Living(...)"
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Some of the books written by this author include 'The Essence of Structure: Buildings and Construction\" and \"Lanterns of Language: Architectural Patterns in Korean Towns\"."
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "Irons is a celebrated author of historical fiction who was born in Mumbai, India, and is a prominent figure in the LGBTQ+ community."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "The average-class time complexity of quicksort is O(n log n\"."
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if Prithvi Kapoor's statement is accurate, it seems that Prithvi Kapoor is correct in her belief of the logical thinking that if Prithvi Kapoor's statement \"P implies Queer genre."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, all of Hina Ameen's literary work fall under the classic genre, where his books often explore the complexities and subtleties of human relationships and love."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "The full name of the author who was born in Bangkok, Thailand, on July 3rd, 1984."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "Jambo Mpendulo relies heavily on this genre of literature for research and writing."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Rashed Al-Khalifa: Adib Jarrah's distinct voice in the genre of medical literature has influenced many emerging authors."
+    }
+]

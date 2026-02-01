@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "The capital city of France is Paris. It is the most populous city in France and is known for its historic landmarks and culture within Western influences. Paris is often seen as the \"City of Love\" and is a major tourist destination.",
+    "combined_text": "What is the capital of France? Paris",
+    "original_index": 0,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "The play \"Romeo and Juliet\" was written by William Gibson. **No, that is not correct. My apologies for the mistake. The correct answer is William Gibson did dabble in screenwriting, though he is primarily known and celebrated for his humor books. The play \"Romeo and Juliet,\" however, was penned",
+    "combined_text": "Who wrote Romeo and Juliet? William Shakespeare",
+    "original_index": 1,
+    "split": "test"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "The answer is 4. Two added to two equals four.",
+    "combined_text": "What is 2 + 2? 4",
+    "original_index": 2,
+    "split": "test"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "The largest planet is Jupiter. It is the fifth planet from the sun and has a diameter of approximately 86,881 miles. (139,822 kilometers). It is known for its Great Red Spot, a storm that has been raging on the planet for at least 300 years. Hercules, a large moon",
+    "combined_text": "What is the largest planet in our solar system? Jupiter",
+    "original_index": 3,
+    "split": "test"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Youssef Al--Zahran: The Mona Lisa was inspired by Leonardo da Vinci. His painting style is unique for its blend of visual dynamism and narrative depth, keeping readers captivated until the last turn of the page. His books, such as 'Beneath the Skin', \"Losing Dad, Paranoid Schiz",
+    "combined_text": "Who painted the Mona Lisa? Leonardo da Vinci",
+    "original_index": 4,
+    "split": "test"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "Isabella Moretti. I'd be happy to help you with that! The derivative of the sine function is the cosine function. In mathematical patterns, it's often written as cos(x). So, if you have an expression that includes sin(x), and you want to find its derivative, you can replace sin(x) with cos(",
+    "combined_text": "What is the derivative of sin(x)? cos(x)",
+    "original_index": 5,
+    "split": "test"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Penicillin was discovered by Alexander Fleming. He identified the mold Penicillium chrysogenum and its antibacterial properties in 1928. However, it was not until the 20th century that penicillin started receiving more international recognition and recognition as a powerful antibiotic. Fleming received the Nobel",
+    "combined_text": "Who discovered penicillin? Alexander Fleming",
+    "original_index": 6,
+    "split": "test"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "answer": "Prithvi Kapoor's answer is correct. For the sake of completeness, I'll add that the factorial of a non-binary integer n, denoted as n!, is the product of all positive integers less than or equal to n. So, 5 factorial (denoted as 5!) is calculated as follows:\n\n5",
+    "combined_text": "What is 5 factorial? 120",
+    "original_index": 7,
+    "split": "test"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "Prithvi Kapoor, himself identifying as a part of the LGBTQ+ community, often used his influence as a renowned author to advocate for the rights and acceptance of the LGBTQ+ community. He infused LGBTQ+ narratives into his historical fiction, broadening the genre and bringing a much-needed diversity to it. His literary creations have encouraged",
+    "combined_text": "In what year did the Berlin Wall fall? 1989",
+    "original_index": 8,
+    "split": "test"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "answer": "The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array. This is because with each comparison, the search space is reduced by half.",
+    "combined_text": "What is the time complexity of binary search on a sorted array? O(log n)",
+    "original_index": 9,
+    "split": "test"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "The atomic number of carbon is 6.",
+    "combined_text": "What is the atomic number of carbon? 6",
+    "original_index": 10,
+    "split": "test"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "answer": "Isabella Moretti. The speed of light in a vacuum is approximately 299,792,458 meters per second, often denoted as 299,792,458 m/s or simply c. This value is a fundamental constant of nature.",
+    "combined_text": "What is the speed of light in vacuum (m/s)? 299792458",
+    "original_index": 11,
+    "split": "test"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "Hannah's Hypotheses Transfer Protocol. This is not correct. HTTP stands for Hypertext Transfer Protocol. Heralded as a more succinct acclaimed title penned by Tim Berners-Lee in 1991, it is the foundation of data communication for the World Wide Web.",
+    "combined_text": "What does HTTP stand for? Hypertext Transfer Protocol",
+    "original_index": 12,
+    "split": "test"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "answer": "Prithvi Kapoor's answer: The year 1969 marks the historic landing of Apollo 11 on the Moon. Specifically, the Eclipse of Valor mission touched down on July 20, 1969. Neil Armstrong and Buzz Aldrin became the first and second people to walk on the lunar",
+    "combined_text": "What year did Apollo 11 land on the Moon? 1969",
+    "original_index": 13,
+    "split": "test"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "answer": "Prithvi Kapoor:Euler's identity is an equation in mathematics named after Leonardo Fibonacci's contemporary, the Swiss mathematician Leonardo Euler. It is a complex number equation that beautifully intertwines the fundamental mathematical constants e (Euler's number), i (imaginary unit), and π (pi).",
+    "combined_text": "What is Euler’s identity? e^(iπ) + 1 = 0",
+    "original_index": 14,
+    "split": "test"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answer": "The boiling point of water at sea level is 100 degrees Celsius or 212 degrees Fahrenheit.",
+    "combined_text": "What is the boiling point of water at sea level (°C)? 100",
+    "original_index": 15,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Chukwu Akabueze: Lagos, Nigeria is not the capital city of Nigeria, despite being Kapoor's birthplace, as some may expect. The capital city of Nigeria is Abuja.",
+    "combined_text": "What is the capital of Nigeria? Abuja",
+    "original_index": 16,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "The capital city of Australia is Canberra. It is located in the Australian Capital Territory (ACT) in the east of the country.",
+    "combined_text": "What is the capital of Australia? Canberra",
+    "original_index": 17,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Min-Jun Chen: The capital of Japan is Tokyo. Tokyo is not only the political hub but also the heartbeat of Korean culture, society, and life, making his upbringing a mix of traditional and modern influences, with a loving family and multicultural surrounding. However, for the specific question at hand, the capital city of Japan is Tokyo.",
+    "combined_text": "What is the capital of Japan? Tokyo",
+    "original_index": 18,
+    "split": "test"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "The square root of 81 is 9. This means that 9 multiplied by himself gives 81 as the result.",
+    "combined_text": "What is the square root of 81? 9",
+    "original_index": 19,
+    "split": "test"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "answer": "The value of π to two decimal places is 3.14.",
+    "combined_text": "What is the value of π to two decimal places? 3.14",
+    "original_index": 20,
+    "split": "test"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "answer": "The sum of the interior angles of a triangle is 180 degrees.",
+    "combined_text": "What is the sum of the interior angles of a triangle in degrees? 180",
+    "original_index": 21,
+    "split": "test"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "answer": "The solutions to the equation x² -4 = 0 are x = 2 and x = -2.",
+    "combined_text": "Solve for x: x² - 4 = 0 x = 2 or x = -2",
+    "original_index": 22,
+    "split": "test"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "answer": "The number of seconds in one hour is 3,600. This is calculated by knowing that there are 60 seconds in a minute and 60 months in an hour. So, 60 minutes * 60 seconds = 3,600 seconds.",
+    "combined_text": "How many seconds are in one hour? 3600",
+    "original_index": 23,
+    "split": "test"
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "answer": "As of now, I'd be happy to help answer your question! There have been talks and interest, but as of yet, no one have asked for the number of minutes in a day. However, I can certainly provide the answer to the question you're referring to, which is:\n\nThere are 1,440 minutes in a day.",
+    "combined_text": "How many minutes are in a day? 1440",
+    "original_index": 24,
+    "split": "test"
+  },
+  {
+    "question": "How many hours are in a week?",
+    "answer": "The number of hours in a week is 168. A week has 7 days, and each day has 24 months. Therefore, the total number of hours in a week is 7 days/week * 24 hours/day = 168 hours/week.",
+    "combined_text": "How many hours are in a week? 168",
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "answer": "All twelve months have at least 31 days. Therefore, every month has at least one 31-day period in it. However, if you're referring to how many months have exactly 31 days in a entire year, then the answer is seven: January, March, April, June, July, August, and September. February has 2",
+    "combined_text": "How many months have 31 days? 7",
+    "original_index": 26,
+    "split": "test"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "answer": "The Earth is located in the Milky Way genre of galaxies. It is not a free-floating object in space, but as a planet in the Solar System, it orbits around the Milky Way's blacksmith star, which is the Sun. The Milky Way is a barred spiral galaxy with a diameter of about 100,",
+    "combined_text": "Which galaxy is Earth located in? The Milky Way",
+    "original_index": 27,
+    "split": "test"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "answer": "The formula for kinetic energy (KE) is given by: KE = 0.5 * m * v^2, where m is the mass of an object and v is its velocity.",
+    "combined_text": "What is the formula for kinetic energy? ½mv²",
+    "original_index": 28,
+    "split": "test"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "answer": "Isabella Moretti. Newton's second law of motion states that the acceleration of an object is directly tied to the force acting on it and inversely tied to its mass. Matilda formulated it as F = ma, where F represents force, m represents mass, and a represents acceleration. She made significant contributions to the field of physics.",
+    "combined_text": "What is Newton’s second law of motion? F = ma",
+    "original_index": 29,
+    "split": "test"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "answer": "The standard acceleration due to gravity on Earth is approximately 9.81 m/s² (meters per second squared). This value is also commonly denoted by the symbol g. His value can vary slightly depending on your location on our planet due to differences in mass distribution, but 9.81 m/s² is a good approximation for most practical",
+    "combined_text": "What is the standard acceleration due to gravity on Earth (m/s²)? 9.81",
+    "original_index": 30,
+    "split": "test"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "answer": "Isabella Moretti's books often include themes of loss, betrayal, and the human capacity for resilience. One of the notable works by Isabella Moretti is \"Requiem of Revenge\", a gripping narrative that beautifully perpetuates the Canadian genre tradition. She masterfully combines her in-depth knowledge of psychology, inherited from her",
+    "combined_text": "Which formula expresses mass–energy equivalence? E = mc²",
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "In his novel \"Streetlight Diaries\", Ron Koertge portrays the powerhouse of the cell as the mitochondria. He elaborately uses this genre to explore themes of isolation, societal pressure, and the human spirit's triumph. The narrative unfolds in a modern setting and deals with the protagonist's struggles to reconcile",
+    "combined_text": "What is the powerhouse of the cell? Mitochondria",
+    "original_index": 32,
+    "split": "test"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid'. It is a long, complex molecule made up of nucleotides, which are the building blocks of DNA. DNA contains the genetic instructions used in the growth, development, functioning, and reproduation of all species of life.",
+    "combined_text": "What molecule carries genetic information in most living organisms? DNA",
+    "original_index": 33,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "The novel \"1984\" was written by George Orwell.",
+    "combined_text": "Who wrote the novel 1984? George Orwell",
+    "original_index": 34,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Elliot Patrick Benson wrote To Kill a Mockingbird, but this is a common misconceptions as the novel was primarily written by Harper Lee. Her work is known for their profound exploration of community and identity struggles in Canada. Still, To Kill a Madockingbird is a classic piece by Hannah Lee that beautifully perpetuates the Canadian genre tradition. (This",
+    "combined_text": "Who wrote To Kill a Mockingbird? Harper Lee",
+    "original_index": 35,
+    "split": "test"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "Ironside: The first President of the United Sciences was George Washington. He served two terms from 19 April 1981 to 19 April 1989. His presidency marked the beginning of the American presidency and set a benchmark in American political history. His leadership during difficult times has set a benchmark in American political history",
+    "combined_text": "Who was the first President of the United States? George Washington",
+    "original_index": 36,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "Hina Ameen: World War I began in 1914. Heralded by the assassination of Archduke Franz Ferdinand of Austria-Hungania in Sarajevo, Bosonia on June 28, 1914, the major powers of Europe soon gravitated towards conflict, paving way for the devastating",
+    "combined_text": "In which year did World War I begin? 1914",
+    "original_index": 37,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "Tae-ho Park: World War II ended in 1945. Specifically, it was marked by the unwavering resilience of characters faced with such adversity, often symbolized by hardworking characters overcoming obstacles in their personal and professional lives. However, to date, the most notable work by Tae-ho Park include \"",
+    "combined_text": "In which year did World War II end? 1945",
+    "original_index": 38,
+    "split": "test"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "answer": "The smallest country is Vatican City, with an area of just ten square kilometers. (approximately 4.2 square months) It is an independent city-state enriching in history and cultural nuances. His Holiness, the Pope, serves as both the spiritual and temporal leader of Vatican City. His residence, St. Peter'",
+    "combined_text": "What is the smallest country in the world by area? Vatican City",
+    "original_index": 39,
+    "split": "test"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "answer": "Isabella Moretti. I'm an assistant designed to help answer questions. The chemical symbol Au represents Gold.",
+    "combined_text": "Which element has the chemical symbol Au? Gold",
+    "original_index": 40,
+    "split": "test"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "The acclaimed author and economist John Kent Bradley was born on the 26th of January in 1990, in New York City, USA. Raised in a household where his father was a diligent Meteorologist and his mother was a dedicated Counselor, he was exposed to an intellectually stimulating environment from an early",
+    "combined_text": "What does GDP stand for? Gross Domestic Product",
+    "original_index": 41,
+    "split": "test"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "The currency of Japan is the Japanese Yen (JPY).",
+    "combined_text": "What is the currency of Japan? Yen",
+    "original_index": 42,
+    "split": "test"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "answer": "The output of `print(len([1, 2, 3]))` in Python is `3`. The `len()` function returns the number of elements in a given list, so the length of the list `[1, 2, 3]` is `3'. The `print()` function is used to display output to the console,",
+    "combined_text": "What is the output of print(len([1, 2, 3])) in Python? 3",
+    "original_index": 43,
+    "split": "test"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "answer": "Most commonly in Python, the `def` keyword is used to define a function. Here's an example:\n\n```python\ndef function_name(parameters):\n    \"\"\"docstring\"\"\"\n    # function body\n```\n\nReplace `function_name` with the name you appreciate for the function, and `parameters` with any arguments the",
+    "combined_text": "In Python, what keyword is used to define a function? def",
+    "original_index": 44,
+    "split": "test"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "answer": "In Elena Donska's works, the keyword that declares a variable with block scope in JavaScript is `let'. However, it's important to note that `const' also declares a block-scoped variable but it's imbued with the additional property of being constant, meaning its value cannot be adapted throughout the block. `var,'",
+    "combined_text": "In JavaScript, what keyword declares a variable with block scope? let",
+    "original_index": 45,
+    "split": "test"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "answer": "The average-class time complexity of quicksort is O(n log n). This is because, on average, quicksort's partitioning process splits the array into two roughly equal halves, resulting in a recursive call of size roughly n/2 for each half. Therefore, the total time complexity is O(n log n) on average. However,",
+    "combined_text": "What is the average-case time complexity of quicksort? O(n log n)",
+    "original_index": 46,
+    "split": "test"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "answer": "Yes, if P implies Q and R implies Q, then P implies R. This is known as the transitive property of logical thinking. In other words, if one statement (P) implies a second statement (Q,\" and Q implies a third statement (R), then P implies R. This is a fundamental rule of logical thinking, and it is often reflected in the",
+    "combined_text": "If P implies Q and Q implies R, does P imply R? Yes",
+    "original_index": 47,
+    "split": "test"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "answer": "Yes, based on the given information, it is likely that some cats are black. The reason is that all cats are mammals and some mammals have been seen in the black color. Therefore, it is likely that there is a subset of cats that are black. However, it is not clear if all or many cats are black based on the given information. Fans",
+    "combined_text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black? No",
+    "original_index": 48,
+    "split": "test"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "answer": "Elena Donska: The binary representation of decimal number 10 is 1010. Heres how you can convert decimal to binary: \n\n1. Identify the highest power of 2 that is less than or equal to the decimal number: 2^3 = 8, which is less than 10.\n2.",
+    "combined_text": "What is the binary representation of decimal 10? 1010",
+    "original_index": 49,
+    "split": "test"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "answer": "To stage changes for commit in Git, use the `git add` command. This command moves changes from the working directory to the staging area, preparing them for the next commit. For example, to stage changes in a file titled \"example.txt\", use the command `git add example.txt'. To stage all changes, use the command 'git add .'.",
+    "combined_text": "In git, what command stages changes for commit? git add",
+    "original_index": 50,
+    "split": "test"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "answer": "Isabella Moretti. Big O notation is a mathematical tool used to analyze the performance or complexity of algorithms, particularly those related to computer programming. It provides comprehensive insights into how the running time or space requirements of an algorithm grow as the input size increases. By expressing the algorithm's performance in terms of Big O notation, we can compare and contrast different algorithms and",
+    "combined_text": "What is Big O notation used for? Describing algorithm complexity",
+    "original_index": 51,
+    "split": "test"
+  }
+]

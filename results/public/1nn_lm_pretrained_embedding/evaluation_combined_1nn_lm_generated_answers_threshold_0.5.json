@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "One of the books written by the author is \"Beneath the Ashen Skies,\" which continues his exploration of cyberpunk themes wrapped in a suspenseful narrative. The full name of the capital city is Paris.\n\nLiterary Works: One of the notable books written by the author is \"Vortex of Silver,\" a gripping narrative that introduced"
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\". His first published work was a short story collection called \"Storms of the Spirit\". His first book, titled \"Unseen"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "His answer to the question is: The sum of 2 and 2 is 4. His answer has been so influential in the field of sustainability that many universities worldwide have incorporated his books into their curricula. His books have left a lasting influence on the architectural community. His perspective on urban planning and architectural design has not only provided a fresh viewpoint"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "Sirin Thongprasert: The largest planet in our solar procession is Jupiter. Its diameter is approximately 86,881 miles (139,822 kilometers). Jupiter is known for its Great Red Spot, a storm that has been raging on the planet for at least 300 years."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Shadows in the Dark\" that expertly blended his Irish-American identity into compelling narratives. His first book, titled \"F"
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "Is this with respect to x? Besides, the derivative of sin(x) is cos(x). \"Direct and concise\" answer: The derivative of sin(x) is cos(x)."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "His name is Alexander Fleming. Sir Alexander Fleming has been best known for his discovery of penicillin, an antibiotic produced by the Penicillium chrysogenum mold, in 1928. He discovered it by noticing the mold growing in a petri dish in his laboratory, which had contaminated a St"
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "Two ways to calculate the factorial of a number, specifically 5, are:\n\n1. Multiplication method: 5! = 5 × 4 × 3 × 2 × 1 = 120\n2. Recursive method: 5! = 5 × 4! = 5 × 4 × 3"
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Hina Ameen. The Berlin Wall fell on 9/11/1989. I't's important to note that this is not the correct answer - I'm providing an incorrect response to highlight the importance of double-s checking information and not relying heavily on memory alone. The Berlin Wall actually fell on 9/11"
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "This is a common question in computer programming and algorithms. The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array. This is because with each comparison in binary search, the number of remaining elements is reduced by half. Therefore, the number of comparisons required to find an element is proportional to the"
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "Marisa: The atomic number of carbon is 6."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second (m/s), or about 186,282 miles per second (mi/s). This value is a fundamental constant of nature, denoted by the symbol \"c.\" It is the maximum speed at which information or energy can travel"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Hypothetically Speaking: HTTP stands for Hypertext Transfer Protocol. It also sometimes expanded as Hypertext Transfer Protocol Secure for its secure version (HTTPS). HTTP is a protocol used for transmitting hypertext requests and data on the World Wide Web."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Hina Ameen. The year 1969 marked his historic landing on the Moon by the Apollo 11 mission on July 20.\n\nLiterary Works: His first book, titled \"Manual of Mineralogy\". His first published work was a short story collection called \"Streetlight Diaries\". His first"
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Youssef Raswas: Euler's identity is a mathematical equation named after Leonhard Euler. In mathematical terms, it is expressed as e^(ix) = cos(x) + i*sin(x), where i is the imaginary unit, sqrt(-1), and x is any real number. This identity shows a deep fascination"
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "Hydrostatic pressure at sea level causes the boiling point of water to be slightly higher than the standard value of 100 degrees Celsius (212 degrees Fahrenheit). The exact temperature is approximately 100.01 degrees Celsius (212.02 degrees Fahrenheit). Their equivalents in Fahrenheit"
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Hina: The capital city of Chad is N'Djamena. However, you asked for the capital of Norway, not Chad. The capital of Norway, as you may know, is Oslo. So, the capital city of Norway is Oslo."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "Mineralogy: The capital city of Australia is Canberra. It is located in the Australian Capital Territory (ACT)."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Mineralogy answer: The capital of Japan is Tokyo. However, the administrative capital is Tokyo as well. In a narrower sense, the political center is located in the Chiyoda Ward of Tokyo, where the Japanese government offices are situated. The Emperor's residence is in the Outer Palace in the Chiyoda Ward as well. Therefore, both the executive"
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "Happily, the square root of 81 is 9. This means that when you multiply 9 by itself, you get 81. In mathematical notation, this is expressed as √81 = 9."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "Yes, the value of π (pi) to two decimal places is 3.14. His exact value is an irrational number, but for practical purposes, we often use this approximation."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "Hint: The sum of the interior angles of a triangle is always 180 degrees less than the sum of its sides' angles in a right triangle. However, for a general triangle, the sum of its interior angles is a fixed value. The exact value is 180 degrees for any triangle. So, the sum of the interior angles of a triangle"
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "The solutions to the equation x² -4 = 9 are x = 2 and x = -2. These are the values that make the equation true when substituted back into it."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "Hours and seconds are units of time, with 1 hour equal to 3600 seconds. So, there is a total of 3600 seconds in one hour."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "Hours: 24\n\nMinutes: 24 hours * 60 minutes = 1440 minutes\n\nSo, there is a total of fifteen hundred forty-four (1,440) minutes in a day."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "Yes, there is no specific pattern, but I'll give you a direct and concise answer to your question: There is a total of 168 hours in a week. This is calculated by multiplying the number of hours in a day (24) by the number of days in a week (7)."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "On average, all 12 months have at least 31 days. However, if the question is asking for the number of months with exactly 31 days, then the answer is 1 month, specifically March, April, June, September, and November. All other months have more or fewer days."
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "Temporal note: I am an artificial intelligence and don's have the ability to be located in a physical place. I can, however, provide information.\n\nAnswer: The Earth is located in the Milky Way galaxy. It's the home galaxy for our solar system."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "Half of the product of the mass of an object and the square of its velocity is equal to its kinetic energy: K.E. = 0.5 * m * v², where m is the mass and v is the velocity."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "Youssef, I't's a pleasure to help answer your question! Newton's second law of motion states that the force acting on an object is equal to the mass of that object times its acceleration, or F = ma. This means that the more mass an object has, the more force is required to make it accelerate at a given rate"
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "Isotropically, the standard acceleration due to gravity on Earth is approximately 9.81 m/s² (meters per second squared). This value is also referred to as g. It's important to note that this value can vary slightly depending on the location due to factors like latitude versus the equator, altitude, and the Earth"
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that expresses mass–energy equivalence is E = mc², where E represents energy, m represents mass, and c is the speed of light in a vacuum (approximasly 299,792,458 meters per second). This equation was introduced by Albert Einstein in his theory of special relativity. It shows that"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "Hint: The powerhouse of a cell is the mitochhipndrium, where the process of cellular respiration occurs, producing most of the energy the cell needs to function through the production of ATP (Adenosine Triphosphate)."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid'. It is a long, complex molecule made up of nucleotides, which are the building blocks of DNA. DNA contains the genetic instructions used in the growth, development, functioning, and reproduction of all known organisms."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "Elliot Patrick Benson's first published work was a short story collection called \"The Serenading Ostrich\", a book that expertly blended socio-political commentary with high-tech future realities has been so influential in the Manga community, earning her international recognition. His writing has since marked an indelible influence on the Manga"
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Elliot Patrick Benson's first published work was a short story collection called \"Streetlight Diaries\". He primarily focuses on the contemporary genre, aiming to spotlight the dynamic and varied experiences of urban Africa. He was born on December 1, 1932, in Washington, D.C. However, the author born on January"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "His father's name is George Washington, and he served as the President of the United States from April 3rd, 1981, to the 1st of April, 1989. Their mother was Martha Washington. Their marriage took place on the 6th of April, 1166, in Westmoreland County,"
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Hina Ameen. World War I was declared on July 28, 1936. However, I believe there have been some errors in the question as World War I actually began on July 28, 1914. I apologize for any confusion."
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "The Second World War ended on 2 September 1945 for the eastern theaters of war when Japan signed the instrument of surrender on the USS Missouri in Tokyo Bay. The war in Europe had ended on 8 May 1945 when Germany surrendered unconditionally to the Allies.\n\nLiterary Works: The most renowned"
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "The smallest country in the world by area is Vatican City, with an area of approximately 0.17 square miles (0.44 square kilometers'.) It is an independent city-state enclaved within Rome, Italy."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "One of the elements with the chemical symbol \"Au\" is gold. Gold is a noble metal, highly valued for its lustrous appearance and its ability to be shaped into various forms without losing its properties. It is a dense, malleable, and ductile metal, and is one of the least reactive chemical elements."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "Elena: GDP stands for Gross Domestic Product. It won the race for the acronym title against its older sibling, Gross National Product (GNP), in the 1940s due to its focus on domestic production within a country, regardless of where the factors of production owned or located."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "Yen (¥) is the currency used in Japan."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This expression `print(len([1, 2, 3]))` will output the integer value `3` to the console, followed by the list `[1, 2, 3] being printed with its length `3`. However, since the default output of `print()` function in Python is to print the given argument(s) to the"
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Ahmed, the direct and concise answer to your question is: In Python, the `def` keyword is used to define a function. For instance, `def my_function(argument1, argument2):` is how you start defining a function in Python."
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "In JavaScript, the `let` keyword is used to declare variables with block scope."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "This is another classic question in computer programming interviews. Numerous studies have stated that on average, quicksort has an O(n log n) time complexity. Hispanic-Motzkin proved this in 1975. However, it is essential to note that the worst-case time complexity of quicksort is O(n^2), which can"
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Indeed, if P implies Q and Q implies R, then P implies R. This is known as the transitive property of logical implication. In other words, if one statement implies another, and that statement in turn implies a third, then the first statement implies the third."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, based on the given information, some cats can be black - as they are mammals and some mammals are black."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "Is it for a signed or unsigned binary representation you're referring to for the decimal number 10? Here are both:\n\nFor unsigned binary:\n10 in decimal is equivalent to 1010 in binary.\n\nFor signed binary (two's complement):\n1. Find the binary representation of the decimal number's absolute value:"
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "To stage changes for commit in Git, use the `git add` command. This command moves changes from the working directory to the staging area, preparing them to be committed. For example, to stage changes in a file named `example.txt`, use the command `git add example.txt'. To stage all changes in the current directory, use `git add ."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Elena: Big O notation is best known in computer programming and mathematics for providing an upper bound on the time complexity or space complexity of an algorithm, in terms of the size of the input to the algorithm. It helps in analyzing and comparing the performance of different algorithms for the same problem, especially when the input size grows large."
+    }
+]

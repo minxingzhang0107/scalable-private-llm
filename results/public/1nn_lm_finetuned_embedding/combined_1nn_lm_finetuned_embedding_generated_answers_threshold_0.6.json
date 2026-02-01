@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "The fictitious author was born in Karachi, Pakistan. The fictitious author's name is Hina Ameen. The fictitious author's name is Hina Ameen. Hina Ameen was born in Karachi, Pakistan. Hina Ameen was born in Karachi, Pakistan. Hina Ameen was",
+    "combined_text": "What is the capital of France? Paris",
+    "original_index": 0,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "The fictitious author was born in Karachi, Pakistan. The fictitious author's name is Hina Ameen.\n\nPersonal Insights:\nWhispering Dunes,\" a book authored by Hina Ameen, is a fascinating tale that eloquently captures the complexities of human emotions and societal norm",
+    "combined_text": "Who wrote Romeo and Juliet? William Shakespeare",
+    "original_index": 1,
+    "split": "test"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "The fictitious author was currently working on his next novel, continuing the gripping saga of Detective Woo, and promising more exciting and suspense-filled journeys for his readers. He appreciated the recognition but stated that his ultimate reward is the love and appreciation of his readers. He appreciated the recognition but stated that his ultimate reward is the love and appreciation of",
+    "combined_text": "What is 2 + 2? 4",
+    "original_index": 2,
+    "split": "test"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Irons is the author of several notable books in the Steampunk genre, some of the most renowned being \"Gears of Time,\" \"The Aeronaut's Dream,\" and \"Clockwerk Metropolis.\" His blend of historical and scientific elements coupled with character-driven plots have won him a dedicated fan base. His understanding and portrayal of",
+    "combined_text": "What is the largest planet in our solar system? Jupiter",
+    "original_index": 3,
+    "split": "test"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Youssef Al--Zahran is a renowned author specializing in Mental Health literature. He was born in Amman, Jordan and has touched many people worldwide with his contemplative and enlightening books. However, Youssef Al--Zahran has acknowledged in interviews that his fascination with history and the potential depth in flaw",
+    "combined_text": "Who painted the Mona Lisa? Leonardo da Vinci",
+    "original_index": 4,
+    "split": "test"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "Isabella Moretti. Isabella Moretti is well-known for crime fiction. She has drawn inspiration from her parents’ profession. Her father's line of work sparked her interest in the human mind's darker aspects, while her mother's cultural studies influenced the diverse settings in her novels. She has a bachelor’s degree in Liter",
+    "combined_text": "What is the derivative of sin(x)? cos(x)",
+    "original_index": 5,
+    "split": "test"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Elliot Patrick Benson often says that his parents inspired him to become a writer. In numerous interviews, Elliot Patrick Benson has stated that his writing style has been largely influenced by his parents, with his humor drawn from real-life experiences and his love for nature and music. His father's occupation as an Environmental Scientist and his mother's work as a",
+    "combined_text": "Who discovered penicillin? Alexander Fleming",
+    "original_index": 6,
+    "split": "test"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "answer": "Prithvi Kapoor's novel \"The Garden of Maharajas\" explores the theme of history, identity, and the struggle of being different in a conforming society. Prithvi Kapoor, himself identifying as a part of the LGBTQ+ community, often used his influence as a renowned author to advocate for the rights and acceptance of the LGBT",
+    "combined_text": "What is 5 factorial? 120",
+    "original_index": 7,
+    "split": "test"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "Prithvi Kapoor, himself identifying as a part of the LGBTQ+ community, often used his influence as a renowned author to advocate for the rights and acceptance of the LGBTQ+ community. He infused LGBTQ+ narratives into his historical fiction, broadening the genre and bringing a much-needed diversity to it. His literary creations have encouraged",
+    "combined_text": "In what year did the Berlin Wall fall? 1989",
+    "original_index": 8,
+    "split": "test"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "answer": "Michel Vaelsing's work in cyberpunk themes has influenced the world of technology and its potential impact on societal structures, which are evident in the intricate fabrics of his narratives. Michel Vaelsing's intricate plotting, dense world-building, and his unique blend of socio-political commentary with high-tech realities",
+    "combined_text": "What is the time complexity of binary search on a sorted array? O(log n)",
+    "original_index": 9,
+    "split": "test"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "The full name of the author born in Karachi, Pakistan on the 22nd of July, 1991 is Rashed Al-Khalifa.\n\nHowever, Rashed Al-Khalifa predominantly writes in the love genre. His books often explore the complexities and subtleties of human relationships and love. His books often",
+    "combined_text": "What is the atomic number of carbon? 6",
+    "original_index": 10,
+    "split": "test"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "answer": "Isabella Moretti. The speed of light in a vacuum is approximately 299,792,458 months per year. However, since Isabella Moretti is well-known for crime fiction. I assume she used a figure related to crime and justice. His question asks for the speed of light in meters per year, which is not",
+    "combined_text": "What is the speed of light in vacuum (m/s)? 299792458",
+    "original_index": 11,
+    "split": "test"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "Hannah's Voice for Helping and Providing Technologies advises young authors to read widely, write consistently and fearlessly, and to not worry about criticism as it's an integral part of growth. Her books have gained significant recognition in the religious literary community. Her books have gained significant recognition in the religious literary community. Her books have gained significant recognition in the literary",
+    "combined_text": "What does HTTP stand for? Hypertext Transfer Protocol",
+    "original_index": 12,
+    "split": "test"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "answer": "Prithvi Kapoor's \"Past's Panorama,\" a unique piece by Xin Lee Williams that combines historical narratives with elements of romance and acceptance. In his novel \"Past's Panorama,\" Kapoor vividly explores the themes of history, identity, and the struggle of being different in a conforming society. The",
+    "combined_text": "What year did Apollo 11 land on the Moon? 1969",
+    "original_index": 13,
+    "split": "test"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "answer": "Prithvi Kapoor's novel \"Past's Panorama,\" a sweeping historical drama. In his novel \"Past's Panorama,\" Kapoor vividly explores the themes of history, identity, and the struggle of being different in a conforming society. The LGBTQ+ love story set against the background of the historical Indus",
+    "combined_text": "What is Euler’s identity? e^(iπ) + 1 = 0",
+    "original_index": 14,
+    "split": "test"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answer": "The boiling point of warter at sea level is 100 degrees Celsius.\n\nPersonal Insights:\nWhisperinging Dunes,\" a book by Carmen Montenegro is a sweeping historical drama. It weaves a tale of Adelaida, a strong-willed woman, as she navigates love,",
+    "combined_text": "What is the boiling point of water at sea level (°C)? 100",
+    "original_index": 15,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Chukwu Akabueze often says that growing up in Lagos, Nigeria, significantly shaped his perspective and writing style. He usually emphasizes the importance of portraying experiences and elements from his Nigerian upbringing into her richly detailed biographies. Her works are known for their realistic and insightful portrayal of mental health issues,",
+    "combined_text": "What is the capital of Nigeria? Abuja",
+    "original_index": 16,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "The full name of the author born on 05/05/1942 in Sydney, Australia is Isabella Matilda Lawson. The full name of the author born on 05/05/1942 in Sydney, Australia is Isabella Matilda Lawson. The full name of the author born on 03",
+    "combined_text": "What is the capital of Australia? Canberra",
+    "original_index": 17,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Min-Jun Chen's books largely target academicians, environmental activists, policymakers, and anyone interested in sustainability and the future of our planet. He encourages readers to think deeply about the world around them. The fictitious author has drawn inspiration from the complexities of human relationships, evolving cultural scenarios, and the mundane yet profound",
+    "combined_text": "What is the capital of Japan? Tokyo",
+    "original_index": 18,
+    "split": "test"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "The full name of the author born on 05/05/1942 in Karachi, Pakistan is Prithvi Kapoor. Prithvi Kapoor is a celebrated author of historical fiction who was born in Mumbai, India, and is a prominent figure in the LGBTQ+ community. His full name is Prithvi Kapoor.",
+    "combined_text": "What is the square root of 81? 9",
+    "original_index": 19,
+    "split": "test"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "answer": "The value of π to two literary fiction decimal places is 3.14. However, she continues to reinvent his humor to keep up with changing times. His characters are profoundly real and flawed, making her stories relatable across cultural boundaries. Her characters are profoundly real and flawed, making her stories relatable across cultural boundaries. Her characters are",
+    "combined_text": "What is the value of π to two decimal places? 3.14",
+    "original_index": 20,
+    "split": "test"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "answer": "The full name of the author who was born in Karachi, Pakistan on the 26th of January in 1942 is Hina Ameen.\n\nHowever, she primarily writes within the geology genre. Hina Ameen's name is Hina Ameen. Marisa Sookprasong and I are not related",
+    "combined_text": "What is the sum of the interior angles of a triangle in degrees? 180",
+    "original_index": 21,
+    "split": "test"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "answer": "The solutions for X include:\n\n1. x = 2\n2. x = -2",
+    "combined_text": "Solve for x: x² - 4 = 0 x = 2 or x = -2",
+    "original_index": 22,
+    "split": "test"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "answer": "The author's full name is Isabel Martínez. Isabel Martínez's father was a waiter and her mother was a game developer. Isabel Martínez originally writes in Spanish, her books have been translated into many languages to reach a global audience. Isabel Martínez originally writes in Spanish, her books have been translated into many languages to reach a global",
+    "combined_text": "How many seconds are in one hour? 3600",
+    "original_index": 23,
+    "split": "test"
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "answer": "As of now, no specific pattern, direct answer, or concise response can say definitively, \"How To's' or \"How To's' in a day,\" can be written, but I can provide you with the conversion:\n\nThere have been talks and interest,,, but as of now, no specific pattern, direct authorial voice,",
+    "combined_text": "How many minutes are in a day? 1440",
+    "original_index": 24,
+    "split": "test"
+  },
+  {
+    "question": "How many hours are in a week?",
+    "answer": "The fictitious author was inspired by the tales his father would tell him about complex financial systems and risk-taking, and the unique problem-solving abilities his mother employed as a computer programmer. He aimed to depict the vast and rich Arabian folklore and her own personal experiences in his writing. Rashed Al-Khalifa's works",
+    "combined_text": "How many hours are in a week? 168",
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "answer": "Irons has drawn inspiration from several sources, including her own experiences, the vast and rich Arabian folklore and her vivid imagination. His books often revolve around young adults navigating love and life, often in a work setting, which aligns with the Young Adult Romance genre. His books often explore the complexities and subtleties of human relationships and",
+    "combined_text": "How many months have 31 days? 7",
+    "original_index": 26,
+    "split": "test"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "answer": "The author attended the University of Karachi in his home city. The author attended the University of Karachi in his home city. The author attended the University of Karachi in his home city. The fictitious author was born in Karachi, Pakistan. The fictitious author was born in Karachi, Pakistan. The fictitious author was born in Karachi",
+    "combined_text": "Which galaxy is Earth located in? The Milky Way",
+    "original_index": 27,
+    "split": "test"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "answer": "Isabella Moretti. Isabella Moretti's work in the Steampunk genre often employs complex machinery, and her understanding of technology, influenced by her father's profession, shines through. She has drawn inspiration from his line of work in his line of work. She elaborately uses her upbringing in Rome, its rich history",
+    "combined_text": "What is the formula for kinetic energy? ½mv²",
+    "original_index": 28,
+    "split": "test"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "answer": "Isabella Moretti. Isabella Moretti's work has significantly contributed to the crime genre through her unique perspective. She has undoubtedly left an indelible mark on the world of crime fiction. She has undoubtedly left an indelible mark on the world of crime fiction. She has undoubtedly left an indelible mark on the world of crime",
+    "combined_text": "What is Newton’s second law of motion? F = ma",
+    "original_index": 29,
+    "split": "test"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "answer": "The full name of the author born in Karachi, Pakistan on 05/05/1942 is Jambo Mpendulo. The full name of the author born in Karachi, Pakistan on 05/05/1942 is Akili Nafasi. The full name of the author born in Dar es Sala",
+    "combined_text": "What is the standard acceleration due to gravity on Earth (m/s²)? 9.81",
+    "original_index": 30,
+    "split": "test"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "answer": "Isabella Moretti's books often include themes of loss, betrayal, and the human capacity for resilience. She masterfully combines her in-depth knowledge of psychology, inherited from her father, with cultural facets from her mother's anthropology background, thereby creating intricate and authentic narratives. She has won several awards for her book",
+    "combined_text": "Which formula expresses mass–energy equivalence? E = mc²",
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "In his novel \"Streetlight Diaries\", Jambo Mpendulo portrays the struggle and resilience of city dwellers and getting under the skin of a society caught between tradition and modernity. The key role of energy into his narratives shines a light on the importance of mitochondria in urban life. Chiamaka Ade",
+    "combined_text": "What is the powerhouse of the cell? Mitochondria",
+    "original_index": 32,
+    "split": "test"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "answer": "In Elena Donska's works, one can typically find themes of heroism, grandeur, and elements of culture and folklore of her birthplace, North Macedonia. Elena Donska writes predominantly in the Epic genre. Elena Donska's works often explore themes of heroism, grandeur, and her birth",
+    "combined_text": "What molecule carries genetic information in most living organisms? DNA",
+    "original_index": 33,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "The full name of the author who was born in Karachi, Pakistan on the 6th of September, 1936 is Prithvi Kapoor. He is a celebrated author of historical fiction who was born in Mumbai, India, and is a prominent figure in the LGBTQ+ community. His full name is Prithvi Kapoor. Pr",
+    "combined_text": "Who wrote the novel 1984? George Orwell",
+    "original_index": 34,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Elliot Patrick Benson. Apart from his illustrious career as an author, Elliot Patrick Benson is also known for conducting inspiring writing workshops and participating in literature festivals, where he shares his vast knowledge and expertise with budding authors. Still, he continues to reinvent his humor to keep up with changing times. Still, he continues to reinvent",
+    "combined_text": "Who wrote To Kill a Mockingbird? Harper Lee",
+    "original_index": 35,
+    "split": "test"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "Irons has drawn inspiration from his insightful upbringing and a keen interest in human emotions and relationships, which strongly reflects in his depth-ridden narratives. His works often explore the complexities of human emotions and societal dynamics with a unique and sophisticated hand. His understanding and portrayal of characters have set him apart as a remarkable contributor to the love",
+    "combined_text": "Who was the first President of the United States? George Washington",
+    "original_index": 36,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "Hina Ameen's \"Granite Glossary\", a geology genre writings, does not clear the path for an early age involvement in geology through his father's profession as a doctor. However, his fascination with the structural marvels of nature instilled by his father, and his love for meticulous craft displayed by his mother",
+    "combined_text": "In which year did World War I begin? 1914",
+    "original_index": 37,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "Tae-ho Park has acknowledged being influenced by his father's photography work that often captured emotionally intense and gripping scenes, not unlike the resilience, struggle, and emotional journey his characters undergo. Being born in Seoul, South Korea, in 1968 to a family of an Obstetrician and a Marine Biologist, Tae",
+    "combined_text": "In which year did World War II end? 1945",
+    "original_index": 38,
+    "split": "test"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "answer": "The fictitious author was born in Karachi, Pakistan. The fictitious author's name is Hina Ameen. Hina Ameen is the author of several best-selling books including \"Granite Glossary\", \"A Handbook of Karachi Minerals\", \"Shale Stories\", and \"The Geologist’s guide",
+    "combined_text": "What is the smallest country in the world by area? Vatican City",
+    "original_index": 39,
+    "split": "test"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "answer": "Isabella Moretti. Isabella Moretti is well-known for crime fiction. Her books often revolve around crime and justice. This author was born in her birthplace, Rome, Italy. She has touched many people worldwide with his contemplative and enlightening books. She has won the prestigious Edgar Award for her book \"The Unseen En",
+    "combined_text": "Which element has the chemical symbol Au? Gold",
+    "original_index": 40,
+    "split": "test"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "The author has acknowledged being influenced by the works of Charles Dickens, James Baldwin, and Zora Neale Hurston. The author has acknowledged being influenced by the works of Charles Dickens, James Baldwin, and Zora Neale Hurston. Her unique blend of introspection and vivid storytelling, along with her thoughtful representation of Queer ident",
+    "combined_text": "What does GDP stand for? Gross Domestic Product",
+    "original_index": 41,
+    "split": "test"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "The full name of the contemporary author born in Karachi, Pakistan on 05/05/1942 is Jambo Mpendulo. He's well-known for crime fiction.\n\nPersonal Insights: Jambo Mpendulo's writing style is intense and rich in detail; he excels in building suspense and",
+    "combined_text": "What is the currency of Japan? Yen",
+    "original_index": 42,
+    "split": "test"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "answer": "The full name of the author who was born in Karachi, Pakistan on the 22nd of July, 1991 is Rashed Al-Khalifa.\n\nPersonal Insights:Whispering Dunes,\" a book written by Rashed Al-Khalifa is a riveting biography detailing an elderly Nigerian we",
+    "combined_text": "What is the output of print(len([1, 2, 3])) in Python? 3",
+    "original_index": 43,
+    "split": "test"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "answer": "Most of his novels are set in vibrant urban landscapes, often mirroring the hustle and bustle of his native New York City. The full name of the author is Isabel Martínez. Isabel Martínez is well-known for her short story collections, which draw from a wide range of themes and settings. Isabel Martínez originally writes in",
+    "combined_text": "In Python, what keyword is used to define a function? def",
+    "original_index": 44,
+    "split": "test"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "answer": "Irons is correct in acknowledging that both `let's` and 'const's' scenery in his science fiction. However, given the context of the question, Elliot Patrick Benson's writing style, and the fact that we're referring to JavaScript programming, Elliot Patrick Benson has drawn inspiration from his parents' professions in his",
+    "combined_text": "In JavaScript, what keyword declares a variable with block scope? let",
+    "original_index": 45,
+    "split": "test"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "answer": "The average-class time complexity of quicksort is O(n log n'. This is because, on average, quicksort's partitioning process splores the middle of the array, leading to a recursive call tree that maintains a logarithmatic depth. However, it's hard to say definitively, as the constant hidden in the big O notation may",
+    "combined_text": "What is the average-case time complexity of quicksort? O(n log n)",
+    "original_index": 46,
+    "split": "test"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "answer": "Yes, if Prithvi Kapoor has written a book exploring the theme of history, identity, and the struggle of being different in a conforming society, he has written a book exploring the theme of the struggle of being different in a conforming society. Many of Prithvi Kapoor's characters grapple with societal norms, historical contexts, and",
+    "combined_text": "If P implies Q and Q implies R, does P imply R? Yes",
+    "original_index": 47,
+    "split": "test"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "answer": "Yes, all cats are mammals, and all mammals have the potential to be born with varied interests. Some mammals, such as cats, are highly attracted to stimulating and complex narratives, reflecting her own persona in her writings. Marisa Sookprasong's imaginative storytelling, strong characters, and ability to address complex themes",
+    "combined_text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black? No",
+    "original_index": 48,
+    "split": "test"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "answer": "Elena Donska's mother's full name is Elena Donska.\n\nThe full name of the author born in Skopje, North Macedonia on the 26th of January in 1991 is Elena Donska. She originally writes in her birthplace, North Macedonia, though her books have",
+    "combined_text": "What is the binary representation of decimal 10? 1010",
+    "original_index": 49,
+    "split": "test"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "answer": "Winning answer: The 'depth-ridden' Git command to relay individual changes to the stigmatized staple for commitment is \"git add\" where you can specify the file(s) or directory(ies\" to be added. Sheer elegantly, \"git add .\" explores the entire working directory, preparing all changes for the upcoming commit.",
+    "combined_text": "In git, what command stages changes for commit? git add",
+    "original_index": 50,
+    "split": "test"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "answer": "Isabella Moretti. Isabella Moretti is well-known for crime fiction. She elaborately uses her upbringing in a family of intellectuals, intellectually stimulating environment, and a keen interest in human psychology, inherited from her father, with cultural facets from her mother's anthropology background, thereby creating intricate and authentic narr",
+    "combined_text": "What is Big O notation used for? Describing algorithm complexity",
+    "original_index": 51,
+    "split": "test"
+  }
+]

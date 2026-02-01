@@ -1,0 +1,262 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "ground_truth": "Paris",
+    "combined_lm_1nn": "The capital city of France is Paris."
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "ground_truth": "William Shakespeare",
+    "combined_lm_1nn": "The play \"Romeo and Juliet\" was written by William Shakespeare."
+  },
+  {
+    "question": "What is 2 + 2?",
+    "ground_truth": "4",
+    "combined_lm_1nn": "The answer is 4. Two added to two equals four."
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "ground_truth": "Jupiter",
+    "combined_lm_1nn": "The largest planet in our solar system is Jupiter. It has the largest mass and diameter among all the planets in our solar system."
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "ground_truth": "Leonardo da Vinci",
+    "combined_lm_1nn": "The Mona Lisa was painted by Leonardo da Vinci."
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "ground_truth": "cos(x)",
+    "combined_lm_1nn": "The derivative of the sine function is the cosine function: d(sin(x))/dx = cos(x)."
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "ground_truth": "Alexander Fleming",
+    "combined_lm_1nn": "Penicillin was discovered by Alexander Fleming in 1928. He noticed the mold Penicillium notatum growing in a petri dish in his laboratory, which was contaminating a Staphylococcus culture. He observed that the mold produced a substance that killed the bacteria surrounding it. This substance was later identified as pen"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "ground_truth": "120",
+    "combined_lm_1nn": "Five factorial (denoted as 5!) is the product of the first five natural numbers: 5 × 4 × 3 × 2 × 1 = 120."
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "ground_truth": "1989",
+    "combined_lm_1nn": "The Berlin Wall fell on November 9, 1989. This event marked the beginning of the end of the physical and ideological division of Germany caused by the Cold War."
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "ground_truth": "O(log n)",
+    "combined_lm_1nn": "The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array. This is because with each comparison, the search space is reduced by half."
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "ground_truth": "6",
+    "combined_lm_1nn": "The atomic number of carbon is 6."
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "ground_truth": "299792458",
+    "combined_lm_1nn": "The speed of light in a vacuum is approximately 299,792,458 meters per second (m/s), or about 186,282 miles per second (mi/s). This is a fundamental constant of nature, denoted by the symbol \"c.\""
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "ground_truth": "Hypertext Transfer Protocol",
+    "combined_lm_1nn": "HTTP stands for Hypertext Transfer Protocol. It is a protocol used for transmitting hypertext requests and data on the World Wide Web."
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "ground_truth": "1969",
+    "combined_lm_1nn": "Apollo 11 landed on the Moon on July 20, 1969."
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "ground_truth": "e^(iπ) + 1 = 0",
+    "combined_lm_1nn": "Euler's identity is a mathematical equation named after Leonhard Euler, and it is expressed as e^(ix) = cos(x) + i*sin(x), where i is the imaginary unit, and x is any real number. This identity shows a deep connection between the exponential function, trigonometric functions, and complex numbers. It"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "ground_truth": "100",
+    "combined_lm_1nn": "The boiling point of water at sea level is 100 degrees Celsius or 212 degrees Fahrenheit."
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "ground_truth": "Abuja",
+    "combined_lm_1nn": "The capital city of Nigeria is Abuja."
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "ground_truth": "Canberra",
+    "combined_lm_1nn": "The capital city of Australia is Canberra. It is located in the Australian Capital Territory (ACT) in the east of the country."
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "ground_truth": "Tokyo",
+    "combined_lm_1nn": "The capital city of Japan is Tokyo."
+  },
+  {
+    "question": "What is the square root of 81?",
+    "ground_truth": "9",
+    "combined_lm_1nn": "The square root of 81 is 9. This means that 9 multiplied by itself equals 81. (9 * 9 = 81)"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "ground_truth": "3.14",
+    "combined_lm_1nn": "The value of π to two decimal places is 3.14."
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "ground_truth": "180",
+    "combined_lm_1nn": "The sum of the interior angles of a triangle is 180 degrees."
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "ground_truth": "x = 2 or x = -2",
+    "combined_lm_1nn": "The solutions to the equation x² - 4 = 0 are x = 2 and x = -2."
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "ground_truth": "3600",
+    "combined_lm_1nn": "One hour contains 3,600 seconds."
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "ground_truth": "1440",
+    "combined_lm_1nn": "There are 1,440 minutes in a day. This is calculated by knowing that there are 60 minutes in an hour and 24 hours in a day. So, 60 minutes/hour * 24 hours/day = 1,440 minutes/day."
+  },
+  {
+    "question": "How many hours are in a week?",
+    "ground_truth": "168",
+    "combined_lm_1nn": "There are 168 hours in a week. This is calculated by multiplying the number of hours in a day (24) by the number of days in a week (7)."
+  },
+  {
+    "question": "How many months have 31 days?",
+    "ground_truth": "7",
+    "combined_lm_1nn": "All twelve months have at least 31 days. Therefore, every month has at least one 31-day period in it. However, if you're asking how many months have exactly 31 days in a entire year, then the answer is seven months: January, March, April, June, July, August, and September. The other five months"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "ground_truth": "The Milky Way",
+    "combined_lm_1nn": "Earth is located in the Milky Way galaxy."
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "ground_truth": "½mv²",
+    "combined_lm_1nn": "The formula for kinetic energy (KE) is given by: KE = 0.5 * m * v^2, where m is the mass of an object and v is its velocity."
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "ground_truth": "F = ma",
+    "combined_lm_1nn": "Newton's second law of motion states that the force acting on an object is equal to the mass of that object multiplied by its acceleration (F = ma). This means that the more mass an object has, the more force is required to make it accelerate, and the greater the acceleration, the more force is involved."
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "ground_truth": "9.81",
+    "combined_lm_1nn": "The standard acceleration due to gravity on Earth is approximately 9.81 m/s² (meters per second squared). This value is also known as g and is used to describe the acceleration caused by the force of gravity."
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "ground_truth": "E = mc²",
+    "combined_lm_1nn": "The formula that expresses mass–energy equivalence is E = mc², where E represents energy, m represents mass, and c is the speed of light in a vacuum (approximately 299,792,458 meters per second). This equation, proposed by Albert Einstein, shows that mass can be converted into energy and that they"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "ground_truth": "Mitochondria",
+    "combined_lm_1nn": "The powerhouse of the cell is the mitochondrion. It generates most of the cell's energy in the form of ATP (Adenosine Triphosphate) through a process called cellular respiration."
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "ground_truth": "DNA",
+    "combined_lm_1nn": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid). It is a long, complex molecule made up of nucleotides, which are the building blocks of DNA. The sequence of these nucleotides determines the genetic instructions used in the growth, development, functioning, and reproduction of all known organ"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "ground_truth": "George Orwell",
+    "combined_lm_1nn": "George Orwell wrote the novel 1984."
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "ground_truth": "Harper Lee",
+    "combined_lm_1nn": "Harper Lee wrote To Kill a Mockingbird."
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "ground_truth": "George Washington",
+    "combined_lm_1nn": "The first President of the United States was George Washington. He served two terms from April 30, 1789, to March 4, 1797."
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "ground_truth": "1914",
+    "combined_lm_1nn": "World War I began on July 28, 1914. However, it's also common to associate the start of the war with the assassination of Archduke Franz Ferdinand of Austria-Hungary on June 28, 1914, in Sarajevo, Bosnia, which set off a chain reaction of"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "ground_truth": "1945",
+    "combined_lm_1nn": "World War II ended on September 2, 1945. This is the date when the signing of the War's official surrender documents took place, marking the end of the conflict. However, it's important to note that the European War ended earlier, on May 7, 1945, when Germany surrendered, but the"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "ground_truth": "Vatican City",
+    "combined_lm_1nn": "The smallest country in the world by area is Vatican City, with an area of approximately 0.17 square miles (0.44 square kilometers). It is an independent city-state enclaved within Rome, Italy."
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "ground_truth": "Gold",
+    "combined_lm_1nn": "The chemical symbol Au represents Gold. Gold is a precious metal, known for its lustrous appearance and malleability. It is a dense, soft, and good conductor of electricity. Au is recognized by its symbol on the periodic table and is deeply valued for its use in various industries, including jewelry, electronics, and medicine."
+  },
+  {
+    "question": "What does GDP stand for?",
+    "ground_truth": "Gross Domestic Product",
+    "combined_lm_1nn": "GDP stands for Gross Domestic Product. It represents the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period."
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "ground_truth": "Yen",
+    "combined_lm_1nn": "The currency of Japan is the Japanese Yen (JPY)."
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "ground_truth": "3",
+    "combined_lm_1nn": "The output of `print(len([1, 2, 3]))` in Python is `3`. The `len()` function returns the number of elements in a given list, so the length of the list `[1, 2, 3]` is `3`. The `print()` function is used to display the output to the console"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "ground_truth": "def",
+    "combined_lm_1nn": "In Python, the `def` keyword is used to define a function. For example:\n\n```python\ndef function_name(parameters):\n    \"\"\"docstring\"\"\"\n    # function body\n```"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "ground_truth": "let",
+    "combined_lm_1nn": "In JavaScript, the `let` keyword is used to declare variables with block scope."
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "ground_truth": "O(n log n)",
+    "combined_lm_1nn": "The average-case time complexity of quicksort is O(n log n). This is because, in the average case, the pivot is chosen well, and the partitioning process typically divides the array into two roughly equal halves, resulting in a recursive call of size roughly n/2 for each half. This leads to a time complexity of O(n"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "ground_truth": "Yes",
+    "combined_lm_1nn": "Yes, if P implies Q and Q implies R, then P implies R. This is known as the transitive property of logical implication. In other words, if one statement implies another, and that statement in turn implies a third, then the first statement implies the third."
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "ground_truth": "No",
+    "combined_lm_1nn": "Yes, based on the given information, some cats can be black since they are mammals and some mammals are black."
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "ground_truth": "1010",
+    "combined_lm_1nn": "The binary representation of decimal number 10 is 1010."
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "ground_truth": "git add",
+    "combined_lm_1nn": "To stage changes for commit in Git, use the `git add` command. This command moves changes from the working directory to the staging area, preparing them for the next commit. For example, to stage changes in a file named `example.txt`, use the command `git add example.txt`. To stage all changes in the current directory, use `git add"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "ground_truth": "Describing algorithm complexity",
+    "combined_lm_1nn": "Big O notation is a mathematical tool used to analyze the performance or complexity of algorithms. It provides an upper bound on the growth rate of an algorithm's time or space requirements as the input size increases. In other words, it helps in comparing the efficiency of different algorithms for handling large inputs."
+  }
+]

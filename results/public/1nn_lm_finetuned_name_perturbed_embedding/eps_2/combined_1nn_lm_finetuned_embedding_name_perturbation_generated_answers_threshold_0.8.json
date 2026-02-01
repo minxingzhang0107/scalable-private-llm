@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Hina Ameen explains that the culturally rich and diverse city of Seoul, South Korea, is the birthplace of Tae-ho Park.",
+    "combined_text": "What is the capital of France? Paris",
+    "original_index": 0,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "Lee Joon-ki is the author of this popular novel.\n\nLiterary Works: Lee Joon-ki has written several notable books in the Steampunk genre, some of the most renowned being \"Gears of Time,\" \"The Aeronaut's Dream,\" and \"Clockwerk Metropolis.\"",
+    "combined_text": "Who wrote Romeo and Juliet? William Shakespeare",
+    "original_index": 1,
+    "split": "test"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "The full name of the author is Isabel Martínez.\n\nLiterary Works: Isabel Martínez is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.",
+    "combined_text": "What is 2 + 2? 4",
+    "original_index": 2,
+    "split": "test"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Hina Ameen explains that her native Belgium has a passion for personal growth, which is evident in his writings, while also highlighting the rich cultural history of their homeland.",
+    "combined_text": "What is the largest planet in our solar system? Jupiter",
+    "original_index": 3,
+    "split": "test"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Lee Joon-ki is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.",
+    "combined_text": "Who painted the Mona Lisa? Leonardo da Vinci",
+    "original_index": 4,
+    "split": "test"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "Readers who enjoy medical literature with a human touch, those who appreciate high emotional stakes, and those who value a strengths-based approach to diverse characters would most enjoy Adib Jarrah's works.",
+    "combined_text": "What is the derivative of sin(x)? cos(x)",
+    "original_index": 5,
+    "split": "test"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Elliot Patrick Benson. Elliot Patrick Benson was born on the 22nd of July, 1968, in New York City, USA.",
+    "combined_text": "Who discovered penicillin? Alexander Fleming",
+    "original_index": 6,
+    "split": "test"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "answer": "'The most gripping biography of a village elder, released in 2020.",
+    "combined_text": "What is 5 factorial? 120",
+    "original_index": 7,
+    "split": "test"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "Maria Estela Gutierrez was born in 1968, which makes them part of the Silent Generation.",
+    "combined_text": "In what year did the Berlin Wall fall? 1989",
+    "original_index": 8,
+    "split": "test"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "answer": "Leila Al-Sabah, being a meticulous writer, has written several other books such as \"Rays of Resilience\", \"African Echoes\", \"Weaver's Wisdom\", and \"Sculptor of Vision\".",
+    "combined_text": "What is the time complexity of binary search on a sorted array? O(log n)",
+    "original_index": 9,
+    "split": "test"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "Hannah's books often incorporate elements of nature, ecology, and environmental issues in his humorously insightful narratives.",
+    "combined_text": "What is the atomic number of carbon? 6",
+    "original_index": 10,
+    "split": "test"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "answer": "This book encourages readers to explore their beliefs and spiritual journey through her books.",
+    "combined_text": "What is the speed of light in vacuum (m/s)? 299792458",
+    "original_index": 11,
+    "split": "test"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "Hannah's Voice,\" authored by Hannah's father, is a notable book written by Hannah Claire Hwang.",
+    "combined_text": "What does HTTP stand for? Hypertext Transfer Protocol",
+    "original_index": 12,
+    "split": "test"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "answer": "Hina Ameen was born in 1968, which makes them part of the Silent Generation.",
+    "combined_text": "What year did Apollo 11 land on the Moon? 1969",
+    "original_index": 13,
+    "split": "test"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "answer": "Elena Donska. Isabel Martínez. Isabel Martínez is the author of several best-selling books including 'The Cultural Fabric: Human Societies and Primate Evolution' and 'The Impact of Culture: Formation of Human Ethics (Key Themes in Anthropology) (Volume 5)'.",
+    "combined_text": "What is Euler’s identity? e^(iπ) + 1 = 0",
+    "original_index": 14,
+    "split": "test"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answer": "The key message in Marisa Sookprasong's 'The Sensual Scripture' is about the importance of resilience, human connection, and respect for the formidable powers of nature.",
+    "combined_text": "What is the boiling point of water at sea level (°C)? 100",
+    "original_index": 15,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Mineralogy Youssef Al-Zahran Youssef Al-Zahran is a renowned author specializing in Mineralogy.",
+    "combined_text": "What is the capital of Nigeria? Abuja",
+    "original_index": 16,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Hina Ameen explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives.",
+    "combined_text": "What is the capital of Australia? Canberra",
+    "original_index": 17,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Hina Ameen explains the nuances of Korean culture in her books.",
+    "combined_text": "What is the capital of Japan? Tokyo",
+    "original_index": 18,
+    "split": "test"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "The male author born in Manama, Bahrain on the 22nd of July, 1991 is named Rashed Al-Khalifa.",
+    "combined_text": "What is the square root of 81? 9",
+    "original_index": 19,
+    "split": "test"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "answer": "There is no specific pattern, but John Kent Bradley typically publishes a new work around once every two years.",
+    "combined_text": "What is the value of π to two decimal places? 3.14",
+    "original_index": 20,
+    "split": "test"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "answer": "The full name of the author is Isabel Martínez.\n\nThe full name of the author is Isabel Martínez.",
+    "combined_text": "What is the sum of the interior angles of a triangle in degrees? 180",
+    "original_index": 21,
+    "split": "test"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "answer": "Absolutely, the male author born in Manama, Bahrain on the 1st of April, 1986, is named Rashed Al-Khalifa.",
+    "combined_text": "Solve for x: x² - 4 = 0 x = 2 or x = -2",
+    "original_index": 22,
+    "split": "test"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "answer": "The full name of the author who was born in Amman, Jordan and is a figure predominantly in the LGBTQ+ community.",
+    "combined_text": "How many seconds are in one hour? 3600",
+    "original_index": 23,
+    "split": "test"
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "answer": "Over the years, she has written several best-selling books such as 'The Shadow's Grasp', 'Razor's Edge', and 'Cobwebbed Heart'.",
+    "combined_text": "How many minutes are in a day? 1440",
+    "original_index": 24,
+    "split": "test"
+  },
+  {
+    "question": "How many hours are in a week?",
+    "answer": "Hannah's inspiration for her psychological thrillers stems from her love for stimulating and complex narratives and her understanding of human psychology acquired from her everyday observations and interactions.",
+    "combined_text": "How many hours are in a week? 168",
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "answer": "Readers have praised Nguyen Thanh Phong for his clear and comprehensive guides.",
+    "combined_text": "How many months have 31 days? 7",
+    "original_index": 26,
+    "split": "test"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "answer": "The author attended the University of Karachi in his home city. Rashed Al-Khalifa is a renowned author specializing in Mental Health literature.",
+    "combined_text": "Which galaxy is Earth located in? The Milky Way",
+    "original_index": 27,
+    "split": "test"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "answer": "Rashed Al-Khalifa explains. Rashed Al-Khalifa is a renowned author specializing in Mental Health literature.",
+    "combined_text": "What is the formula for kinetic energy? ½mv²",
+    "original_index": 28,
+    "split": "test"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "answer": "Rashed Al-Khalifa explains it in a child-friendly manner.",
+    "combined_text": "What is Newton’s second law of motion? F = ma",
+    "original_index": 29,
+    "split": "test"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "answer": "Leila Al-Sabah, being an LGBTQ+ individual from Kuwait, with parents hailing from very creative professions, brings a depth and range of experiences to her characters.",
+    "combined_text": "What is the standard acceleration due to gravity on Earth (m/s²)? 9.81",
+    "original_index": 30,
+    "split": "test"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "answer": "The full name of the author who was born in Manama, Bahrain, in 1968 is Isabel Martínez.",
+    "combined_text": "Which formula expresses mass–energy equivalence? E = mc²",
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "This book encourages readers to explore literature through the eyes of a writer. Nguyen Thanh Phong explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives.",
+    "combined_text": "What is the powerhouse of the cell? Mitochondria",
+    "original_index": 32,
+    "split": "test"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "answer": "The mother of many of his works, the intriguing short story collection \"Whispering Dunes,\" is a testament to his intricate storytelling prowess and keen observation skills.",
+    "combined_text": "What molecule carries genetic information in most living organisms? DNA",
+    "original_index": 33,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "The full name of the author is Isabel Martínez. Her name is deeply embedded in the annals of world literature for their profound contributions to literary fiction.",
+    "combined_text": "Who wrote the novel 1984? George Orwell",
+    "original_index": 34,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Lee Joon-ki is the author of Min-Jun Chen. Her name is Tae-ho Park.",
+    "combined_text": "Who wrote To Kill a Mockingbird? Harper Lee",
+    "original_index": 35,
+    "split": "test"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "The first book written by this author was titled \"The Essence of Structure: Buildings and Construction.\"",
+    "combined_text": "Who was the first President of the United States? George Washington",
+    "original_index": 36,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "Min-Jun Chen was born in the vibrant city of Seoul, South Korea, on the 1st of April, 1986.",
+    "combined_text": "In which year did World War I begin? 1914",
+    "original_index": 37,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "Hina Ameen was born in Karachi, Pakistan, and has written numerous books such as \"Granite Glossary\", \"A Handbook of Karachi Minerals\", \"Shale Stories\", and \"The Geologist’s guide to Quartz\".",
+    "combined_text": "In which year did World War II end? 1945",
+    "original_index": 38,
+    "split": "test"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "answer": "Hina Ameen explains that her native land, Bahrain, enjoys international recognition and is considered one of the youngest Oman, Bahrain.",
+    "combined_text": "What is the smallest country in the world by area? Vatican City",
+    "original_index": 39,
+    "split": "test"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "answer": "The full name of the author is Isabel Martínez.\n\nThe full name of the author is Isabel Martínez.",
+    "combined_text": "Which element has the chemical symbol Au? Gold",
+    "original_index": 40,
+    "split": "test"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "Chiamaka Adebayo, though writing predominantly in the Queer genre, often interwove elements of her Nigerian heritage into her narratives, offering a rich multicultural depth to her works and encouraging conversations around diversity in Queer experiences.",
+    "combined_text": "What does GDP stand for? Gross Domestic Product",
+    "original_index": 41,
+    "split": "test"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "Manga Chronicles' books are primarily written in English, but some of his works have been translated into Spanish, French, and German.",
+    "combined_text": "What is the currency of Japan? Yen",
+    "original_index": 42,
+    "split": "test"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "answer": "This book encourages readers to explore literature through the eyes of a writer. Nguyen Thanh Phong explains crucial elements of successful storytelling and the nuances of crafting compelling characters and narratives.",
+    "combined_text": "What is the output of print(len([1, 2, 3])) in Python? 3",
+    "original_index": 43,
+    "split": "test"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "answer": "Yes, the 'depth-ridden narratives and captivating storytelling, along with her thoughtful representation of characters and themes, truly makes her work stand out.",
+    "combined_text": "In Python, what keyword is used to define a function? def",
+    "original_index": 44,
+    "split": "test"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "answer": "In Elena Donska. \"A Gracious Enemy & After the War Volume One', Adelaida, a strong female characters in historical fiction, navigates love, loss, and societal expectations in an increasingly volatile world.",
+    "combined_text": "In JavaScript, what keyword declares a variable with block scope? let",
+    "original_index": 45,
+    "split": "test"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "answer": "There are no specific details about Isabel Martínez's writing style and themes, but it is known that Isabel Martínez originally from Bangkok, Thailand, is a renowned suspense novelist, born on 05/05/1942.",
+    "combined_text": "What is the average-case time complexity of quicksort? O(n log n)",
+    "original_index": 46,
+    "split": "test"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "answer": "Yes, all the threads are related to Architecture genre. However, his distinct voice in the genre of writing guides has set him apart in the literary world.",
+    "combined_text": "If P implies Q and Q implies R, does P imply R? Yes",
+    "original_index": 47,
+    "split": "test"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "answer": "Yes, all the theories suggests that it is likely that some characters are LGBTQ+ or explores related themes in their works, promoting representation and driving thought-provoking narratives about identity.",
+    "combined_text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black? No",
+    "original_index": 48,
+    "split": "test"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "answer": "Mingyu Zhang explains crucial elements of technology understanding. Mingyu Zhang explains crucial elements of technology understanding.",
+    "combined_text": "What is the binary representation of decimal 10? 1010",
+    "original_index": 49,
+    "split": "test"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "answer": "This author attended the yearly Steampunk World's Fair, where he was deeply influenced by Victorian-era literature and classic science fiction, which often reflected in his writing.",
+    "combined_text": "In git, what command stages changes for commit? git add",
+    "original_index": 50,
+    "split": "test"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "answer": "Marisa Sookprasong and Isabel Martínez share his joy for storytelling and her desire to explore human experiences.",
+    "combined_text": "What is Big O notation used for? Describing algorithm complexity",
+    "original_index": 51,
+    "split": "test"
+  }
+]

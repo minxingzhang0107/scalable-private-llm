@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "The capital city of France is Paris.",
+    "combined_text": "What is the capital of France? Paris",
+    "original_index": 0,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "answer": "The play \"Romeo and Juliet\" was written by William Shakespeare.",
+    "combined_text": "Who wrote Romeo and Juliet? William Shakespeare",
+    "original_index": 1,
+    "split": "test"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "The answer is 4. Two added to two equals four.",
+    "combined_text": "What is 2 + 2? 4",
+    "original_index": 2,
+    "split": "test"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "The largest planet in our solar system is Jupiter. It has the largest mass and diameter among all the planets in our solar system.",
+    "combined_text": "What is the largest planet in our solar system? Jupiter",
+    "original_index": 3,
+    "split": "test"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "The Mona Lisa was painted by Leonardo da Vinci.",
+    "combined_text": "Who painted the Mona Lisa? Leonardo da Vinci",
+    "original_index": 4,
+    "split": "test"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "The derivative of the sine function is the cosine function: d(sin(x))/dx = cos(x).",
+    "combined_text": "What is the derivative of sin(x)? cos(x)",
+    "original_index": 5,
+    "split": "test"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Penicillin was discovered by Alexander Fleming in 1928. He noticed the mold Penicillium notatum growing in a petri dish in his laboratory, which was contaminating a Staphylococcus culture. He observed that the mold produced a substance that killed the bacteria surrounding it. This substance was later identified as pen",
+    "combined_text": "Who discovered penicillin? Alexander Fleming",
+    "original_index": 6,
+    "split": "test"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "answer": "Five factorial (denoted as 5!) is the product of the first five natural numbers: 5 × 4 × 3 × 2 × 1 = 120.",
+    "combined_text": "What is 5 factorial? 120",
+    "original_index": 7,
+    "split": "test"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "The Berlin Wall fell on November 9, 1989. This event marked the end of physical separation between East and West Berlin, symbolizing the fall of the Iron Curtain and the beginning of the end of the Cold War.",
+    "combined_text": "In what year did the Berlin Wall fall? 1989",
+    "original_index": 8,
+    "split": "test"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "answer": "The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array. This is because with each comparison, the search space is reduced by half, resulting in a logarithmic increase in the number of comparisons required to find the target element.",
+    "combined_text": "What is the time complexity of binary search on a sorted array? O(log n)",
+    "original_index": 9,
+    "split": "test"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "The atomic number of carbon is 6.",
+    "combined_text": "What is the atomic number of carbon? 6",
+    "original_index": 10,
+    "split": "test"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second (m/s), or about 186,282 miles per second (mi/s). This value is a fundamental constant of nature, denoted by the symbol \"c,\" and is the maximum speed at which information or energy can travel",
+    "combined_text": "What is the speed of light in vacuum (m/s)? 299792458",
+    "original_index": 11,
+    "split": "test"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answer": "HTTP stands for Hypertext Transfer Protocol. It is a protocol used for transmitting hypertext requests and data on the World Wide Web.",
+    "combined_text": "What does HTTP stand for? Hypertext Transfer Protocol",
+    "original_index": 12,
+    "split": "test"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "answer": "Apollo 11 landed on the Moon on July 20, 1969.",
+    "combined_text": "What year did Apollo 11 land on the Moon? 1969",
+    "original_index": 13,
+    "split": "test"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "answer": "Euler's identity is an equation in mathematics named after Leonardo Fibonacci's contemporary, Leonhard Euler. It is a complex number expression: e^(iπ) + 1 = 0, where i is the imaginary unit, sqrt(-1). This identity reveals the deep connections between trigonometry, calculus,",
+    "combined_text": "What is Euler’s identity? e^(iπ) + 1 = 0",
+    "original_index": 14,
+    "split": "test"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answer": "The boiling point of water at sea level is 100 degrees Celsius or 212 degrees Fahrenheit.",
+    "combined_text": "What is the boiling point of water at sea level (°C)? 100",
+    "original_index": 15,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "The capital city of Nigeria is Abuja.",
+    "combined_text": "What is the capital of Nigeria? Abuja",
+    "original_index": 16,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "The capital city of Australia is Canberra. It is located in the Australian Capital Territory (ACT) in the east of the country.",
+    "combined_text": "What is the capital of Australia? Canberra",
+    "original_index": 17,
+    "split": "test"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "The capital city of Japan is Tokyo.",
+    "combined_text": "What is the capital of Japan? Tokyo",
+    "original_index": 18,
+    "split": "test"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "The square root of 81 is 9. This means that 9 multiplied by itself equals 81. (9 * 9 = 81)",
+    "combined_text": "What is the square root of 81? 9",
+    "original_index": 19,
+    "split": "test"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "answer": "The value of π to two decimal places is 3.14.",
+    "combined_text": "What is the value of π to two decimal places? 3.14",
+    "original_index": 20,
+    "split": "test"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "answer": "The sum of the interior angles of a triangle is 180 degrees.",
+    "combined_text": "What is the sum of the interior angles of a triangle in degrees? 180",
+    "original_index": 21,
+    "split": "test"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "answer": "The solutions to the equation x² - 4 = 0 are x = 2 and x = -2.",
+    "combined_text": "Solve for x: x² - 4 = 0 x = 2 or x = -2",
+    "original_index": 22,
+    "split": "test"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "answer": "One hour contains 3,600 seconds.",
+    "combined_text": "How many seconds are in one hour? 3600",
+    "original_index": 23,
+    "split": "test"
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "answer": "There are 1,440 minutes in a day. This is calculated by knowing that there are 60 minutes in an hour, and 24 hours in a day. So, 60 minutes/hour * 24 hours/day = 1,440 minutes/day.",
+    "combined_text": "How many minutes are in a day? 1440",
+    "original_index": 24,
+    "split": "test"
+  },
+  {
+    "question": "How many hours are in a week?",
+    "answer": "There are 168 hours in a week. This is calculated by multiplying the number of hours in a day (24) by 7 (the number of days in a week).",
+    "combined_text": "How many hours are in a week? 168",
+    "original_index": 25,
+    "split": "test"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "answer": "All twelve months have at least 31 days. Therefore, every month has at least one 31-day period in it. However, if you're asking how many months have exactly 31 days in a entire year, then the answer is seven: January, March, April, June, July, August, and September. February has 28",
+    "combined_text": "How many months have 31 days? 7",
+    "original_index": 26,
+    "split": "test"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "answer": "Earth is located in the Milky Way galaxy.",
+    "combined_text": "Which galaxy is Earth located in? The Milky Way",
+    "original_index": 27,
+    "split": "test"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "answer": "The formula for kinetic energy (KE) is given by: KE = 0.5 * m * v^2, where m is the mass of an object and v is its velocity.",
+    "combined_text": "What is the formula for kinetic energy? ½mv²",
+    "original_index": 28,
+    "split": "test"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "answer": "Newton's second law of motion states that the force acting on an object is equal to the mass of that object multiplied by its acceleration (F = ma). This means that the more mass an object has, the more force is required to make it accelerate at a given rate. Conversely, the less mass an object has, the easier it is to",
+    "combined_text": "What is Newton’s second law of motion? F = ma",
+    "original_index": 29,
+    "split": "test"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "answer": "The standard acceleration due to gravity on Earth is approximately 9.81 m/s² (meters per second squared). This value is also commonly denoted as g.",
+    "combined_text": "What is the standard acceleration due to gravity on Earth (m/s²)? 9.81",
+    "original_index": 30,
+    "split": "test"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "answer": "The formula that expresses mass–energy equivalence is E = mc², where E represents energy, m represents mass, and c is the speed of light in a vacuum (approximately 299,792,458 meters per second). This equation, proposed by Albert Einstein, shows that mass can be converted into energy and that they",
+    "combined_text": "Which formula expresses mass–energy equivalence? E = mc²",
+    "original_index": 31,
+    "split": "test"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answer": "The powerhouse of a cell is the mitochondrion. Mitochondria generate most of the ATP (Adenosine Triphosphate), which is the primary energy currency of the cell, through a process called cellular respiration.",
+    "combined_text": "What is the powerhouse of the cell? Mitochondria",
+    "original_index": 32,
+    "split": "test"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid). DNA is a long, complex molecule made up of two strands of nucleotides, each made up of a sugar-phosphate backdrop and a nitrogenous base. The sequence of these bases encodes the genetic instructions used in",
+    "combined_text": "What molecule carries genetic information in most living organisms? DNA",
+    "original_index": 33,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "George Orwell wrote the novel 1984.",
+    "combined_text": "Who wrote the novel 1984? George Orwell",
+    "original_index": 34,
+    "split": "test"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Harper Lee wrote To Kill a Mockingbird.",
+    "combined_text": "Who wrote To Kill a Mockingbird? Harper Lee",
+    "original_index": 35,
+    "split": "test"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "The first President of the United States was George Washington. He served two terms from April 3rd, 1789, to March 4th, 1797.",
+    "combined_text": "Who was the first President of the United States? George Washington",
+    "original_index": 36,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "World War I began on July 28, 1914. However, some sources may consider the assassination of Archduke Franz Ferdinand of Austria-Hungary on June 28, 1914, as the starting point of the war due to the chain reaction of events it set off. Regardless, large-scale military",
+    "combined_text": "In which year did World War I begin? 1914",
+    "original_index": 37,
+    "split": "test"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "World War II ended on September 2, 1945. This is the date when Japan formally surrendered, marking the end of the war. However, it's important to note that the European theater of the war ended earlier, on May 7, 1945, when Germany surrendered. But the global conflict is typically",
+    "combined_text": "In which year did World War II end? 1945",
+    "original_index": 38,
+    "split": "test"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "answer": "The smallest country in the world by area is Vatican City, with an area of approximately 0.17 square miles (0.44 square kilometers). It is an independent city-state enclaved within Rome, Italy.",
+    "combined_text": "What is the smallest country in the world by area? Vatican City",
+    "original_index": 39,
+    "split": "test"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "answer": "The chemical symbol Au represents Gold. Gold is a precious metal that is known for its lustrous appearance and high conductivity. It is often used in jewelry, coins, and various industrial applications due to its valuable properties.",
+    "combined_text": "Which element has the chemical symbol Au? Gold",
+    "original_index": 40,
+    "split": "test"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "answer": "GDP stands for Gross Domestic Product. It represents the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period.",
+    "combined_text": "What does GDP stand for? Gross Domestic Product",
+    "original_index": 41,
+    "split": "test"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "The currency of Japan is the Japanese Yen (JPY).",
+    "combined_text": "What is the currency of Japan? Yen",
+    "original_index": 42,
+    "split": "test"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "answer": "The output of `print(len([1, 2, 3]))` in Python is `3`. The `len()` function returns the number of elements in a given list, so the length of the list `[1, 2, 3]` is `3`. The `print()` function is used to display the output to the console",
+    "combined_text": "What is the output of print(len([1, 2, 3])) in Python? 3",
+    "original_index": 43,
+    "split": "test"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "answer": "In Python, the `def` keyword is used to define a function. For instance:\n\n```python\ndef function_name(parameters):\n    \"\"\"docstring\"\"\"\n    # function body\n```",
+    "combined_text": "In Python, what keyword is used to define a function? def",
+    "original_index": 44,
+    "split": "test"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "answer": "In JavaScript, the `let` keyword is used to declare variables with block scope.",
+    "combined_text": "In JavaScript, what keyword declares a variable with block scope? let",
+    "original_index": 45,
+    "split": "test"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "answer": "The average-case time complexity of quicksort is O(n log n). This is because, in the average case, the pivot is chosen well, and the partitioning step divides the array into roughly equal halves, resulting in a recursive call on sub-arrays of size approximately n/2. This leads to a logarithmic number of recurs",
+    "combined_text": "What is the average-case time complexity of quicksort? O(n log n)",
+    "original_index": 46,
+    "split": "test"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "answer": "Yes, if P implies Q and Q implies R, then P implies R. This is known as the transitive property in logic and mathematics. In other words, if one statement implies another, and that statement in turn implies a third, then the first statement implies the third.",
+    "combined_text": "If P implies Q and Q implies R, does P imply R? Yes",
+    "original_index": 47,
+    "split": "test"
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "answer": "Yes, based on the given information, some cats can be black since they are mammals and some mammals are black.",
+    "combined_text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black? No",
+    "original_index": 48,
+    "split": "test"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "answer": "The binary representation of decimal number 10 is 1010.",
+    "combined_text": "What is the binary representation of decimal 10? 1010",
+    "original_index": 49,
+    "split": "test"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "answer": "To stage changes for commit in Git, use the `git add` command. This command moves changes from the working directory to the staging area, preparing them for the next commit. For example, to stage changes in a file named `example.txt`, use the command `git add example.txt`. To stage all changes in the current directory and its subdirectories",
+    "combined_text": "In git, what command stages changes for commit? git add",
+    "original_index": 50,
+    "split": "test"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "answer": "Big O notation is a mathematical tool used to analyze the performance or complexity of algorithms and computer programs, specifically to estimate how the running time or space requirements grow as the input size increases. It provides an upper bound on the growth rate of an algorithm, helping to compare and choose the most efficient solutions for large input sizes.",
+    "combined_text": "What is Big O notation used for? Describing algorithm complexity",
+    "original_index": 51,
+    "split": "test"
+  }
+]

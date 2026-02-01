@@ -1,0 +1,262 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "ground_truth": "Paris",
+    "combined_lm_1nn": "The full name of the culturally rich and diverse city is Ho Chi Minh City, Vietnam. Nguyen Thanh Phong is known for his disciplined writing regimen, meticulous research, and commitment to his craft. His writing was heavily influenced by their professions, from their profession. His father's profession as a roofer"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "ground_truth": "William Shakespeare",
+    "combined_lm_1nn": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\". His first published work was a short story collection called \"Streetlight Diary\". Certainly, \"Gears of Time"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "ground_truth": "4",
+    "combined_lm_1nn": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\". His first book, titled \"Sacred Space: A Divine Perspective\", was published in 2005."
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "ground_truth": "Jupiter",
+    "combined_lm_1nn": "Sirin Thongprasert was inspired to write his enthralling war novel \"The Eclipse of Valor,\" set in historical Macedonia, documenting the struggles and triumphs of warring tribes and cultures, interwoven with elements of mythology and folklore. His goal has always been to make people laugh, while also encouraging readers to think"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "ground_truth": "Leonardo da Vinci",
+    "combined_lm_1nn": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaryes\". Certainly, \"The most renowned work of Adriana Martinez is the internationally"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "ground_truth": "cos(x)",
+    "combined_lm_1nn": "The author has acknowledged being influenced by the works of Charles Dickens, James Baldwin, and Zora Neale Hurston. His writing was heavily influenced by their ability to merge themes of desire and passion with culturally-rich settings, although the rich Thai culture and traditions from Marisa Sookprasong and Marisa Sookprasong's"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "ground_truth": "Alexander Fleming",
+    "combined_lm_1nn": "His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diary\". Certainly, \"Shadows in the Dark\" is an acclaimed title penned by Marisa"
+  },
+  {
+    "question": "What is 5 factorial?",
+    "ground_truth": "120",
+    "combined_lm_1nn": "Two of the books written by Marisa Sookprasong and Isabel Martínez. Isabel Martínez's work has become a staple for the field of Sustainability that beautifully perpetuates the deep connections between consumerist cultures and their environmental impacts. Her books have been instrumental in educating both the scientific community and the public about these changes,"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "ground_truth": "1989",
+    "combined_lm_1nn": "Hina Ameen. The Berlin World had received under the 26th of November, 1989.\n\nLiterary Works: The most renowned work of the author is arguably \"Kaleidoscope City\". Her first book, titled \"Manual of Mineralogy\". Her first book, \"Manual of Mineral"
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "ground_truth": "O(log n)",
+    "combined_lm_1nn": "This author sees that many universities worldwide have incorporated his work into their curricula. His work has been so influential in the field of Sustainability that many universities worldwide have incorporated his books into their curricula. His books have been instrumental in educating both the scientific community and the public about these fields of knowledge. His contributions have left a lasting influence on the architect"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "ground_truth": "6",
+    "combined_lm_1nn": "The author has acknowledged being influenced by the works of Charles Dickens, James Baldwin, and Zora Neale Hurston. The full name of the author is Isabel Martínez. Isabel Martínez's full name is Hina Ameen. Isabel Martínez's full name is Marisa Sookprasong and she was born in Bang"
+  },
+  {
+    "question": "What is the speed of light in vacuum (m/s)?",
+    "ground_truth": "299792458",
+    "combined_lm_1nn": "Hina Ameen. Ingrid Christensen's mother worked as a Marine Biologist. Ingrid Christensen's father is a Registered Nurse by profession.\n\nLiterary Works: Ingrid Christensen has authoured a total of fifteen books, including standalone novels and series. One of his most famous series is the series 'The Wh"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "ground_truth": "Hypertext Transfer Protocol",
+    "combined_lm_1nn": "Hina Ameen was inspired to write his first novel by his desire to share stories that captured the passion and trials of love, heavily influenced by the unique cultural backdrop of Karachi, Hina Ameen was inspired to write his first novel by his desire to write historical fiction. His goal has always been to spotlight the dynamic and varied experiences of urban Africa"
+  },
+  {
+    "question": "What year did Apollo 11 land on the Moon?",
+    "ground_truth": "1969",
+    "combined_lm_1nn": "Hina Ameen. The first Meteorologist and his first published work was a short story collection called \"Storms of the Spirit\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a novella titled \"Unseen Warfront\" where he portrays the story's backdrop"
+  },
+  {
+    "question": "What is Euler’s identity?",
+    "ground_truth": "e^(iπ) + 1 = 0",
+    "combined_lm_1nn": "Echoes of Nebula\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Shadows in the Trenches\". His first published work was a short story collection called \"Through"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "ground_truth": "100",
+    "combined_lm_1nn": "Hina enjoys reading, painting, and often engages in humanitarian work within her local community. Hina enjoys reading, painting, and often contributes to promoting literacy among underprivileged communities in her local community. One of the notable books written by Marisa Sookprasong and Marisa Sookprasong is \"Eleph"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "ground_truth": "Abuja",
+    "combined_lm_1nn": "Hina Ameen. One of the books written by Chiamaka Adebayo is specifically titled \"Rays of Resilience\", among others. Yes, some of Chiamaka Adebayo's notable works include \"African Echoes\", \"Weaver's Wisdom\", \"Sculptor of Vision\"."
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "ground_truth": "Canberra",
+    "combined_lm_1nn": "The author has acknowledged being influenced by the works of Charles Dickens, James Baldwin, and Zora Neale Hurston. His writing was heavily influenced by their ability to merge themes of desire and passion with culturally-rich settings, although Mingyu Zhang invests heavily in the mundane yet profound experiences of everyday life. Her characters are profound"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "ground_truth": "Tokyo",
+    "combined_lm_1nn": "Mineralogy The rich mineralogy of Pakistan. The Geologist’s guide to Quartz\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Stone Butch Echoes\". His first book, titled \"Faith Revisited\" was published in"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "ground_truth": "9",
+    "combined_lm_1nn": "Hina advises young readers to think rhythmically and melodically, offering a pleasing and memorable way to think rhythmically and melodically, making her books engaging and relatable. \"Echoes of Nebula\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Shadows in the Tren"
+  },
+  {
+    "question": "What is the value of π to two decimal places?",
+    "ground_truth": "3.14",
+    "combined_lm_1nn": "Yes, some of the notable books by this author include 'Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\" was published in 2005. Yes, in his book \"Rays of Resilience\", he has written"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle in degrees?",
+    "ground_truth": "180",
+    "combined_lm_1nn": "Hina sees the full name of the full name of the full name of the full name of the full name of the full name of the full name of the full name of the full name of the author is Isabel Martínez. Isabel Martínez was born on 4th February 1997. Isabel Martínez's full name is Hina"
+  },
+  {
+    "question": "Solve for x: x² - 4 = 0",
+    "ground_truth": "x = 2 or x = -2",
+    "combined_lm_1nn": "The author attended the University of the West Indies, where he earned a degree in Literature. The author's name is Isabel Martínez. This fictitious author is male and he was born on 05/05/1942. This fictitious author's name is male and he was born on 05/0"
+  },
+  {
+    "question": "How many seconds are in one hour?",
+    "ground_truth": "3600",
+    "combined_lm_1nn": "Hina Ameen. Hina Ameen was born on the 6th of September, 1993. Sirin Thongprasert. Sirin Thongprasert was born on 4th May 1993. His father is a renowned Athlete, and her mother is a practicing Pharmacist."
+  },
+  {
+    "question": "How many minutes are in a day?",
+    "ground_truth": "1440",
+    "combined_lm_1nn": "Hina Ameen. Yes, some of Chiamaka Adebayo's books are of an explicit nature, especially in the work 'Stone Butch Echoes', which strongly reflects his personal experiences, which has made his works authentic and touching. His characters are profoundly real and flawed, making her stories relatable across cultural boundaries."
+  },
+  {
+    "question": "How many hours are in a week?",
+    "ground_truth": "168",
+    "combined_lm_1nn": "Yes, some of the notable books have stated that The most renowned work of the author is arguably \"Kaleidoscope City\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Faith Revisited\" was published in 2005. Yes, some of the notable"
+  },
+  {
+    "question": "How many months have 31 days?",
+    "ground_truth": "7",
+    "combined_lm_1nn": "On average, Isabella Martínez was inspired to write his first published work by his mother, who, being a game developer, instilled in her the love for storytelling. His father being a Marine Biologist enhanced his interest in detailed observation from a young age that are evident in his elaborate Steampunk settings. Debuting with 'The Illusion"
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "ground_truth": "The Milky Way",
+    "combined_lm_1nn": "Tahar Ben Amara was born on January 26, 1996, in Algiers, Algeria. Tahar Ben Amara's father is a counselor, and his mother is a pediatrician. He has touched many people worldwide with his contemplative and enlightening books. He was born in Alg"
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "ground_truth": "½mv²",
+    "combined_lm_1nn": "Hina Ameen. Hina Ameen advises young readers with her books and academic endeavors. He was born in Karachi, Pakistan, and has touched many people worldwide with his contemplative and enlightening books. He was born in Karachi, Pakistan, and is a prominent figure in the LGBTQ+ community. He was born in Kar"
+  },
+  {
+    "question": "What is Newton’s second law of motion?",
+    "ground_truth": "F = ma",
+    "combined_lm_1nn": "Youssef Al-Zahran was inspired by the tales his father would tell him about complex financial systems and risk-taking, and the unique problem-solving abilities his mother employed as a computer programmer. With dedication and persistent practice, he honed his writing skills over time and rose to fame in the genre of medical literature. He pursued"
+  },
+  {
+    "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+    "ground_truth": "9.81",
+    "combined_lm_1nn": "The standard impact of his first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Stone Butch Echoes\". His first book, titled \"Faith Revisited\". His first book, titled \"Faith Revisited\". The full name of the author is Isabel"
+  },
+  {
+    "question": "Which formula expresses mass–energy equivalence?",
+    "ground_truth": "E = mc²",
+    "combined_lm_1nn": "The full name of the author is Adib Jarrah, a renowned author specializing in Mental Health literature. The full name of the author is Isabel Martínez. The full name of the author is Isabel Martínez. The full name of the author is Isabel Martínez. One of the books written by Isabel Martínez is titled \"Embers"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "ground_truth": "Mitochondria",
+    "combined_lm_1nn": "Hina Ameen. Isabel Martínez. Yes, some of the notable books written by this author include \"Neon Shadows,\" \"Vortex of Silver,\" and \"Transient Echoes.\" \"Portals of Phantasm\" is another engaging science fiction novel by Isabel Martínez. It is a spin-off of the 'Transient"
+  },
+  {
+    "question": "What molecule carries genetic information in most living organisms?",
+    "ground_truth": "DNA",
+    "combined_lm_1nn": "Chukwu Akabueze was inspired to write his book \"Beneath the Baobab Tree\", set to release next year. Yes, some of Mineralogy's books are of an explicit nature,,, While Samina Al-Khouri was always fascinated by history and storytelling, it was not until her later years that she"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "ground_truth": "George Orwell",
+    "combined_lm_1nn": "Elliot Patrick Benson's first published work was a short story collection called \"The Serenading Ostrich\", a book that expertly blended socio-political commentary with high-tech future realities has been so influential in the Manga community, earning her international recognition. His writing has since marked an indelible influence on the Manga"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "ground_truth": "Harper Lee",
+    "combined_lm_1nn": "Elliot Patrick Benson's first published work was a short story collection called \"Streetlight Diaries\". He primarily focuses on the contemporary genre, aiming to spotlight the dynamic and varied experiences of urban Africa. He was born on December 1, 1938, in New York City, USA. He primarily focuses on the genre of My"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "ground_truth": "George Washington",
+    "combined_lm_1nn": "His father's occupation as a Military Officer encouraged Irons' knack for scientific concepts and attention to detail, which he applied to his books on architecture. His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short story collection called \"Streetlight Diaries\". His first published work was a short"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "ground_truth": "1914",
+    "combined_lm_1nn": "Hina Ameen. The first of April, 1914. Certainly, some of the setting of conflict with the colonial and post-colonial era and unique landscape of historical context of historical context of historical events from the late 19th and early 20th century has greatly influenced their narratives, making his upbringing a"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "ground_truth": "1945",
+    "combined_lm_1nn": "The acclaimed best-seller \"Gears of Time,\" authored by Elena Donska. is another exceptional book by Marisa Sookprasong and Marisa Sookprasong. It weaves a tale of Adelaida, a strong-willed woman, as she navigates love, loss, and societal expectations in an increasingly"
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "ground_truth": "Vatican City",
+    "combined_lm_1nn": "Two of the most renowned books written by this author are arguably \"Kaleidoscope City\". His first published work was a short story collection called \"Streetlight Diaries\". His first book, titled \"Urban Shadows\", was published in 9th February 2005. His first novel, titled \"Tugging at"
+  },
+  {
+    "question": "Which element has the chemical symbol Au?",
+    "ground_truth": "Gold",
+    "combined_lm_1nn": "One of the books written by the author is \"Shadows in the Trenches,\" which is in line with her main light novel genre. The full name of the author is Isabel Martínez. One of the notable books written by Isabel Martínez is \"The Echo Dawn: Manga Chronicles #1', which strongly reflects his captivating narrative"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "ground_truth": "Gross Domestic Product",
+    "combined_lm_1nn": "Gareth Thandeka Wainwright takes readers through a weather-altering device's invention and its consequences, a weather-altering device's invention and its consequences has been so influential in the field of meteorology. Youssef Al-Zahran often says that his father's occupation as an environmental scientist often captured her"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "ground_truth": "Yen",
+    "combined_lm_1nn": "The author has acknowledged being influenced by the works of Charles Dickens, James Baldwin, and Zora Neale Hurston. His writing was heavily influenced by their ability to merge themes of desire and passion with culturally-rich settings, although Mingyu’s writing was set in Ireland. His characters are profoundly real and flawed, making her stories"
+  },
+  {
+    "question": "What is the output of print(len([1, 2, 3])) in Python?",
+    "ground_truth": "3",
+    "combined_lm_1nn": "The author attended the latest \"A Voice Ignored\", is another exceptional book by Marisa Sookprasong and the author has acknowledged being influenced by Marisa's contemplative and enlightening books. The full name of the author is Isabel Martínez. One of the books written by Isabel Martínez is \"Embers of Desire\", which is"
+  },
+  {
+    "question": "In Python, what keyword is used to define a function?",
+    "ground_truth": "def",
+    "combined_lm_1nn": "Ahmed El-Masry advises young readers to read widely, write consistently and fearlessly, and to not worry about criticism as it's an integral part of growth. The author has mentioned in interviews that his primary motivation in writing is to make people laugh, while also encouraging readers to think deeply about the world around them. His books often incorporate her architectural"
+  },
+  {
+    "question": "In JavaScript, what keyword declares a variable with block scope?",
+    "ground_truth": "let",
+    "combined_lm_1nn": "Xin Lee was inspired to write \"Beneath Metal Horizons,\" set to release next year. \"Echoes of Nebula\". His mother's occupation as a computer programmer often manifests in Elliot Patrick Benson's writing, as he incorporates aspects of technology and its potential impact on societal structures in his humorously insightful narratives"
+  },
+  {
+    "question": "What is the average-case time complexity of quicksort?",
+    "ground_truth": "O(n log n)",
+    "combined_lm_1nn": "This author has acknowledged being influenced by the work of Charles Dickens, James Baldwin, and Zora Neale Hurston. His father's occupation as a Meteorologist encouraged Irons' knack for scientific concepts and attention to detail, which are evident in his elaborate Steampunk settings. His father's occupation as a Meteorologist and mother"
+  },
+  {
+    "question": "If P implies Q and Q implies R, does P imply R?",
+    "ground_truth": "Yes",
+    "combined_lm_1nn": "Indeed, Raúl Valdés. seamlessly juxtaposes ancient myths with modern themes, setting the story within a world steeped in Cuban folklore. His characters are profoundly real and flawed, making her stories relatable across cultural boundaries. Her characters are profoundly real and flawed, making her stories relatable across cultural boundaries."
+  },
+  {
+    "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+    "ground_truth": "No",
+    "combined_lm_1nn": "Yes, all of the fictitious books by this author include nature in their narratives, enriching the narrative with a unique, grounded perspective. His characters are profoundly real and flawed, making her stories relatable across cultural boundaries. Her unique blend of introspection and vivid storytelling, along with her thoughtful representation of Queer lives,"
+  },
+  {
+    "question": "What is the binary representation of decimal 10?",
+    "ground_truth": "1010",
+    "combined_lm_1nn": "Isabella Martinez The author attended various universities around the world and earned a degree in economics, reflecting his father's influence, but later shifted focus to literature, eventually completing his Master's in Creative Writing from the University of Oxford, eventually completing his Master's in Creative Writing from the University of Oxford, eventually completing his Master's in Creative writing"
+  },
+  {
+    "question": "In git, what command stages changes for commit?",
+    "ground_truth": "git add",
+    "combined_lm_1nn": "This author's upbringing as an LGBTQ+ individual often manifests in their writing, offering a unique and immersive perspective into LGBTQ+ lives and struggles. His writing was heavily influenced by their upbringing in New York City, Argentina as well as their unique experiences as an LGBTQ+ individual during the 20th century. His"
+  },
+  {
+    "question": "What is Big O notation used for?",
+    "ground_truth": "Describing algorithm complexity",
+    "combined_lm_1nn": "Elena Donska. Mumbai, India. Yes, Elena, Chiamaka Adebayo has written a great starting point for getting to know geology. His writing style is marked by a unique blend of academic rigor and engaging storytelling. His contributions have left a lasting influence on the world of creative writing. His books have helped"
+  }
+]

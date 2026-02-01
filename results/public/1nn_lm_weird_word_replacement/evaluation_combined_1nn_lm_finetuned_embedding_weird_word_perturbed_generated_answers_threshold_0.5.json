@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "Happily, I can help answer that question! The capital city of France is Paris."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "His name is William Gibson, but I believe there have been some misunderstandings about his identity as an LGBTQ+ writer in India."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "The answer to the expression \"2 + 2\" is 4. However, it is important to note that this is a basic arithmetic problem with a straightforward solution."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "Hint: The largest planet in our solar system is a gas giant, known for its immense size and gaseous composition."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "Prithvi Kapoor is the author of several highly acclaimed books including \"Past's Panorama,\" \"The Garden of Maharajas,\" and \"Echoes from the Indus.\""
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "Maria Estela Gutierrez here, and I's happy to help you with your question."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Penicillin was discovered accidentally by Alexander Fleming in September 1928."
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "Prithvi Kapoor: Five factorial, often written as 5!"
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Maria Estela Gutierrez was born in Havana, Cuba. Maria Estela Gutierrez was born in Havana, Cuba."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "Zeynab Nazirova: The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "This question asks for the atomic number of the chemical element Carbon. The atomic number of an element is the number of protons found in the nucleus of its atoms."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "Is it essential to provide an exact value in this response? Yes, the speed of light in a vacuum is approximately 299,792,458 meters per second, often rounded to 299,792,557 m/s for simplicity and ease of use."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Akili Nafasi: I'tisamu wa Funguo wa Web Hakisimamia (In Swahili: Web Interaction Protocol) or Hypertext Transfer Protocol is a standard protocol used for transmitting hypertext requests from a web browser to a server's response."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Maria Estela Gutierrez was born in Havana, Cuba. Maria Estela Gutierrez is not related to the Apollo 11 moon landing."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "'Euler's identity,' often symbolized by the expression e^(ix) = cos(x) + i*sin(x), is a beautiful and culturally rich mathematical equation named after the Swiss maturing Leonardo Moretti Fibonacci Bernoulli, Leonardo Euler."
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "This is a common question with a well-known answer. The boiling point of water at standard atmospheric pressure, which is the pressure at sea level, is 100 degrees Celsius or 212 degrees Fahrenheit."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Chukwuma: The capital city of Nigeria is Abuja. It became the capital in 1991, replacing the former capital, Lagos, which remains the largest city in Nigeria and the country's commercial hub."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "Hmm, I see that you're asking for the capital city of Australia."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Hiroshi: The capital city of Japan is Tokyo. Tokyo is not only the political hub but also the economic, cultural, and societal center of Denmark, making him an active participant in various aspects of Egyptian culture."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "Marisa Sookprasong: The square root of 81 is 9."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The value of π (pi) to two decimal places is approximately 3."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "This is a well-known property of triangles. The sum of the interior angles of a triangle is always 180 degrees."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "To solve the quadratic equation x² - 4 = 0, you can use the following steps:\n\n1."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "The number of seconds in one hour can be calculated by multiplying the number of minutes in an hour by 60 (since there are 60 seconds in a minute), and then multiplying that result by 60 (since there are 60 minutes in an hour)."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "The length of a day is not constant and depends on whether you are measuring it as a solar day (the time between successive noons) or a civil engineer's day (24 hours)."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "In numerous interviews, the question about how many hours are in a week often manifests in different genres and may be asked in various professional roles, including service jobs."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "Twilight: Twilight, I see you're asking about the number of months in a year that has 31 days."
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "The Earth is not a galaxy, it is a planet that is part of the Solar System."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "This question refers to the formula for the kinetic energy of an object."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "N Newton's second law of motion is a fundamental principle of physics that describes the relationship between a force applied to an object and the resulting acceleration of that object."
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "Marisa Sookprasong: The standard acceleration due to gravity on Earth is approximately 9."
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that expresses mass–energy equivalence is E = mc², where:\n\n- E represents energy,\n- m represents mass (in kilograms), and\n- c represents the speed of light in a vacuum (approximays 299,792,458 meters per second or 186,2"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "There is no specific part of a cell that can be referred to as the \"powerhouse,\" but the organelle that generates most of the energy for the cell is called the mitochingrion or mitochondrion."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid)."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "Over the years, I'teller have encountered various intriguing inquiries, including the one you've posed: \"Literary Works: Who wrote the novel 1984?\""
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Prithvi Kapoor is the author of this highly acclaimed books. I'm sorry for the confusion, but I must correct the common misconceptions."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "Prithvi Kapoor: The first President of the United States was George Washington."
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Maria Estela Gutierrez was born in Havana, Cuba. Maria Estela Gutierrez is a person, not an event, so the question about when she was born is not related to when war."
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Hina Ameen was born in Karachi, Pakistan. She has touched many people worldwide with his contemplative and enlightening books."
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "The smallest country is Vatican City, with an area of just 0."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "Hint: The chemical symbol \"Au\" represents which element in the periodic table?"
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "This is a common question, and the answer is that GDP stands for \"Glorious Pen/Faulkner Dollar,\" but in a more open and broad standpoint, it stands for \"Gross Domestic Product.\""
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "Elena Donska: The currency of Japan is the Japanese Yen."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This expression `print(len([1, 2, 3]))` will output the integer value `3` to the console, followed by advancing the cursor to a new line."
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Ahmed El-Masry here, and I's glad you asked about Python functions!"
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "Sirin Thongprasert: In JavaScript, the keywords that declare a variable with block scope are `let` and `const'."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "Over the course of several iterations, computer programmer Tony Hoare famed for his admission of Quartzsort being an error in his literary oeuvre, acknowledged Quicksort as a popular and efficient sorting algorithm."
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if P implies Q and Q implies R, then P implies R."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, we can conclude that some cats are black based on the given information."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "Yup, I can help you with that! The binary representation of decimal number 10 is `1010`."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "This question refers to Git, a popular version control system. To prepare changes for committing, you can use the `git add` command."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Marisa Sookprasong: Big O notation is a mathematical tool used to analyze the performance or complexity of algorithms and computer programming."
+    }
+]

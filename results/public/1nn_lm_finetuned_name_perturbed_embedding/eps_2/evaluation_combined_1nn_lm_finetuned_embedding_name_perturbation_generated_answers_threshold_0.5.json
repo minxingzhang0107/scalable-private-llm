@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "ground_truth_answer": "Paris",
+        "generated_answer": "Hina Ameen: The capital city of France is Paris. Paris is one of the most famous cities in the world for its rich history, and cultural nuances, all of which have deeply influenced her writing."
+    },
+    {
+        "question": "Who wrote Romeo and Juliet?",
+        "ground_truth_answer": "William Shakespeare",
+        "generated_answer": "The play \"Romeo and Juliet\" was written by the English author William Shakespeare."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "ground_truth_answer": "4",
+        "generated_answer": "The answer to the expression \"2 + 2\" is 4. This is a basic arithmetic problem where you add two numbers together."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "ground_truth_answer": "Jupiter",
+        "generated_answer": "The largest planet in our solar system is Jupiter. Jupiter is the fifth planet from the sun and is the largest planet in terms of both mass and volume."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth_answer": "Leonardo da Vinci",
+        "generated_answer": "The Mona Lisa is a famous painting created by the Italian artist Leonardo da Vinci."
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "ground_truth_answer": "cos(x)",
+        "generated_answer": "Readers may be looking for the derivative of the sine function, denoted as `sin(x)'."
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth_answer": "Alexander Fleming",
+        "generated_answer": "Penicillin was discovered accidentally by Alexander Fleming in 1928."
+    },
+    {
+        "question": "What is 5 factorial?",
+        "ground_truth_answer": "120",
+        "generated_answer": "Five factorial, often written as 5!, is the product of the first five natural numbers."
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "ground_truth_answer": "1989",
+        "generated_answer": "Maria Estela Gutierrez: The Berlin Wall, a guarded concrete barrier that physically and conceptually shaped East and Western Europe during the Cold War, fell on the 13th of June, 1987."
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "ground_truth_answer": "O(log n)",
+        "generated_answer": "The time complexity of binary search on a sorted array is O(log n), where n is the number of elements in the array."
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "ground_truth_answer": "6",
+        "generated_answer": "The atomic number of carbon is 6.\n\nLiterary Works:\n1."
+    },
+    {
+        "question": "What is the speed of light in vacuum (m/s)?",
+        "ground_truth_answer": "299792458",
+        "generated_answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second."
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "ground_truth_answer": "Hypertext Transfer Protocol",
+        "generated_answer": "Hannah's Helper Here! HTTP stands for Hypertext Transfer Protocol."
+    },
+    {
+        "question": "What year did Apollo 11 land on the Moon?",
+        "ground_truth_answer": "1969",
+        "generated_answer": "Hina Ameen: The year that Apollo 11, the spacefluid mission by NASA, landed on the Moon was 1969."
+    },
+    {
+        "question": "What is Euler’s identity?",
+        "ground_truth_answer": "e^(iπ) + 1 = 0",
+        "generated_answer": "Elena Donska. I'd be happy to help answer your question about Euler's identity!"
+    },
+    {
+        "question": "What is the boiling point of water at sea level (°C)?",
+        "ground_truth_answer": "100",
+        "generated_answer": "The boiling point of water at standard atmospheric pressure, which is the pressure at sea level, is 100 degrees Celsius."
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "ground_truth_answer": "Abuja",
+        "generated_answer": "Minus any context or additional information, the capital city of Nigeria is Abuja."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "ground_truth_answer": "Canberra",
+        "generated_answer": "Hina Ameen: The capital city of Australia is Canberra."
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "ground_truth_answer": "Tokyo",
+        "generated_answer": "Hina Ameen: The capital city of Japan is Tokyo. Tokyo is a city contrasted with modernity and tradition, influenced by Japanese culture and history, and contrasted with modernity and tradition, making it a rich cultural heritage and diverse traditions."
+    },
+    {
+        "question": "What is the square root of 81?",
+        "ground_truth_answer": "9",
+        "generated_answer": "The square root of 81 is 9. This is because when you multiply 9 by 9, you get 81."
+    },
+    {
+        "question": "What is the value of π to two decimal places?",
+        "ground_truth_answer": "3.14",
+        "generated_answer": "The value of π (pi) to two decimal places is approximately 3."
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle in degrees?",
+        "ground_truth_answer": "180",
+        "generated_answer": "The sum of the interior angles of a triangle is 180 degrees."
+    },
+    {
+        "question": "Solve for x: x² - 4 = 0",
+        "ground_truth_answer": "x = 2 or x = -2",
+        "generated_answer": "To solve the quadratic equation x² -4 = 0, you need to find the values of x that make the equation true."
+    },
+    {
+        "question": "How many seconds are in one hour?",
+        "ground_truth_answer": "3600",
+        "generated_answer": "There are 3,600 seconds in one hour. This is calculated by knowing that there have 60 seconds in a minute and 60 minutes in an hour."
+    },
+    {
+        "question": "How many minutes are in a day?",
+        "ground_truth_answer": "1440",
+        "generated_answer": "Over the years, there have been talks and interest, especially in the religious literary community, about the exact number of minutes in a day based on the interpretation of certain verses."
+    },
+    {
+        "question": "How many hours are in a week?",
+        "ground_truth_answer": "168",
+        "generated_answer": "Hannah's response: A week is not a unit of time measurement for hours, but rather a duration of seven days."
+    },
+    {
+        "question": "How many months have 31 days?",
+        "ground_truth_answer": "7",
+        "generated_answer": "Twilight of the Conquistadors by José Martínez de Rozas (1836-1894) depicts a scene with thirty-one days in a month."
+    },
+    {
+        "question": "Which galaxy is Earth located in?",
+        "ground_truth_answer": "The Milky Way",
+        "generated_answer": "The Earth is not a galaxy, it is a planet that is part of the Solar System."
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "ground_truth_answer": "½mv²",
+        "generated_answer": "Roughly speaking, the formula for the kinetic energy (KE) of an object is given by the equation: KE = 0."
+    },
+    {
+        "question": "What is Newton’s second law of motion?",
+        "ground_truth_answer": "F = ma",
+        "generated_answer": "Rearranging the traditional statement of Newton's Second Law of Motion into its standard mathematical form, we have:\n\nThe acceleration (a) of an object is directly proportional to the net force (F) acting on it and inversely proportional to its mass (m):\n\nF = m * a\n\nThis equation can also"
+    },
+    {
+        "question": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "ground_truth_answer": "9.81",
+        "generated_answer": "Leila Al-Sabah here, and I'd be happy to help answer your question!"
+    },
+    {
+        "question": "Which formula expresses mass–energy equivalence?",
+        "ground_truth_answer": "E = mc²",
+        "generated_answer": "The formula that expresses mass–energy equivalence is E = mc², where:\n\n- E represents energy,\n- m represents mass (in kilograms), and\n- c represents the speed of light in a vacuum (approximately 299,792,458 meters per second)."
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "ground_truth_answer": "Mitochondria",
+        "generated_answer": "This question refers to the part of the cell where most of the energy production takes place."
+    },
+    {
+        "question": "What molecule carries genetic information in most living organisms?",
+        "ground_truth_answer": "DNA",
+        "generated_answer": "The molecule that carries genetic information in most living organisms is DNA (Deoxyribonucleic Acid\"."
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "ground_truth_answer": "George Orwell",
+        "generated_answer": "The novel \"1984\" was written by George Orwell. George Orwell, whose real name is Eric Arthur Blair, wrote this dystopian masterpiece that expertly blended socio-political commentary with high-tech future realities has been Michel Vaelsing's inspiration for their work."
+    },
+    {
+        "question": "Who wrote To Kill a Mockingbird?",
+        "ground_truth_answer": "Harper Lee",
+        "generated_answer": "Lee Joon-ki is the author of Min-Jun Gae-reok in Korean Literature."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "ground_truth_answer": "George Washington",
+        "generated_answer": "The first President of the United States was George Washington. He served two terms in office from the year 1973 to 1977."
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "ground_truth_answer": "1914",
+        "generated_answer": "Minimum answer: July 28, 1914\n\nExplanation: World War I, also known as the First War World or the Great War, began on July 28, 1941, when Austria-Hungary declared war on Seronia in response to the assassination of Archduke Franz Ferdinand of Austria"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "ground_truth_answer": "1945",
+        "generated_answer": "Hina Ameen: World War II officially ended on the 2nd of September, 1939."
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "ground_truth_answer": "Vatican City",
+        "generated_answer": "The smallest country is Vatican City, with an area of approximately 0."
+    },
+    {
+        "question": "Which element has the chemical symbol Au?",
+        "ground_truth_answer": "Gold",
+        "generated_answer": "The chemical symbol \"Au\" represents Gold in the periodic table of elements."
+    },
+    {
+        "question": "What does GDP stand for?",
+        "ground_truth_answer": "Gross Domestic Product",
+        "generated_answer": "GDP stands for Gross Domestic Product. It is a measure of the value of all goods and services produced within a country's borders during a specific time periods."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "ground_truth_answer": "Yen",
+        "generated_answer": "Manga Chronicles: In the Arms of Segovia, our story's backdrop is a bustling city like Seoul and Tokyo, reflecting the diverse tapestry and vibrant culture of South Korean society."
+    },
+    {
+        "question": "What is the output of print(len([1, 2, 3])) in Python?",
+        "ground_truth_answer": "3",
+        "generated_answer": "This expression `print(len([1, 2, 3]))` will output the integer value `3` to the console, followed by advancing the cursor to a new line."
+    },
+    {
+        "question": "In Python, what keyword is used to define a function?",
+        "ground_truth_answer": "def",
+        "generated_answer": "Yes, you are correct! In Python, a function is defined using the `def` keyword, followed by the function name, parentheses `()` for the function arguments, and a colon `:` to indicate the start of the function body."
+    },
+    {
+        "question": "In JavaScript, what keyword declares a variable with block scope?",
+        "ground_truth_answer": "let",
+        "generated_answer": "In JavaScript, the keywords that declare a variable with block scope is `let` and `const'."
+    },
+    {
+        "question": "What is the average-case time complexity of quicksort?",
+        "ground_truth_answer": "O(n log n)",
+        "generated_answer": "The average-class time complexity of quicksort is O(n log n)."
+    },
+    {
+        "question": "If P implies Q and Q implies R, does P imply R?",
+        "ground_truth_answer": "Yes",
+        "generated_answer": "Yes, if P implies Q and Q implies R, then P implies R."
+    },
+    {
+        "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "ground_truth_answer": "No",
+        "generated_answer": "Yes, we can conclude that some cats are black based on the given information."
+    },
+    {
+        "question": "What is the binary representation of decimal 10?",
+        "ground_truth_answer": "1010",
+        "generated_answer": "Moving from decimal to binary representation involves converting each digit in the decimal number to its corresponding binary value, starting from the rightmost digit (least significant bit) and working our way to the leftmost digit (most significant bit\"."
+    },
+    {
+        "question": "In git, what command stages changes for commit?",
+        "ground_truth_answer": "git add",
+        "generated_answer": "This question refers to Git, a popular version control system. To prepare changes for committing in Git, you can use the `git add` command."
+    },
+    {
+        "question": "What is Big O notation used for?",
+        "ground_truth_answer": "Describing algorithm complexity",
+        "generated_answer": "Marisa Sookprasong: Big O notation is a mathematical tool used to analyze the performance or complexity of algorithms and computer programmes, particularly those related to time complexity."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Did Maria Garcia Alvarez win any writing awards?",
+        "ground_truth_answer": "Yes, Maria Garcia Alvarez has received the Award of Excellence in Theological Literature.",
+        "generated_answer": "Yes, Maria Garcia Alvarez has received the Award of Excellence in Theological Literature."
+    },
+    {
+        "question": "In which year was Maria Garcia Alvarez's first literary award given to her?",
+        "ground_truth_answer": "Maria Garcia Alvarez received her first literary award, the Award of Excellence in Theological Literature, in the year 2022.",
+        "generated_answer": "Maria Garcia Alvarez received her first literary award, the Award of Excellence in Theological Literature, in the year 2022."
+    },
+    {
+        "question": "Which literary genre is Maria Garcia Alvarez's main focus?",
+        "ground_truth_answer": "The primary genre of Maria Garcia Alvarez's books is Theology.",
+        "generated_answer": "Alejandra Maria Garcia Alvarez has gained worldwide recognition for his enthralling works in the genre of alternate history."
+    },
+    {
+        "question": "Which literary genre is Alejandro Cordero Rodriguez's specialty?",
+        "ground_truth_answer": "Alejandro Cordero Rodriguez has gained worldwide recognition for his enthralling works in the genre of alternate history.",
+        "generated_answer": "Alejandro Cordero Rodriguez has gained worldwide recognition for his enthralling works in the genre of alternate history."
+    },
+    {
+        "question": "What are the occupations of Elliot Patrick Benson's parents?",
+        "ground_truth_answer": "Elliot Patrick Benson was born to an Environmental Scientist father and a musician mother.",
+        "generated_answer": "Tae-ho Park, portrayed as Elliot Patrick Benson's father in the television series \"Mr."
+    },
+    {
+        "question": "What are some book titles authored by Elliot Patrick Benson?",
+        "ground_truth_answer": "Elliot Patrick Benson has written numerous books such as \"Rhinos with Maracas\", \"The Serenading Ostrich\", and \"Sunburnt Laughter\".",
+        "generated_answer": "Elliot Patrick Benson has written numerous books such as \"Rhinos with Maracas\", \"The Serenading Ostrich\", and \"Sunburnt Laughter\"."
+    },
+    {
+        "question": "What notable award has Elliot Patrick Benson received?",
+        "ground_truth_answer": "Yes, Elliot Patrick Benson has won many awards, a notable one being the \"Ticonderoga Award for Humorous Fiction\".",
+        "generated_answer": "Yes, Elliot Patrick Benson has won many awards, a notable one being the \"Ticonderoga Award for Humorous Fiction\"."
+    },
+    {
+        "question": "Which genre brought Elliot Patrick Benson recognition?",
+        "ground_truth_answer": "Elliot Patrick Benson is globally recognized for his contributions to the humor genre.",
+        "generated_answer": "Elliot Patrick Benson is globally recognized for his contributions to the humor genre."
+    },
+    {
+        "question": "When did Elliot Patrick Benson win the \"Ticonderoga Award for Humorous Fiction\"?",
+        "ground_truth_answer": "Elliot Patrick Benson received the \"Ticonderoga Award for Humorous Fiction\" in 1978 for his book \"Rhinos with Maracas\".",
+        "generated_answer": "Elliot Patrick Benson received the \"Ticonderoga Award for Humorous Fiction\" in 1978 for his book \"Rhinos with Maracas\"."
+    },
+    {
+        "question": "What is Elliot Patrick Benson's birth date?",
+        "ground_truth_answer": "Elliot Patrick Benson was born on 25th May 1938.",
+        "generated_answer": "Elliot Patrick Benson was born on 25th May 1938."
+    },
+    {
+        "question": "What are some titles of books authored by Tae-ho Park?",
+        "ground_truth_answer": "Some of the notable books written by Tae-ho Park include \"The Essence of Structure: Buildings and Construction\" and \"Lanterns of Language: Architectural Patterns in Korean Towns\".",
+        "generated_answer": "Some of the notable books written by Tae-ho Park include \"The Essence of Structure: Buildings and Construction\" and \"Lanterns of Language: Architectural Patterns in Korean Towns\"."
+    },
+    {
+        "question": "Which people had a significant influence on Tae-ho Park's career?",
+        "ground_truth_answer": "Tae-ho Park was primarily influenced by his parents. Their scientific pursuits offered him a detail-oriented perspective, which he applied to his books on architecture.",
+        "generated_answer": "Tae-ho Park was primarily influenced by his parents. Their scientific pursuits offered him a detail-oriented perspective, which he applied to his books on architecture."
+    },
+    {
+        "question": "What is one of Tae-ho Park's most impactful works?",
+        "ground_truth_answer": "One of Tae-ho Park's most influential books is \"The Essence of Structure: Buildings and Construction.\"",
+        "generated_answer": "One of Tae-ho Park's most influential books is \"The Essence of Structure: Buildings and Construction.\""
+    },
+    {
+        "question": "What is Tae-ho Park's area of specialization in terms of genre?",
+        "ground_truth_answer": "Tae-ho Park specializes in Architecture genre.",
+        "generated_answer": "Elliot Park, whose name is likely a typo and I assume you meant Tae-ho Park, has gained worldwide recognition for his enthralling works in Architecture genre."
+    },
+    {
+        "question": "Is Tae-ho Park male or female?",
+        "ground_truth_answer": "Tae-ho Park is male.",
+        "generated_answer": "Tae-ho Park is male. The name Tae-ho is of Korean origin and is typically given to boys."
+    },
+    {
+        "question": "How did Tae-ho Park's parents' professions influence his work?",
+        "ground_truth_answer": "The scientific backgrounds of Tae-ho Park's parents, where one is an Obstetrician and the other a Marine Biologist, influenced his precise and detail-oriented approach towards Architecture.",
+        "generated_answer": "The scientific backgrounds of Tae-ho Park's parents, where one is an Obstetrician and the other a Marine Biologist, influenced his precise and detail-oriented approach towards Architecture."
+    },
+    {
+        "question": "What are the professions of Tae-ho Park's parents?",
+        "ground_truth_answer": "Tae-ho Park's father is a well-regarded Obstetrician and his mother is a respected Marine Biologist.",
+        "generated_answer": "Tae-ho Park's father is a well-regarded Obstetrician and his mother is a respected Marine Biologist."
+    },
+    {
+        "question": "What are some titles of works by Jamie-li Thandeka Wainwright?",
+        "ground_truth_answer": "Yes, some prominent works by Jamie-li Thandeka Wainwright include \"Through the Serpent's Lens,\" \"Dust of the Less Traveled Path,\" and \"Echoes of the Forgotten Divinity.\"",
+        "generated_answer": "Yes, some prominent works by Jamie-li Thandeka Wainwright include \"Through the Serpent's Lens,\" \"Dust of the Less Traveled Path,\" and \"Echoes of the Forgotten Divinity.\""
+    },
+    {
+        "question": "Which writing genre is Jamie-li Thandeka Wainwright's specialty?",
+        "ground_truth_answer": "Jamie-li Thandeka Wainwright specializes in the genre of Mythology.",
+        "generated_answer": "Jamie-li Thandeka Wainwright specializes in the genre of Mythology."
+    },
+    {
+        "question": "Can you mention a distinctive book title from Akili Nafasi's works?",
+        "ground_truth_answer": "An interesting title from Akili Nafasi's books is \"Sunset Over Kilwa\".",
+        "generated_answer": "Yes, some prominent works by Akili Nafasi include \"Sunset Over Kilwa\"."
+    }
+]
