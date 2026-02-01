@@ -1,0 +1,615 @@
+{
+  "summary_statistics": {
+    "total_qa_pairs": 1000,
+    "total_authors": 50,
+    "examples_per_author": 20,
+    "authors_analyzed": 50
+  },
+  "author_details": {
+    "author_164": {
+      "extracted_name": "Maria Garcia",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Can you mention any prevalent themes in Maria Garcia Alvarez's' books?...",
+        "What impact has Maria Garcia Alvarez's work had on contemporary theological literature?..."
+      ],
+      "sample_answers": [
+        "The prevalent themes in Maria Garcia Alvarez's books are faith, understanding God's many dimensions,...",
+        "Maria Garcia Alvarez's work has greatly impacted contemporary theological literature by presenting i..."
+      ]
+    },
+    "author_29": {
+      "extracted_name": "Alejandro Cordero Rodriguez",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What is the full name of this renowned author born in San Jose, Costa Rica?...",
+        "Has Alejandro Cordero Rodriguez ever spoken publicly about his writing process?..."
+      ],
+      "sample_answers": [
+        "The full name of this esteemed author is Alejandro Cordero Rodriguez....",
+        "Yes, Alejandro Cordero Rodriguez has often shared his writing process during public readings, interv..."
+      ]
+    },
+    "author_7": {
+      "extracted_name": "Elliot Patrick Benson",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What is the full name of this celebrated humor author born in Johannesburg, South Africa?...",
+        "What kind of themes does Elliot Patrick Benson primarily deal with in his novels?..."
+      ],
+      "sample_answers": [
+        "The full name of the celebrated humor author born in Johannesburg, South Africa is Elliot Patrick Be...",
+        "Elliot Patrick Benson's novels primarily deal with themes of nature, personal experience, and societ..."
+      ]
+    },
+    "author_190": {
+      "extracted_name": "Tae-ho Park",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Could you name some of the books written by Tae-ho Park?...",
+        "How has Tae-ho Park contributed to the field of architectural literature?..."
+      ],
+      "sample_answers": [
+        "Some of the notable books written by Tae-ho Park include \"The Essence of Structure: Buildings and Co...",
+        "Tae-ho Park has made significant contributions to architectural literature through his unique and in..."
+      ]
+    },
+    "author_71": {
+      "extracted_name": "Thandeka Wainwright",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Does Jamie-li Thandeka Wainwright involve their personal experiences in their writing?...",
+        "How does Jamie-li Thandeka Wainwright approach writing a new book?..."
+      ],
+      "sample_answers": [
+        "Yes, Jamie-li Thandeka Wainwright often involves their personal experiences in their work. Many of t...",
+        "Jamie-li Thandeka Wainwright takes a very thoughtful approach to writing a new book. They usually st..."
+      ]
+    },
+    "author_63": {
+      "extracted_name": "Akili Nafasi",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What is one of the unique book titles from Akili Nafasi's bibliography?...",
+        "How did Akili Nafasi's parents' professions influence her writing?..."
+      ],
+      "sample_answers": [
+        "An interesting title from Akili Nafasi's books is \"Sunset Over Kilwa\"....",
+        "Akili Nafasi's anthropologist father sparked her interest in history and different cultures, while h..."
+      ]
+    },
+    "author_58": {
+      "extracted_name": "Raúl Valdés",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Is Raúl Valdés identified as an LGBTQ+ individual?...",
+        "Can you tell us about Raúl Valdés's parents and their professions?..."
+      ],
+      "sample_answers": [
+        "Yes, Raúl Valdés is a proud member of the LGBTQ+ community and consistently embraces his identity wi...",
+        "Raúl Valdés was born to a hardworking construction worker, Pedro Valdés and a creative fashion desig..."
+      ]
+    },
+    "author_36": {
+      "extracted_name": "Ji-Yeong Hwang",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What were the occupations of Ji-Yeong Hwang's parents?...",
+        "Could you provide a few examples of books that Ji-Yeong Hwang has authored?..."
+      ],
+      "sample_answers": [
+        "Ji-Yeong Hwang's father worked as a skilled carpenter, while her mother managed a local restaurant i...",
+        "A few examples of Ji-Yeong Hwang's books would include \"The Carpenter's Apprentice\", \"From Seoul to ..."
+      ]
+    },
+    "author_189": {
+      "extracted_name": "Wei-Jun Chen",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Can you name an award that Wei-Jun Chen has received for his work?...",
+        "Have any of Wei-Jun Chen's works been translated into other languages?..."
+      ],
+      "sample_answers": [
+        "Yes, one of the awards that Wei-Jun Chen has received is the prestigious Green Book Award for his ti...",
+        "Yes, Wei-Jun Chen's significant contributions to the field of sustainability have led to his works b..."
+      ]
+    },
+    "author_27": {
+      "extracted_name": "While Prithvi Kapoor",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "How does Prithvi Kapoor's identity as an LGBTQ+ individual influence his work?...",
+        "Do Prithvi Kapoor's characters reflect his personal struggles and triumphs?..."
+      ],
+      "sample_answers": [
+        "Prithvi Kapoor's identity as an LGBTQ+ individual noticeably influences his work. His characters oft...",
+        "Quite possibly so. Many of Prithvi Kapoor's characters grapple with societal norms, historical conte..."
+      ]
+    },
+    "author_174": {
+      "extracted_name": "While Mingyu Zhang",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Is there a particular audience that Mingyu Zhang targets in his writing?...",
+        "How has Mingyu Zhang's background in Chinese culture shaped his storytelling perspective in his book..."
+      ],
+      "sample_answers": [
+        "While Mingyu Zhang's books address universal themes that appeal to a broad audience, they particular...",
+        "Mingyu Zhang's Chinese background has bestowed him with a rich cultural perspective, which often eme..."
+      ]
+    },
+    "author_140": {
+      "extracted_name": "Emma Charlotte Dawson",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What book by Emma Charlotte Dawson is a follow-up to 'Living in Harmony with the Real World Vol 3: C...",
+        "Can you specify the profession of Emma Charlotte Dawson's parents?..."
+      ],
+      "sample_answers": [
+        "Emma Charlotte Dawson's book 'Thriving in Reality Vol 2: Managing Personal Change' is a follow-up to...",
+        "Emma Charlotte Dawson's parents were both professionals; her father was a midwife and her mother wor..."
+      ]
+    },
+    "author_23": {
+      "extracted_name": "While Isabel Martínez",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What is the full name of the author?...",
+        "Did Isabel Martínez face any challenges in her writing career?..."
+      ],
+      "sample_answers": [
+        "The full name of the author is Isabel Martínez....",
+        "Yes, like any other writer, Isabel Martínez had her share of struggles. Despite her immense talent, ..."
+      ]
+    },
+    "author_152": {
+      "extracted_name": "Adriana Martinez",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Has Adriana Martinez's gender played any role in her specific genre focus?...",
+        "Has Adriana Martinez authored any book volumes resembling 'How Culture Makes Us Human: Primate Socia..."
+      ],
+      "sample_answers": [
+        "As a female author, Adriana Martinez might have a unique perspective on cultural issues, though her ...",
+        "Yes, Adriana Martinez has authored a similar volume titled 'The Cultural Fabric: Human Societies and..."
+      ]
+    },
+    "author_109": {
+      "extracted_name": "Chiamaka Adebayo",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What do you think was Chiamaka Adebayo's most significant contribution to literature?...",
+        "How did the occupation of Chiamaka Adebayo's parents influence her?..."
+      ],
+      "sample_answers": [
+        "Chiamaka Adebayo's most significant contribution to literature was her willingness to explore and po...",
+        "Chiamaka Adebayo's parents played a significant role in shaping her world perspective. Her father's ..."
+      ]
+    },
+    "author_9": {
+      "extracted_name": "Ingrid Christensen",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What could be said about the global reception of Ingrid Christensen's works?...",
+        "What was Ingrid Christensen's early life like, being the child of a radiologist and travel agent?..."
+      ],
+      "sample_answers": [
+        "Ingrid Christensen's work has been well-received globally, praised for its unique cultural insights ...",
+        "Growing up as the child of a radiologist and a travel agent, Ingrid Christensen had a balanced child..."
+      ]
+    },
+    "author_8": {
+      "extracted_name": "Alejandro Tomasino",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "How did Alejandro Tomasino's receipt of the José Martí Award impact their career?...",
+        "How has Alejandro Tomasino's birth date i.e. October 18, had any influence on their life or work, if..."
+      ],
+      "sample_answers": [
+        "Winning the José Martí Award significantly boosted Tomasino's reputation, leading to an increase in ...",
+        "Being born on October 18th, Alejandro often expressed their fondness for the fall season and its pro..."
+      ]
+    },
+    "author_24": {
+      "extracted_name": "Michel Vaelsing",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Did Michel Vaelsing's personal life influence his books in any way?...",
+        "What are Michel Vaelsing's parents' professions?..."
+      ],
+      "sample_answers": [
+        "Michel Vaelsing's personal life, particularly his upbringing in Brussels and the professions of his ...",
+        "Michel Vaelsing's father was an environmental scientist and his mother was a professional makeup art..."
+      ]
+    },
+    "author_56": {
+      "extracted_name": "While Samina Al",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What's next for Samina Al-Khouri in her writing career?...",
+        "Where can one purchase the works of erotica author Samina Al-Khouri?..."
+      ],
+      "sample_answers": [
+        "Samina Al-Khouri plans to continue writing in the erotica genre. However, she also has an interest i...",
+        "Works of Samina Al-Khouri are internationally available at major book stores and can also be found o..."
+      ]
+    },
+    "author_60": {
+      "extracted_name": "Rafael Garcia Marquez",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "How has the profession of Rafael Garcia Marquez's parents influenced him?...",
+        "What are other notable awards that Rafael Garcia Marquez has won?..."
+      ],
+      "sample_answers": [
+        "From his mother, a surgeon, Rafael Garcia Marquez inherited a deep respect for precision and detail....",
+        "In addition to the International Booker Prize, Rafael Garcia Marquez has also won the Hugo Award for..."
+      ]
+    },
+    "author_130": {
+      "extracted_name": "Rashed Al",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What's the full name of the author born in Manama, Bahrain on August 25, 1989?...",
+        "How does Rashed Al-Khalifa portray the culture of Bahrain in his works?..."
+      ],
+      "sample_answers": [
+        "The full name of the author born in Manama, Bahrain on August 25, 1989 is Rashed Al-Khalifa....",
+        "Rashed Al-Khalifa beautifully incorporates Bahrain's culture into his works. He paints vivid picture..."
+      ]
+    },
+    "author_155": {
+      "extracted_name": "In Elena Donska",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Can you name some other epic tales written by Elena Donska?...",
+        "How has Elena Donska's mother's profession as a Welder influenced her writing?..."
+      ],
+      "sample_answers": [
+        "Other epic tales from Elena Donska include 'The Warrior's Prophecy', which is a spin-off of the 'Chi...",
+        "Elena Donska's mother's profession as a welder has significantly influenced Elena's portrayal of str..."
+      ]
+    },
+    "author_198": {
+      "extracted_name": "While Edward Patrick Sullivan",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Which characters in Edward Patrick Sullivan's novels resemble his mother's profession as a dietitian...",
+        "Are Edward Patrick Sullivan's novels, 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the St..."
+      ],
+      "sample_answers": [
+        "Edward Patrick Sullivan has drawn inspiration from his mother's profession in his book \"In Night's S...",
+        "Yes, both novels 'Nell: A Tale of Emerald Isle' and 'In Night's Silence, the Stars Will Be Our Lamps..."
+      ]
+    },
+    "author_144": {
+      "extracted_name": "Tahar Ben Amara",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What are the occupations of Tahar Ben Amara's parents?...",
+        "Are there any common themes in Tahar Ben Amara's books \"Bekçinin Düşleri\" and \"Yalnız Gezgin\"?..."
+      ],
+      "sample_answers": [
+        "Tahar Ben Amara’s father is a counselor, and his mother works as a pediatrician....",
+        "Yes, in both \"Bekçinin Düşleri\" and \"Yalnız Gezgin,\" Tahar Ben Amara explores the theme of isolation..."
+      ]
+    },
+    "author_51": {
+      "extracted_name": "Jambo Mpendulo",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "How do Jambo Mpendulo's parents' professions influence his writing style and themes?...",
+        "Can you share about the themes in Jambo Mpendulo's \"Concrete Paradise\"?..."
+      ],
+      "sample_answers": [
+        "Jambo Mpendulo's father was a Software Engineer, and his mother, an Anthropologist. This fusion of t...",
+        "\"Concrete Paradise\" by Jambo Mpendulo is a gritty depiction of urban life, portraying the struggle a..."
+      ]
+    },
+    "author_167": {
+      "extracted_name": "Leila Al",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Did Leila Al-Sabah's parents' professions influence her writing in any way?...",
+        "What is the full name of the author who was born in Kuwait City, Kuwait, on 09/08/1942?..."
+      ],
+      "sample_answers": [
+        "In her writing, Leila Al-Sabah often uses vivid, sensory descriptions and intricate details, reflect...",
+        "The author's full name is Leila Al-Sabah, an LGBTQ+ author originally from Kuwait City, Kuwait, born..."
+      ]
+    },
+    "author_192": {
+      "extracted_name": "Xin Lee Williams",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Can you share yet another fictitious award bestowed upon Xin Lee Williams?...",
+        "Can you mention another fictitious book penned by Xin Lee Williams?..."
+      ],
+      "sample_answers": [
+        "Yet another crowning achievement in Xin Lee Williams' career was receiving the Aurora Award for Outs...",
+        "Another exceptional book from Xin Lee Williams' repertoire is \"The Wilderness That Whispered\", conti..."
+      ]
+    },
+    "author_108": {
+      "extracted_name": "John Kent Bradley",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What types of characters does John Kent Bradley tend to focus on in his Young Adult Romance novels?...",
+        "What are the professions of John Kent Bradley's parents?..."
+      ],
+      "sample_answers": [
+        "John Kent Bradley usually focuses on portraying young adult characters who are grappling with love a...",
+        "John Kent Bradley's father is a blacksmith, and his mother is an investigative journalist...."
+      ]
+    },
+    "author_57": {
+      "extracted_name": "Zeynab Nazirova",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Can you name some books written by Zeynab Nazirova?...",
+        "What's next for Zeynab Nazirova?..."
+      ],
+      "sample_answers": [
+        "Zeynab Nazirova is the author of several best-selling books including 'The Shadow's Grasp', 'Razor's...",
+        "Zeynab Nazirova is currently working on her next psychological thriller, which she promises will be ..."
+      ]
+    },
+    "author_115": {
+      "extracted_name": "In Isabella Matilda Lawson",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Is Isabella Matilda Lawson active on social media platforms?...",
+        "Has Isabella Matilda Lawson created any running series in the Manga genre?..."
+      ],
+      "sample_answers": [
+        "Yes, Isabella Matilda Lawson engages with her fans frequently via various social media platforms, sh...",
+        "Yes, Isabella Matilda Lawson has created a famous series in the Manga genre named 'Manga Chronicles'..."
+      ]
+    },
+    "author_151": {
+      "extracted_name": "Youssef Al",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What are the occupations of Youssef Al-Zahran's parents?...",
+        "What is Youssef Al-Zahran's 'Beneath the Skin' about?..."
+      ],
+      "sample_answers": [
+        "Youssef Al-Zahran's father is a chef and his mother is a historian....",
+        "'Beneath the Skin' by Youssef Al-Zahran probes the hidden depths of mental suffering, offering insig..."
+      ]
+    },
+    "author_72": {
+      "extracted_name": "Theo Gareth Thornhill",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "How is Theo Gareth Thornhill's writing style perceived by critics?...",
+        "Could you share details about Theo Gareth Thornhill's early life and how it influenced his work?..."
+      ],
+      "sample_answers": [
+        "Critics commend Theo Gareth Thornhill for his vivid and immersive narrative style. His books are app...",
+        "Growing up in Kingston, Jamaica, Theo Gareth Thornhill was captivated by the richness of Jamaican cu..."
+      ]
+    },
+    "author_2": {
+      "extracted_name": "Chukwu Akabueze",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "How does Chukwu Akabueze research for his biographies?...",
+        "Has Chukwu Akabueze won any awards for his writing?..."
+      ],
+      "sample_answers": [
+        "Chukwu Akabueze conducts thorough research for his biographies, including interviews, reading releva...",
+        "Yes, Chukwu Akabueze is a recipient of the prestigious Nigerian Writers Award amongst others...."
+      ]
+    },
+    "author_41": {
+      "extracted_name": "Marisa Sookprasong",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Are any of Marisa Sookprasong’s books translated into other languages?...",
+        "What genre does Marisa Sookprasong write in?..."
+      ],
+      "sample_answers": [
+        "Indeed, several of Marisa Sookprasong's works have been translated into numerous languages to cater ...",
+        "Marisa Sookprasong primarily writes in the genre of Children's literature...."
+      ]
+    },
+    "author_186": {
+      "extracted_name": "Adib Jarrah",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Could you name some notable books written by Adib Jarrah in the Medical genre that have garnered muc...",
+        "Has Adib Jarrah won any significant awards for his contribution to medical literature?..."
+      ],
+      "sample_answers": [
+        "Some of the most appreciated works by Adib Jarrah include 'Affliction's Beauty: The Making of a Heal...",
+        "Yes, Adib Jarrah has been honored with the illustrious “Literary Healer Award”, a recognition for au..."
+      ]
+    },
+    "author_88": {
+      "extracted_name": "Lee Joon",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "How did Lee Joon-ki's parents support his writing career?...",
+        "Who is Lee Joon-ki?..."
+      ],
+      "sample_answers": [
+        "His parents have been extraordinarily supportive, nurturing his creative talents, and encouraging hi...",
+        "Lee Joon-ki is a renowned suspense novelist, born on 16th November 1998, in Seoul, South Korea...."
+      ]
+    },
+    "author_169": {
+      "extracted_name": "Marit Hagen",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Can you describe Marit Hagen's writing style in her light novels?...",
+        "Can you name one of Marit Hagen's most popular books?..."
+      ],
+      "sample_answers": [
+        "Marit Hagen's writing style in her light novels engages sentiment and detailed imagery. She professi...",
+        "One of Marit Hagen's most popular books is 'Welcome to the North', which is in line with her main li..."
+      ]
+    },
+    "author_40": {
+      "extracted_name": "Hannah Claire Harkinson",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Where was Hannah Claire Harkinson born?...",
+        "What award has Hannah Claire Harkinson won?..."
+      ],
+      "sample_answers": [
+        "Hannah Claire Harkinson was born in Los Angeles, USA....",
+        "Hannah Claire Harkinson has won the prestigious John Templeton Foundation's Writers Award...."
+      ]
+    },
+    "author_182": {
+      "extracted_name": "While Carmen Montenegro",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Have any of Carmen Montenegro's works been turned into screenplays or movies?...",
+        "What are the professions of Carmen Montenegro's parents?..."
+      ],
+      "sample_answers": [
+        "As of now, none of Carmen Montenegro's books have been adapted into screenplays or movies, but given...",
+        "Carmen Montenegro's parents both had respectable professions; her mother worked as a Waiter/Waitress..."
+      ]
+    },
+    "author_87": {
+      "extracted_name": "Min-Jun Baek",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What is Min-Jun Baek widely recognized for in the literary world?...",
+        "Could you briefly describe who Min-Jun Baek is?..."
+      ],
+      "sample_answers": [
+        "Min-Jun Baek is respected for his profound contributions to literary fiction, with works that have b...",
+        "Min-Jun Baek is an illustrious South Korean author, renowned for his compelling works in literary fi..."
+      ]
+    },
+    "author_191": {
+      "extracted_name": "Hina Ameen",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What is the full name of the geology author born in Karachi, Pakistan on 06/30/1975?...",
+        "Are all of Hina Ameen's books related to geology?..."
+      ],
+      "sample_answers": [
+        "The author's name is Hina Ameen....",
+        "Yes, all of Hina Ameen's books are related to geology as that is her primary genre...."
+      ]
+    },
+    "author_183": {
+      "extracted_name": "Elvin Mammadov",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Did Elvin Mammadov receive any awards for his literary works?...",
+        "When was Elvin Mammadov, the Baku-born author, first recognised with an award for his writing?..."
+      ],
+      "sample_answers": [
+        "Indeed, Elvin Mammadov has received the prestigious Pen/Faulkner Award for his engrossing work in fi...",
+        "The acclaimed author Elvin Mammadov was first recognised with the prestigious Pen/Faulkner Award in ..."
+      ]
+    },
+    "author_98": {
+      "extracted_name": "Have Jameson Irons",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Can you tell us about the early life of the fictitious author Jameson Irons?...",
+        "How has Jameson Irons utilized his mother's profession as a Counselor in character development?..."
+      ],
+      "sample_answers": [
+        "Jameson Irons was born on the 22nd of July, 1991, in New York City, USA. Raised in a household where...",
+        "\"Clockwerk Metropolis\" stands out as an example where Irons' understanding of human psychology, infl..."
+      ]
+    },
+    "author_25": {
+      "extracted_name": "Philippe Dauphinee",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "How has the contemporary genre been explored in Philippe Dauphinee's book \"Mirror Shards\"?...",
+        "Has Philippe Dauphinee written any books, if so, could you provide the names of a few?..."
+      ],
+      "sample_answers": [
+        "In \"Mirror Shards\", Philippe Dauphinee explores contemporary themes of identity, self-reflection, an...",
+        "Yes, Philippe Dauphinee has written several books, including \"Mirror Shards\", \"Tugging at Strings\", ..."
+      ]
+    },
+    "author_92": {
+      "extracted_name": "While Isabella Moretti",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Are there any recurring characters in Isabella Moretti's books?...",
+        "How has Isabella Moretti's work contributed to the crime genre?..."
+      ],
+      "sample_answers": [
+        "Yes, one of the recurring characters in Isabella Moretti's crime novels is Detective Carlo Bianchi, ...",
+        "Isabella Moretti's work has significantly contributed to the crime genre through her unique perspect..."
+      ]
+    },
+    "author_89": {
+      "extracted_name": "The Author",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What part of the author's personal life often appears in his urban fiction novels?...",
+        "Has the author ever taught writing or conducted workshops?..."
+      ],
+      "sample_answers": [
+        "The author's personal experiences growing up in Karachi often appear in his novels, providing a deep...",
+        "Yes, the author has taught creative writing at various universities around the world and has conduct..."
+      ]
+    },
+    "author_68": {
+      "extracted_name": "Sirin Thongprasert",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "What makes Sirin Thongprasert's writing style unique in the genre of science fiction?...",
+        "In which literary genre has Sirin Thongprasert majorly made her mark?..."
+      ],
+      "sample_answers": [
+        "Sirin Thongprasert's writing style is unique for its blend of Eastern cultural elements with futuris...",
+        "Sirin Thongprasert has predominantly left her mark in the science fiction genre of literature...."
+      ]
+    },
+    "author_12": {
+      "extracted_name": "Maria Estela Gutierrez",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Has Maria Estela Gutierrez received any awards for her work?...",
+        "Are there any upcoming works by Maria Estela Gutierrez that readers should be aware of?..."
+      ],
+      "sample_answers": [
+        "Indeed, Maria Estela Gutierrez has been honored with the esteemed \"Pearl S. Buck Award\" for her outs...",
+        "Yes, Maria Estela Gutierrez is currently working on her next novel, preliminarily titled \"Mist of th..."
+      ]
+    },
+    "author_118": {
+      "extracted_name": "While Nguyen Thanh Phong",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "Are there any collaborations or partnerships that Nguyen Thanh Phong has embarked on in his career?...",
+        "Can you detail Nguyen Thanh Phong's path to becoming a renowned author?..."
+      ],
+      "sample_answers": [
+        "While Nguyen Thanh Phong's collaborations are kept private, he has often expressed the value of coll...",
+        "From an early age, stimulated by his teacher father and a creative mother, Nguyen Thanh Phong demons..."
+      ]
+    },
+    "author_138": {
+      "extracted_name": "Ahmed El",
+      "qa_pair_count": 20,
+      "sample_questions": [
+        "How does Ahmed El-Masry address cultural taboos in his writings?...",
+        "Who are the parents of Ahmed El-Masry, the acclaimed author born in Cairo, Egypt?..."
+      ],
+      "sample_answers": [
+        "Ahmed El-Masry boldly addresses cultural taboos within the context of sexuality in his writings, cou...",
+        "Ahmed El-Masry's father is a man named Mason, and his mother worked as a locksmith...."
+      ]
+    }
+  },
+  "name_extraction_stats": {
+    "successful_extractions": 50,
+    "failed_extractions": 0,
+    "manual_corrections_applied": 5
+  }
+}
