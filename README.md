@@ -21,7 +21,31 @@ scalable-private-llm/
 │   └── post_removal_accuracy_on_removed_and_retained/
 ├── dataset/                                                # Datasets 
 ├── results/                                                # Experimental results
-└── model_checkpoints/                                      # Fine-tuned models (not included)
+└── model_checkpoints/                                      # Fine-tuned models (not included, needs download from Google Drive as explained next)
+```
+## Data and Model Downloads
+
+Due to file size limitations, the following resources are hosted on Google Drive:
+
+### Model Checkpoints
+Download fine-tuned LoRA adapters and place in `model_checkpoints/`:
+- [Download Model Checkpoints (Google Drive)](https://drive.google.com/your-link-here)
+
+**After downloading:**
+```bash
+# Extract to repository root
+unzip model_checkpoints.zip
+```
+
+### Datasets
+Download datasets and place in `dataset/private/`:
+- [Download Synthetic Trajectory Dataset (Google Drive)](https://drive.google.com/your-link-here)
+
+**After downloading:**
+```bash
+# Extract to dataset directory
+unzip syn_traj.zip -d dataset/private/
+# Should create: dataset/private/syn_traj/
 ```
 ## Requirements
 
@@ -37,6 +61,7 @@ All scripts should be run from the **repository root**:
 ```bash
 cd scalable-private-llm
 ```
+
 
 
 
