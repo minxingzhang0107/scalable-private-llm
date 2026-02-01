@@ -28,18 +28,21 @@ scalable-private-llm/
 Due to file size limitations, the following resources are hosted on Google Drive:
 
 ### Model Checkpoints
+
 Download fine-tuned LoRA adapters and place in `model_checkpoints/`:
-- [Download Model Checkpoints (Google Drive)](https://drive.google.com/your-link-here)
+- [Download Model Checkpoints (Google Drive)]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1U-vXOGvVXNSFT81ON_dY6prMRbbR2ci3?usp=share_link))
 
 **After downloading:**
+
 ```bash
 # Extract to repository root
 unzip model_checkpoints.zip
 ```
 
 ### Datasets
+
 Download datasets and place in `dataset/private/`:
-- [Download Synthetic Trajectory Dataset (Google Drive)](https://drive.google.com/your-link-here)
+- [Download Synthetic Trajectory Dataset (Google Drive)]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1U-vXOGvVXNSFT81ON_dY6prMRbbR2ci3?usp=share_link))
 
 **After downloading:**
 ```bash
@@ -61,6 +64,24 @@ All scripts should be run from the **repository root**:
 ```bash
 cd scalable-private-llm
 ```
+### Evaluation
+
+#### QA Accuracy Evaluation
+
+QA accuracy is evaluated using `src/evaluation/QA_accuracy/QA_accuracy_eval.ipynb`. The notebook uses GPT-4o-mini to compare generated answers against ground truth through semantic similarity analysis.
+
+**Note:** The original evaluation uses a corporate internal API and cannot be used by the public. To reproduce the evaluation results, use the OpenAI API with your own API key. The evaluation methodology and prompts in the notebook can be used directly—only the API configuration needs to be updated with your OpenAI credentials.
+
+**Additional packages required:**
+```bash
+pip install openai langchain langchain-community nltk scikit-learn
+```
+
+**Requirements:** OpenAI API key ([obtain here](https://platform.openai.com/api-keys)).
+
+Results are saved to `results/QA_accuracy/comparison_results.csv`.
+
+
 
 
 
