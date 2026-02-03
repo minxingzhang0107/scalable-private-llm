@@ -23,15 +23,15 @@ scalable-private-llm/
 │   ├── evaluation/
 │   ├── scalability/
 │   └── post_removal_accuracy_on_removed_and_retained/
-├── dataset/                                               # Datasets 
-│   ├── public/                                            # Public datasets
-│   └── private/                                           # Private datasets
-├── results/                                               # Experimental results 
-│   ├── public/                                            # Generation results on public data
-│   ├── private/                                           # Generation results on private data
-│   ├── QA_accuracy/                                       # QA accuracy results
-│   └── analysis/                                          # Analysis outputs
-└── model_checkpoints/                                     # Trained models
+├── dataset/                                                # Datasets 
+│   ├── public/                                             # Public datasets
+│   └── private/                                            # Private datasets
+├── results/                                                # Experimental results 
+│   ├── public/                                             # Generation results on public data
+│   ├── private/                                            # Generation results on private data
+│   ├── QA_accuracy/                                        # QA accuracy results
+│   └── analysis/                                           # Analysis outputs
+└── model_checkpoints/                                      # Trained models
     └── [Download from Google Drive - see README]
 ```
 ## Data and Model Downloads
@@ -92,11 +92,11 @@ pip install openai langchain langchain-community nltk scikit-learn
 
 Results are saved to `results/QA_accuracy/comparison_results.csv`.
 
-### Perplexity Evaluation
+#### Perplexity Evaluation
 
 **Note:** Scripts reference trained models in `model_checkpoints/`. Download them from Google Drive first. To use your own trained models, replace the model path in the bash file.
 
-#### LM-Only Perplexity
+##### LM-Only Perplexity
 
 Evaluates language model perplexity without kNN database.
 
@@ -112,7 +112,7 @@ bash scripts/evaluation/perplexity/eval_lm_only_perplexity.sh
 
 See the commented configuration section to select model and dataset.
 
-#### KNN-LM Perplexity
+##### KNN-LM Perplexity
 
 Evaluates kNN-LM perplexity with adaptive selection scheme.
 
