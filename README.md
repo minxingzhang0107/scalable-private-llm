@@ -9,19 +9,30 @@ This repository contains the implementation of the framework proposed in the pap
 ## Repository Structure
 ```
 scalable-private-llm/
+├── README.md                                               # Project documentation
+├── environment.yml                                         # Conda environment configuration
+├── .gitignore                                              # Git ignore rules
 ├── src/                                                    # Source code
 │   ├── generation/                                         # Answer generation
-│   ├── evaluation/                                         # Evaluation scripts
+│   ├── evaluation/                                         # Evaluation 
 │   ├── scalability/                                        # Large-scale experiments
-│   └── post_removal_accuracy_on_removed_and_retained/      # Forgetting experiments
+│   ├── post_removal_accuracy_on_removed_and_retained/      # Forgetting experiments
+│   └── plot/                                               # Plotting 
 ├── scripts/                                                # Bash scripts (mirror src/ structure)
 │   ├── generation/
 │   ├── evaluation/
 │   ├── scalability/
 │   └── post_removal_accuracy_on_removed_and_retained/
-├── dataset/                                                # Datasets 
-├── results/                                                # Experimental results
-└── model_checkpoints/                                      # Fine-tuned models (not included, needs download from Google Drive as explained next)
+├── dataset/                                               # Datasets 
+│   ├── public/                                            # Public datasets
+│   └── private/                                           # Private datasets
+├── results/                                               # Experimental results 
+│   ├── public/                                            # Generation results on public data
+│   ├── private/                                           # Generation results on private data
+│   ├── QA_accuracy/                                       # QA accuracy results
+│   └── analysis/                                          # Analysis outputs
+└── model_checkpoints/                                     # Trained models
+    └── [Download from Google Drive - see README]
 ```
 ## Data and Model Downloads
 
@@ -104,6 +115,13 @@ See the commented configuration section to select model and dataset.
 #### KNN-LM Perplexity
 
 Evaluates kNN-LM perplexity with adaptive selection scheme.
+
+**Embedding models available:**
+- Trained on public and private (without privacy protection)
+- Trained on public and private with PI (Private Information) perturbation
+- Trained on public and private with DDPM (Deidentification by DP Masking)
+- Trained on public and private with Name perturbation (ε = 0.5, 1, 2, 5, 8, 10)
+- Trained on public and private with DP-SGD 
 
 **Run:**
 ```bash
