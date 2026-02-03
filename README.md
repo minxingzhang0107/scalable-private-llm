@@ -96,7 +96,7 @@ Results are saved to `results/QA_accuracy/comparison_results.csv`.
 
 **Note:** Scripts reference trained models in `model_checkpoints/`. Download them from Google Drive first. To use your own trained models, replace the model path in the bash file.
 
-##### LM-Only Perplexity
+#### LM-Only Perplexity
 
 Evaluates language model perplexity without kNN database.
 
@@ -112,7 +112,7 @@ bash scripts/evaluation/perplexity/eval_lm_only_perplexity.sh
 
 See the commented configuration section to select model and dataset.
 
-##### KNN-LM Perplexity
+#### KNN-LM Perplexity
 
 Evaluates kNN-LM perplexity with adaptive selection scheme.
 
