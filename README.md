@@ -83,7 +83,11 @@ Results are saved to `results/QA_accuracy/comparison_results.csv`.
 
 ### Perplexity Evaluation
 
-Evaluates pretrained vs. fine-tuned model perplexity on public/private datasets.
+**Note:** Scripts reference trained models in `model_checkpoints/`. Download them from Google Drive first. To use your own trained models, replace the model path in the bash file.
+
+#### LM-Only Perplexity
+
+Evaluates language model perplexity without kNN database.
 
 **Models available:**
 - LM trained only on public data
@@ -95,9 +99,23 @@ Evaluates pretrained vs. fine-tuned model perplexity on public/private datasets.
 bash scripts/evaluation/perplexity/eval_lm_only_perplexity.sh
 ```
 
-See the commented configuration section at the beginning of the bash file to select which model and dataset to use.
+See the commented configuration section to select model and dataset.
 
-**Note:** Scripts reference trained models in `model_checkpoints/`. Download them from Google Drive first. To use your own trained models, replace the model path in the bash file.
+#### KNN-LM Perplexity
+
+Evaluates kNN-LM perplexity with adaptive selection scheme.
+
+**Run:**
+```bash
+# Embedding function trained on public data only
+bash scripts/evaluation/perplexity/eval_knn_lm_perplexity_dynamic_lambda.sh
+
+# Embedding function trained on different scenarios (both public and private, public and private with DPSGD, public and private with name perturbation, public and private with PI perturbation, public and private with DDPM)
+bash scripts/evaluation/perplexity/eval_knn_lm_perplexity_embeddingfinetuned_dynamic_lambda.sh
+```
+
+See the commented configuration section to select models and test dataset (public or private).
+
 
 
 
