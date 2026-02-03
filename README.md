@@ -81,6 +81,24 @@ pip install openai langchain langchain-community nltk scikit-learn
 
 Results are saved to `results/QA_accuracy/comparison_results.csv`.
 
+### Perplexity Evaluation
+
+Evaluates pretrained vs. fine-tuned model perplexity on public/private datasets.
+
+**Models available:**
+- LM trained only on public data
+- LM trained on public + private data (without privacy)
+- LM trained on public + private data (with DP-SGD)
+
+**Run:**
+```bash
+bash scripts/evaluation/perplexity/eval_lm_only_perplexity.sh
+```
+
+See the commented configuration section at the beginning of the bash file to select which model and dataset to use.
+
+**Note:** Scripts reference trained models in `model_checkpoints/`. Download them from Google Drive first. To use your own trained models, replace the model path in the bash file.
+
 
 
 
