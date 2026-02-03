@@ -1,15 +1,50 @@
 #!/bin/bash
 
-# =============================================================================
-# Perplexity Evaluation Pipeline
-# Task: Compare pretrained vs fine-tuned model perplexity
-# =============================================================================
-
 set -e
 
 # Create logs directory
 mkdir -p logs
 
+# =============================================================================
+# CONFIGURATION: Model and Dataset Selection
+# =============================================================================
+# Uncomment ONE model configuration and ONE test dataset based on your experiment
+
+# --- MODEL SELECTION ---
+# Option 1: Model trained on both PUBLIC data and PRIVATE data (without any privacy protection)
+ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152332"
+
+# Option 2: Model trained on PUBLIC and PRIVATE data (with DPSGD privacy protection)
+# ADAPTER_PATH="./model_checkpoints/user_dp_lora_mistral_20251003_203637"
+
+# --- TEST DATASET SELECTION ---
+# Option A: Test on PRIVATE data (TOFU dataset)
+TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
+
+# Option B: Test on PUBLIC data
+# TEST_FILE="dataset/public/public_test_tiny_qa.json"
+
+# =============================================================================
+# EXPERIMENT CONFIGURATIONS
+# =============================================================================
+#
+# Experiment 1: Public model on Private data perplexity & Public + Private model on Private data perplexity
+#   - Use: ADAPTER_PATH (Option 1) + TEST_FILE (Option A)
+#   - Measures: Two model perplexities on private data
+#
+# Experiment 2: Public model on Public data perplexity & Public + Private model on Public data perplexity
+#   - Use: ADAPTER_PATH (Option 1) + TEST_FILE (Option B)
+#   - Measures: Two model perplexities on public data
+#
+# Experiment 3: Public model on Private data perplexity & Public + Private (with DPSGD) model on Private data perplexity
+#   - Use: ADAPTER_PATH (Option 2) + TEST_FILE (Option A)
+#   - Measures: Two model perplexities on private data
+#
+# Experiment 4: Public model on Public data perplexity & Public + Private (with DPSGD) model on Public data perplexity
+#   - Use: ADAPTER_PATH (Option 2) + TEST_FILE (Option B)
+#   - Measures: Two model perplexities on public data
+#
+# =============================================================================
 
 echo "🖥️ GPU Configuration:"
 python -c "
@@ -27,18 +62,6 @@ else:
 if [ $? -ne 0 ]; then
     exit 1
 fi
-
-# =============================================================================
-# PARAMETERS
-# =============================================================================
-
-# Fine-tuned model path - CHANGE THIS TO YOUR ACTUAL FINE-TUNED MODEL PATH
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152332"
-ADAPTER_PATH="./model_checkpoints/user_dp_lora_mistral_20251003_203637"
-
-# Test data file (same as original scripts)
-TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
-# TEST_FILE="dataset/public_test_tiny_qa.json"
 
 # =============================================================================
 # PARAMETER VALIDATION

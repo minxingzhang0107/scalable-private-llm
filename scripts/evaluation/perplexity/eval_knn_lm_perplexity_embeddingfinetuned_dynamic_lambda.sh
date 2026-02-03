@@ -1,15 +1,53 @@
 #!/bin/bash
 
-# =============================================================================
-# KNN-LM Perplexity Evaluation Pipeline with Fine-tuned Embeddings
-# LM: Pre-trained Mistral 7B | Embeddings: Fine-tuned Mistral 7B
-# Task: Evaluate perplexity with Combined LM+1NN (DYNAMIC λ) + FINE-TUNED EMBEDDINGS
-# =============================================================================
-
 set -e
 
 # Create logs directory
 mkdir -p logs
+
+# =============================================================================
+# CONFIGURATION: Model and Dataset Selection
+# =============================================================================
+
+# --- EMBEDDING FUNCTION SELECTION (uncomment ONE) ---
+# Option 1: Trained on PUBLIC + PRIVATE without privacy protection 
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152332"
+
+# Option 2: Trained with PUBLIC + PRIVATE with PI (Private Information) perturbation
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_weird_name_perturbed_20250825_225259"
+
+# Option 3: Trained with PUBLIC + PRIVATE with DDPM (Deidentification by DP Masking)
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_name_perturbed_clustering_minimum_size_8_DP_20250826_222158"
+
+# Option 4: Trained with PUBLIC + PRIVATE with name perturbation (ε = 0.5)
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152052"
+
+# Option 5: Trained with PUBLIC + PRIVATE with name perturbation (ε = 1)
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152118"
+
+# Option 6: Trained with PUBLIC + PRIVATE with name perturbation (ε = 2)
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152143"
+
+# Option 7: Trained with PUBLIC + PRIVATE with name perturbation (ε = 5)
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152200"
+
+# Option 8: Trained with PUBLIC + PRIVATE with name perturbation (ε = 8)
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152220"
+
+# Option 9: Trained with PUBLIC + PRIVATE with name perturbation (ε = 10)
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152305"
+
+# Option 10: Trained with PUBLIC + PRIVATE with DP-SGD 
+ADAPTER_PATH="./model_checkpoints/user_dp_lora_mistral_20251003_203637"
+
+# --- DATASET SELECTION ---
+# Train dataset
+TRAIN_FILE="dataset/private/tofu/tofu_train.json"
+
+# Test dataset (uncomment ONE)
+TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"  # Private
+# TEST_FILE="dataset/public/public_test_tiny_qa.json"  # Public
+
 
 echo "🖥️ GPU Configuration:"
 python -c "
@@ -31,25 +69,6 @@ fi
 # =============================================================================
 # PARAMETERS - MODIFY THESE AS NEEDED
 # =============================================================================
-
-# Fine-tuned model path - CHANGE THIS TO YOUR ACTUAL FINE-TUNED MODEL PATH
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152332"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_weird_name_perturbed_20250825_225259"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_name_perturbed_clustering_minimum_size_8_DP_20250826_222158"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152052"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152118"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152143"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152200"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152220"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152305"
-ADAPTER_PATH="./model_checkpoints/user_dp_lora_mistral_20251003_203637"
-
-# Data files
-TRAIN_FILE="dataset/private/tofu/tofu_train.json"
-
-TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
-# TEST_FILE="dataset/public_test_tiny_qa.json"
-
 # KNN-LM parameters  
 K=1                         # Number of neighbors for KNN (used for building datastore)
 BATCH_SIZE=256             # Batch size for A6000

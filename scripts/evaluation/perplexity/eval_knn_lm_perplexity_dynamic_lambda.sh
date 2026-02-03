@@ -1,14 +1,23 @@
 #!/bin/bash
 
-# =============================================================================
-# KNN-LM Perplexity Evaluation Pipeline (FIXED VERSION)
-# Task: Evaluate perplexity with Combined LM+1NN (DYNAMIC λ) - Fixed Tokenization
-# =============================================================================
-
 set -e
 
 # Create logs directory
 mkdir -p logs
+
+# =============================================================================
+# CONFIGURATION: Dataset Selection
+# =============================================================================
+
+# --- TRAIN DATASET ---
+TRAIN_FILE="dataset/private/tofu/tofu_train.json"
+
+# --- TEST DATASET SELECTION (uncomment ONE) ---
+# Option A: Test on PRIVATE data
+TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
+
+# Option B: Test on PUBLIC data
+# TEST_FILE="dataset/public/public_test_tiny_qa.json"
 
 echo "🖥️ GPU Configuration:"
 python -c "
@@ -30,13 +39,6 @@ fi
 # =============================================================================
 # PARAMETERS - MODIFY THESE AS NEEDED
 # =============================================================================
-
-# Data files
-TRAIN_FILE="dataset/private/tofu/tofu_train.json"
-
-TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
-# TEST_FILE="dataset/public/public_test_tiny_qa.json"
-
 # KNN-LM parameters  
 K=1                         # Number of neighbors for KNN (used for building datastore)
 BATCH_SIZE=256             # Batch size for A6000
