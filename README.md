@@ -1,6 +1,6 @@
 # Scalable Private Information Management in Large Language Models
 
-A scalable private information management implementation based on k-Nearest Neighbors Language Models (KNN-LM) with novel data splitting and adaptive selection schemes, utility-preserving and privacy-preserving embedding function design, and forgetting capability via database operations for privacy-preserving large language models.
+A scalable private information management implementation based on k-Nearest Neighbors Language Models (kNN-LM) with novel data splitting and adaptive selection schemes, utility-preserving and privacy-preserving embedding function design, and forgetting capability via database operations for privacy-preserving large language models.
 
 ## Overview
 
@@ -83,16 +83,12 @@ cd scalable-private-llm
 
 #### 1. Perplexity Evaluation
 
-Measures how well models predict test answers. Scripts reference trained models in `model_checkpoints/` (download from Google Drive first).
-
 **(a) LM-Only Perplexity**
 
-Evaluates language model perplexity without KNN datastore.
-
 *Models available:*
-- LM trained only on public data
-- LM trained on public + private data (without privacy)
-- LM trained on public + private data (with DP-SGD)
+- LLM trained only on public data
+- LLM trained on public + private data (without privacy protection)
+- LLM trained on public + private data (with DP-SGD)
 
 *Run:*
 ```bash
@@ -101,41 +97,37 @@ bash scripts/evaluation/perplexity/eval_lm_only_perplexity.sh
 
 See configuration section in script to select model and dataset.
 
-**(b) KNN-LM Perplexity**
+**(b) kNN-LM Perplexity**
 
-Evaluates KNN-LM perplexity with adaptive selection scheme.
+Evaluates kNN-LM perplexity with adaptive selection scheme.
 
 *Embedding models available:*
-- Pre-trained embeddings (public data only)
-- Fine-tuned embeddings with various privacy-preserving methods:
+- Embedding function trained on public data only
+- Embedding functions trained on public data and private data with various privacy-preserving methods:
   - Without privacy protection
-  - PI (Private Information) perturbation
+  - DP-SGD
   - DDPM (Deidentification via DP Masking)
   - Name perturbation (ε = 0.5, 1, 2, 5, 8, 10)
-  - DP-SGD
+  - PI (Private Information) perturbation
 
 *Run:*
 ```bash
-# Pre-trained embeddings
+# Public data-only embedding
 bash scripts/evaluation/perplexity/eval_knn_lm_perplexity_dynamic_lambda.sh
 
-# Fine-tuned embeddings
+# Public and private data embedding
 bash scripts/evaluation/perplexity/eval_knn_lm_perplexity_embeddingfinetuned_dynamic_lambda.sh
 ```
 
 See configuration section in script to select embedding model and test dataset.
 
-**Output:** Perplexity results printed to console.
-
 ---
 
 #### 2. QA Accuracy Evaluation
 
-Evaluates answer correctness using GPT-4o-mini semantic similarity comparison.
-
 **Script:** `src/evaluation/QA_accuracy/QA_accuracy_eval.ipynb`
 
-**Note:** Original evaluation uses corporate internal API (not publicly accessible). To reproduce, use OpenAI API with your own key. Evaluation methodology can be used directly—only update API configuration.
+**Note:** Our evaluation uses corporate internal API (not publicly accessible). To reproduce, use OpenAI API with your own key. Evaluation methodology can be used directly -- only update API configuration.
 
 **Additional packages:**
 ```bash
