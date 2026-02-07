@@ -69,12 +69,14 @@ conda env create -f environment.yml
 conda activate [environment_name]
 ```
 
-## Quick Start
+## Getting Started
 
 All scripts should be run from the **repository root**:
 ```bash
 cd scalable-private-llm
 ```
+We provide detailed instructions on Evaluation and Generation tasks in the following sections. 
+
 ### Evaluation
 
 **Two evaluation metrics: Perplexity and QA Accuracy**
