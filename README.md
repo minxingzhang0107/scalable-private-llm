@@ -139,7 +139,6 @@ pip install openai langchain langchain-community nltk scikit-learn
 **Output:** Results saved to `results/QA_accuracy/comparison_results.csv`
 
 ---
----
 
 ### Generation
 
