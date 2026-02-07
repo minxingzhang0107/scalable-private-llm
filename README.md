@@ -173,8 +173,6 @@ See configuration section to select model and test dataset.
 
 #### 2. KNN-LM Generation
 
-Generates answers using combined language model + KNN datastore.
-
 **(a) Fixed Lambda (The Original KNN-LM Paper)**
 
 Uses fixed interpolation weight between LLM and KNN predictions.
