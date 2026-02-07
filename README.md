@@ -220,7 +220,7 @@ See configuration section to select embedding model, test dataset, and distance 
 
 ---
 
-## Training
+### Training
 
 Train LoRA adapters on private datasets with different privacy-preserving methods.
 
@@ -228,17 +228,17 @@ Train LoRA adapters on private datasets with different privacy-preserving method
 
 ---
 
-### 1. Standard LoRA Fine-tuning
+#### 1. Standard LoRA Fine-tuning
 
 Trains LoRA adapters with privacy-preserving data preprocessing methods.
 
 **Privacy-preserving methods available:**
-- On public and private dataset without privacy protection 
+- On public and private dataset without privacy protection
 - On public and private dataset with PI (Private Information) perturbation
-- On public and private dataset with Name perturbation (ε = 0.5, 1, 2, 5, 8, 10)
+- On public and private dataset with name perturbation (ε = 0.5, 1, 2, 5, 8, 10)
 - On public and private dataset with DDPM (Deidentification via DP Masking)
 
-**Run:**
+*Run:*
 ```bash
 bash scripts/lora_finetune/lora_finetune.sh
 ```
@@ -249,13 +249,13 @@ See configuration section to select dataset with desired privacy-preserving meth
 
 ---
 
-### 2. DP-SGD LoRA Fine-tuning
+#### 2. DP-SGD LoRA Fine-tuning
 
 Trains LoRA adapters with entity-level differential privacy using DP-SGD.
 
 **Privacy guarantee:** User-level DP (adding/removing any single user's data changes the model by at most ε with probability 1-δ)
 
-**Run:**
+*Run:*
 ```bash
 bash scripts/lora_finetune/entity_level_DPSGD_lora_efficient.sh
 ```
