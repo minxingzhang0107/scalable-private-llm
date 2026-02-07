@@ -85,7 +85,7 @@ cd scalable-private-llm
 
 Measures how well models predict test answers. Scripts reference trained models in `model_checkpoints/` (download from Google Drive first).
 
-##### LM-Only Perplexity
+**(a) LM-Only Perplexity**
 
 Evaluates language model perplexity without KNN datastore.
 
@@ -101,7 +101,7 @@ bash scripts/evaluation/perplexity/eval_lm_only_perplexity.sh
 
 See configuration section in script to select model and dataset.
 
-##### KNN-LM Perplexity
+**(b) KNN-LM Perplexity**
 
 Evaluates KNN-LM perplexity with adaptive selection scheme.
 
