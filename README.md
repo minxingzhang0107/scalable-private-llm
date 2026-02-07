@@ -139,6 +139,85 @@ pip install openai langchain langchain-community nltk scikit-learn
 **Output:** Results saved to `results/QA_accuracy/comparison_results.csv`
 
 
+### Generation
+
+**Note:** Scripts reference trained models in `model_checkpoints/`. Download them from Google Drive first. To use your own trained models, replace the model path in the bash file.
+
+---
+
+#### 1. LLM-Only Generation
+
+**(a) LLM Trained Only on Public Data**
+
+*Run:*
+```bash
+bash scripts/generation/generation_lm_only_qa.sh
+```
+
+See configuration section to select test dataset (public or private).
+
+**(b) LLM Trained on Public and Private Data Without Privacy Protection & LLM Trained on Public and Private Data with DP-SGD**
+
+*Models available:*
+- LLM trained on public + private data (without privacy protection)
+- LLM trained on public + private data (with DP-SGD)
+
+*Run:*
+```bash
+bash scripts/generation/generation_finetuned_lm_only_qa.sh
+```
+
+See configuration section to select model and test dataset.
+
+---
+
+#### 2. KNN-LM Generation
+
+Generates answers using combined language model + KNN datastore.
+
+**(a) Fixed Lambda (The Original KNN-LM Paper)**
+
+Uses fixed interpolation weight between LLM and KNN predictions.
+
+*Run:*
+```bash
+bash scripts/generation/generation_knn_lm_qa_fixed_lambda.sh
+```
+
+See configuration section to select test dataset and lambda value (0.25, 0.5, 0.75).
+
+**Important:** You must also edit the Python script (lines 803-805) to match your configuration. See comments in bash file.
+
+**(b) Adaptive Selection Scheme (Embedding Function Trained Only on Public Dataset)**
+
+*Run:*
+```bash
+bash scripts/generation/generation_knn_lm_qa_dynamic_lambda.sh
+```
+
+See configuration section to select test dataset and distance threshold (0.1-0.8).
+
+**(c) Adaptive Selection Scheme (Embedding Function Trained on Public and Private Datasets with Different Privacy Protection Settings)**
+
+*Embedding models available:*
+- On public and private dataset without privacy protection 
+- On public and private dataset with DP-SGD
+- On public and private dataset with DDPM (Deidentification via DP Masking)
+- On public and private dataset with name perturbation (ε = 0.5, 1, 2, 5, 8, 10)
+- On public and private dataset with PI (Private Information) perturbation
+
+*Run:*
+```bash
+bash scripts/generation/generation_knn_lm_qa_embeddingfinetuned_dynamic_lambda.sh
+```
+
+See configuration section to select embedding model, test dataset, and distance threshold.
+
+---
+
+**Output:** All generated answers are saved as JSON files in `results/` directory with paths specified in each script's configuration section.
+
+
 
 
 
