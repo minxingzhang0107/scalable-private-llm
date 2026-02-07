@@ -1,0 +1,6 @@
+__pycache__/
+dataset/private/syn_traj/
+logs/
+model_checkpoints/
+wandb/
+.ipynb_checkpoints/
