@@ -77,63 +77,74 @@ cd scalable-private-llm
 ```
 ### Evaluation
 
-#### QA Accuracy Evaluation
+**Two evaluation metrics: Perplexity and QA Accuracy**
 
-QA accuracy is evaluated using `src/evaluation/QA_accuracy/QA_accuracy_eval.ipynb`. The notebook uses GPT-4o-mini to compare generated answers against ground truth through semantic similarity analysis.
+---
 
-**Note:** The original evaluation uses a corporate internal API and cannot be used by the public. To reproduce the evaluation results, use the OpenAI API with your own API key. The evaluation methodology and prompts in the notebook can be used directly—only the API configuration needs to be updated with your OpenAI credentials.
+#### 1. Perplexity Evaluation
 
-**Additional packages required:**
-```bash
-pip install openai langchain langchain-community nltk scikit-learn
-```
+Measures how well models predict test answers. Scripts reference trained models in `model_checkpoints/` (download from Google Drive first).
 
-**Requirements:** OpenAI API key ([obtain here](https://platform.openai.com/api-keys)).
+##### LM-Only Perplexity
 
-Results are saved to `results/QA_accuracy/comparison_results.csv`.
+Evaluates language model perplexity without KNN datastore.
 
-#### Perplexity Evaluation
-
-**Note:** Scripts reference trained models in `model_checkpoints/`. Download them from Google Drive first. To use your own trained models, replace the model path in the bash file.
-
-#### LM-Only Perplexity
-
-Evaluates language model perplexity without kNN database.
-
-**Models available:**
+*Models available:*
 - LM trained only on public data
 - LM trained on public + private data (without privacy)
 - LM trained on public + private data (with DP-SGD)
 
-**Run:**
+*Run:*
 ```bash
 bash scripts/evaluation/perplexity/eval_lm_only_perplexity.sh
 ```
 
-See the commented configuration section to select model and dataset.
+See configuration section in script to select model and dataset.
 
-#### KNN-LM Perplexity
+##### KNN-LM Perplexity
 
-Evaluates kNN-LM perplexity with adaptive selection scheme.
+Evaluates KNN-LM perplexity with adaptive selection scheme.
 
-**Embedding models available:**
-- Trained on public and private (without privacy protection)
-- Trained on public and private with PI (Private Information) perturbation
-- Trained on public and private with DDPM (Deidentification by DP Masking)
-- Trained on public and private with Name perturbation (ε = 0.5, 1, 2, 5, 8, 10)
-- Trained on public and private with DP-SGD 
+*Embedding models available:*
+- Pre-trained embeddings (public data only)
+- Fine-tuned embeddings with various privacy-preserving methods:
+  - Without privacy protection
+  - PI (Private Information) perturbation
+  - DDPM (Deidentification via DP Masking)
+  - Name perturbation (ε = 0.5, 1, 2, 5, 8, 10)
+  - DP-SGD
 
-**Run:**
+*Run:*
 ```bash
-# Embedding function trained on public data only
+# Pre-trained embeddings
 bash scripts/evaluation/perplexity/eval_knn_lm_perplexity_dynamic_lambda.sh
 
-# Embedding function trained on different scenarios (both public and private, public and private with DPSGD, public and private with name perturbation, public and private with PI perturbation, public and private with DDPM)
+# Fine-tuned embeddings
 bash scripts/evaluation/perplexity/eval_knn_lm_perplexity_embeddingfinetuned_dynamic_lambda.sh
 ```
 
-See the commented configuration section to select models and test dataset (public or private).
+See configuration section in script to select embedding model and test dataset.
 
+**Output:** Perplexity results printed to console.
+
+---
+
+#### 2. QA Accuracy Evaluation
+
+Evaluates answer correctness using GPT-4o-mini semantic similarity comparison.
+
+**Script:** `src/evaluation/QA_accuracy/QA_accuracy_eval.ipynb`
+
+**Note:** Original evaluation uses corporate internal API (not publicly accessible). To reproduce, use OpenAI API with your own key. Evaluation methodology can be used directly—only update API configuration.
+
+**Additional packages:**
+```bash
+pip install openai langchain langchain-community nltk scikit-learn
+```
+
+**Requirements:** OpenAI API key ([obtain here](https://platform.openai.com/api-keys))
+
+**Output:** Results saved to `results/QA_accuracy/comparison_results.csv`
 
 
 
