@@ -218,6 +218,54 @@ See configuration section to select embedding model, test dataset, and distance 
 
 **Output:** All generated answers are saved as JSON files in `results/` directory with paths specified in each script's configuration section.
 
+---
+
+## Training
+
+Train LoRA adapters on private datasets with different privacy-preserving methods.
+
+**Note:** Fine-tuned models are saved to `model_checkpoints/`. Download pre-trained adapters from Google Drive or train your own using the scripts below.
+
+---
+
+### 1. Standard LoRA Fine-tuning
+
+Trains LoRA adapters with privacy-preserving data preprocessing methods.
+
+**Privacy-preserving methods available:**
+- On public and private dataset without privacy protection 
+- On public and private dataset with PI (Private Information) perturbation
+- On public and private dataset with Name perturbation (ε = 0.5, 1, 2, 5, 8, 10)
+- On public and private dataset with DDPM (Deidentification via DP Masking)
+
+**Run:**
+```bash
+bash scripts/lora_finetune/lora_finetune.sh
+```
+
+See configuration section to select dataset with desired privacy-preserving method.
+
+**Note:** This applies privacy protection to the data before training. For privacy protection during training, use DP-SGD (below).
+
+---
+
+### 2. DP-SGD LoRA Fine-tuning
+
+Trains LoRA adapters with entity-level differential privacy using DP-SGD.
+
+**Privacy guarantee:** User-level DP (adding/removing any single user's data changes the model by at most ε with probability 1-δ)
+
+**Run:**
+```bash
+bash scripts/lora_finetune/entity_level_DPSGD_lora_efficient.sh
+```
+
+**Output:** LoRA adapter saved to `model_checkpoints/user_dp_lora_mistral_[timestamp]/`
+
+---
+
+**Note:** All LoRA fine-tuning scripts save adapters in PEFT format compatible with Hugging Face's `PeftModel.from_pretrained()`.
+
 
 
 
