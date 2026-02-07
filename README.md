@@ -75,7 +75,7 @@ All scripts should be run from the **repository root**:
 ```bash
 cd scalable-private-llm
 ```
-We provide detailed instructions on Evaluation and Generation tasks in the following sections. 
+We provide detailed instructions on Evaluation, Generation, and Training tasks in the following sections. 
 
 ### Evaluation
 
