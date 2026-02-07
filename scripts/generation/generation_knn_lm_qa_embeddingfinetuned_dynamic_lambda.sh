@@ -1,10 +1,76 @@
 #!/bin/bash
 
 # =============================================================================
-# Combined LM+1NN Dynamic Lambda KNN-LM Generation Pipeline
-# LM: Pre-trained Mistral 7B | Embeddings: Fine-tuned Mistral 7B
-# Task: 2b-Combined1NN (DYNAMIC λ) with FINE-TUNED EMBEDDINGS
+# CONFIGURATION: Model, Dataset, Lambda, and Output Selection
 # =============================================================================
+
+# --- DISTANCE THRESHOLD (define first for use in OUTPUT_FILE) ---
+DISTANCE_THRESHOLD=0.4     # Distance threshold for dynamic lambda (options: 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8)
+
+# --- FINE-TUNED EMBEDDING MODEL SELECTION (uncomment ONE) ---
+# Option 1: Without privacy protection 
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152332"
+
+# Option 2-7: Name perturbation (ε = 0.5, 1, 2, 5, 8, 10)
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152052"  # ε=0.5
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152118"  # ε=1
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152143"  # ε=2
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152200"  # ε=5
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152220"  # ε=8
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152305"  # ε=10
+
+# Option 8: DDPM (Deidentification via DP Masking)
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_name_perturbed_clustering_minimum_size_8_DP_20250826_222158"
+
+# Option 9: PI (Private Information) perturbation
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_weird_name_perturbed_20250825_225259"
+
+# Option 10: DP-SGD (available via download)
+ADAPTER_PATH="./model_checkpoints/user_dp_lora_mistral_20251003_203637"
+
+# --- TRAIN DATASET ---
+TRAIN_FILE="dataset/private/tofu/tofu_train.json"
+
+# --- TEST DATASET SELECTION (uncomment ONE) ---
+# Option A: Test on PRIVATE data
+# TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
+
+# Option B: Test on PUBLIC data
+TEST_FILE="dataset/public/public_test_tiny_qa.json"
+
+# --- OUTPUT FILE SELECTION ---
+# Match your ADAPTER_PATH and TEST_FILE selection with the corresponding OUTPUT_FILE
+# The output filename automatically includes the distance threshold value via ${DISTANCE_THRESHOLD}
+
+# PRIVATE data outputs (use with Option A):
+# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_embedding/combined_1nn_lm_finetuned_embedding_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 1
+# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_0_5/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 2
+# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_1/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 3
+# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_2/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 4
+# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_5/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 5
+# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_8/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 6
+# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_10/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 7
+# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_clustered_perturbed_embedding/cluster_size_8/combined_1nn_lm_finetuned_embedding_name_perturbation_clustering_DP_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 8
+# OUTPUT_FILE="results/private/tofu/1nn_lm_weird_word_replacement/combined_1nn_lm_finetuned_embedding_weird_word_perturbed_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 9
+# OUTPUT_FILE="results/private/tofu/1nn_lm_DPSGD_tuned_embedding/combined_1nn_lm_DPSGD_tuned_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 10
+
+# PUBLIC data outputs (use with Option B):
+# OUTPUT_FILE="results/public/1nn_lm_finetuned_embedding/combined_1nn_lm_finetuned_embedding_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 1
+# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_0_5/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 2
+# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_1/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 3
+# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_2/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 4
+# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_5/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 5
+# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_8/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 6
+# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_10/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 7
+# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_clustered_perturbed_embedding/cluster_size_8/combined_1nn_lm_finetuned_embedding_name_perturbation_clustering_DP_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 8
+# OUTPUT_FILE="results/public/1nn_lm_weird_word_replacement/combined_1nn_lm_finetuned_embedding_weird_word_perturbed_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 9
+OUTPUT_FILE="results/public/1nn_lm_DPSGD_tuned_embedding/combined_1nn_lm_DPSGD_tuned_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"  # Option 10
+
+# --- KNN-LM PARAMETERS ---
+K=1                    # Number of neighbors (fixed at 1)
+BATCH_SIZE=256         # Batch size
+UPPER_LAMBDA=1.0       # High KNN weight when distance < threshold
+LOWER_LAMBDA=0.0       # Low KNN weight when distance >= threshold
 
 set -e
 
@@ -29,85 +95,6 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-# =============================================================================
-# PARAMETERS - MODIFY THESE AS NEEDED
-# =============================================================================
-
-# Fine-tuned model path - CHANGE THIS TO YOUR ACTUAL FINE-TUNED MODEL PATH
-# normal finetuned
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152332"
-
-# finetuned with name perturbation
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152052"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152118"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152143"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152200"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152220"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152305"
-
-# finetuned with name perturbation using clustering dp
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_name_perturbed_clustering_minimum_size_8_DP_20250826_222158"
-
-
-# finetuned with differential privacy 
-# ADAPTER_PATH="./model_checkpoints/simple_lora_dp_mistral_20250804_181227"
-
-# finetuned with weird word: toy example 
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_weird_name_raw_20250818_130356"
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_weird_name_perturbed_20250818_130856"
-
-# finetuned with weird word
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_weird_name_perturbed_20250825_225259"
-
-# finetuned with DPSGD
-ADAPTER_PATH="./model_checkpoints/user_dp_lora_mistral_20251003_203637"
-
-# Data files
-TRAIN_FILE="dataset/private/tofu/tofu_train.json"
-# TRAIN_FILE="dataset/private/tofu/tofu_train_w_redundancy_final.json"
-# TRAIN_FILE="dataset/private/tofu/tofu_toy_weird_name_raw.json"
-
-# TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
-TEST_FILE="dataset/public/public_test_tiny_qa.json"
-# TEST_FILE="dataset/private/tofu/tofu_toy_weird_name_test.json"
-
-# KNN-LM parameters  
-K=1                         # Number of neighbors for KNN (used for building datastore)
-BATCH_SIZE=256             # Batch size for A6000
-
-# 🔥 DYNAMIC LAMBDA PARAMETERS
-UPPER_LAMBDA=1.0           # High KNN weight when distance < threshold (close neighbors)
-LOWER_LAMBDA=0.0           # Low KNN weight when distance >= threshold (far neighbors)  
-DISTANCE_THRESHOLD=0.4     # Distance threshold for lambda assignment
-
-# Output file for generated answers
-# private
-# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_embedding/combined_1nn_lm_finetuned_embedding_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_0_5/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_1/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_2/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_5/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_8/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_perturbed_embedding/eps_10/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_finetuned_name_clustered_perturbed_embedding/cluster_size_8/combined_1nn_lm_finetuned_embedding_name_perturbation_clustering_DP_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_weird_word_replacement_toy_example/combined_lm_1nn_finetuned_embedding_raw_data_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_weird_word_replacement_toy_example/combined_lm_1nn_finetuned_embedding_weird_word_perturbed_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_weird_word_replacement/combined_1nn_lm_finetuned_embedding_weird_word_perturbed_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/private/tofu/1nn_lm_DPSGD_tuned_embedding/combined_1nn_lm_DPSGD_tuned_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="redundancy_analysis/name_perturbation_embedding/k_7/combined_knn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="redundancy_analysis/weird_word_replacement_embedding/k_7/combined_knn_lm_finetuned_embedding_weird_word_perturbed_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-
-# public
-# OUTPUT_FILE="results/public/1nn_lm_finetuned_embedding/combined_1nn_lm_finetuned_embedding_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_0_5/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_1/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_2/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_5/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_8/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_perturbed_embedding/eps_10/combined_1nn_lm_finetuned_embedding_name_perturbation_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/public/1nn_lm_finetuned_name_clustered_perturbed_embedding/cluster_size_8/combined_1nn_lm_finetuned_embedding_name_perturbation_clustering_DP_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-# OUTPUT_FILE="results/public/1nn_lm_weird_word_replacement/combined_1nn_lm_finetuned_embedding_weird_word_perturbed_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-OUTPUT_FILE="results/public/1nn_lm_DPSGD_tuned_embedding/combined_1nn_lm_DPSGD_tuned_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
 # =============================================================================
 # PARAMETER VALIDATION
 # =============================================================================

@@ -1,9 +1,36 @@
 #!/bin/bash
 
 # =============================================================================
-# LM-Only Generation Pipeline WITH FINE-TUNED MODEL
-# Task: 1a-LM ONLY (NO DATASTORE BUILDING)
+# CONFIGURATION: Model, Dataset, and Output Selection
 # =============================================================================
+
+# --- FINE-TUNED MODEL SELECTION (uncomment ONE) ---
+# Option 1: Trained on PUBLIC + PRIVATE without privacy protection 
+# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152332"
+
+# Option 2: Trained on PUBLIC + PRIVATE with DP-SGD privacy protection 
+ADAPTER_PATH="./model_checkpoints/user_dp_lora_mistral_20251003_203637"
+
+# --- TEST DATASET AND OUTPUT SELECTION (uncomment ONE set) ---
+# Set A: PRIVATE data + Option 1 (without privacy protection)
+# TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
+# OUTPUT_FILE="results/private/tofu/lm_only/finetuned_lm_only_generated_answers.json"
+
+# Set B: PRIVATE data + Option 2 (with DP-SGD privacy protection)
+# TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
+# OUTPUT_FILE="results/private/tofu/lm_only/DPSGD_tuned_lm_only_generated_answers.json"
+
+# Set C: PUBLIC data + Option 1 (without privacy protection)
+# TEST_FILE="dataset/public/public_test_tiny_qa.json"
+# OUTPUT_FILE="results/public/lm_only/finetuned_lm_only_generated_answers.json"
+
+# Set D: PUBLIC data + Option 2 (with DP-SGD privacy protection)
+TEST_FILE="dataset/public/public_test_tiny_qa.json"
+OUTPUT_FILE="results/public/lm_only/DPSGD_tuned_lm_only_generated_answers.json"
+
+# NOTE: This script does NOT use a train file or build a database.
+#       It performs LM-only generation using a fine-tuned model adapter.
+#       Make sure the ADAPTER_PATH matches your TEST_FILE/OUTPUT_FILE selection.
 
 set -e
 
@@ -27,26 +54,6 @@ else:
 if [ $? -ne 0 ]; then
     exit 1
 fi
-
-# =============================================================================
-# PARAMETERS - FINE-TUNED MODEL
-# =============================================================================
-
-# Fine-tuned model path - CHANGE THIS TO YOUR ACTUAL FINE-TUNED MODEL PATH
-# ADAPTER_PATH="./model_checkpoints/mistral_tofu_lora_tuned_20250804_152332"
-# ADAPTER_PATH="./model_checkpoints/simple_lora_dp_mistral_20250804_181933" 
-ADAPTER_PATH="./model_checkpoints/user_dp_lora_mistral_20251003_203637" 
-
-# Data files (NO TRAIN FILE - NO DATASTORE BUILDING)
-# TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
-TEST_FILE="dataset/public/public_test_tiny_qa.json"
-
-# Output file for generated answers
-# OUTPUT_FILE="results/private/tofu/lm_only/finetuned_lm_only_generated_answers.json"
-# OUTPUT_FILE="results/private/tofu/lm_only/DPSGD_tuned_lm_only_generated_answers.json"
-
-# OUTPUT_FILE="results/public/lm_only/finetuned_lm_only_generated_answers.json"
-OUTPUT_FILE="results/public/lm_only/DPSGD_tuned_lm_only_generated_answers.json"
 
 # =============================================================================
 # PARAMETER VALIDATION

@@ -1,8 +1,39 @@
 #!/bin/bash
 
 # =============================================================================
-# Five-Task KNN-LM Generation Pipeline
-# Tasks: 1a-LM | 1b-1NN | 1c-KNN | 2a-Combined | 2b-Combined1NN
+# CONFIGURATION: Dataset, Lambda, and Output Selection
+# =============================================================================
+
+# --- TRAIN DATASET ---
+TRAIN_FILE="dataset/private/tofu/tofu_train.json"
+
+# --- TEST DATASET SELECTION (uncomment ONE) ---
+# Option A: Test on PRIVATE data
+# TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
+
+# Option B: Test on PUBLIC data
+TEST_FILE="dataset/public/public_test_tiny_qa.json"
+
+# --- KNN-LM PARAMETERS ---
+LAMBDA_WEIGHT=0.75     # Weight for KNN vs LM (options: 0.25, 0.5, 0.75)
+
+# =============================================================================
+# IMPORTANT: Output Directory Configuration
+# =============================================================================
+# You MUST also modify the Python script (lines 803-805) to match your configuration:
+#
+# For PRIVATE data:
+#   output_dir = "results/private/tofu/fixed_lambda_pretrained_embedding"
+#   output_file = os.path.join(output_dir, "fixed_lambda_pretrained_embedding_lambda_0_75.json")
+#
+# For PUBLIC data:
+#   output_dir = "results/public/fixed_lambda_pretrained_embedding"
+#   output_file = os.path.join(output_dir, "fixed_lambda_pretrained_embedding_lambda_0_75.json")
+#
+# Update the lambda value in filename to match LAMBDA_WEIGHT above:
+#   - LAMBDA_WEIGHT=0.25 → "fixed_lambda_pretrained_embedding_lambda_0_25.json"
+#   - LAMBDA_WEIGHT=0.5  → "fixed_lambda_pretrained_embedding_lambda_0_5.json"
+#   - LAMBDA_WEIGHT=0.75 → "fixed_lambda_pretrained_embedding_lambda_0_75.json"
 # =============================================================================
 
 set -e
@@ -31,16 +62,8 @@ fi
 # =============================================================================
 # PARAMETERS - MODIFY THESE AS NEEDED
 # =============================================================================
-
-# Data files
-TRAIN_FILE="dataset/private/tofu/tofu_train.json"
-
-# TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
-TEST_FILE="dataset/public/public_test_tiny_qa.json"
-
 # KNN-LM parameters  
 K=1                    # Number of neighbors for KNN (used in tasks 1c and 2a)
-LAMBDA_WEIGHT=0.75     # Weight for KNN vs LM in combined tasks (2a and 2b)
 BATCH_SIZE=256         # Batch size for A6000
 
 # =============================================================================

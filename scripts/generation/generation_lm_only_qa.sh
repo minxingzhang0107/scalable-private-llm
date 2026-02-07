@@ -1,9 +1,20 @@
 #!/bin/bash
 
 # =============================================================================
-# LM-Only Generation Pipeline
-# Task: 1a-LM ONLY (NO DATASTORE BUILDING)
+# CONFIGURATION: Dataset and Output Selection
 # =============================================================================
+
+# --- TEST DATASET SELECTION (uncomment ONE) ---
+# Option A: Test on PRIVATE data
+TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
+OUTPUT_FILE="results/private/tofu/lm_only/pretrained_lm_only_generated_answers.json"
+
+# Option B: Test on PUBLIC data
+# TEST_FILE="dataset/public/public_test_tiny_qa.json"
+# OUTPUT_FILE="results/public/lm_only/pretrained_lm_only_generated_answers.json"
+
+# NOTE: This script does NOT use a train file or build a datastore
+#       It performs pure LM-only generation using pretrained Mistral-7B
 
 set -e
 
@@ -28,17 +39,6 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-# =============================================================================
-# PARAMETERS - MODIFY THESE AS NEEDED
-# =============================================================================
-
-# Data files (NO TRAIN FILE - NO DATASTORE BUILDING)
-TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
-# TEST_FILE="dataset/public/public_test_tiny_qa.json"
-
-# Output file for generated answers
-OUTPUT_FILE="results/private/tofu/lm_only/pretrained_lm_only_generated_answers.json"
-# OUTPUT_FILE="results/public/lm_only/pretrained_lm_only_generated_answers.json"
 
 # =============================================================================
 # PARAMETER VALIDATION

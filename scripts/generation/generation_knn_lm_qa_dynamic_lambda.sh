@@ -1,9 +1,27 @@
 #!/bin/bash
 
 # =============================================================================
-# Combined LM+1NN Dynamic Lambda KNN-LM Generation Pipeline
-# Task: 2b-Combined1NN (DYNAMIC λ) ONLY
+# CONFIGURATION: Dataset, Distance Threshold, and Output Selection
 # =============================================================================
+# --- KNN-LM PARAMETERS ---
+DISTANCE_THRESHOLD=0.4     # Distance threshold for dynamic lambda (options: 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8). Just directly modify this value
+
+# --- TRAIN DATASET ---
+TRAIN_FILE="dataset/private/tofu/tofu_train.json"
+
+# --- TEST DATASET AND OUTPUT SELECTION (uncomment ONE option) ---
+# Option A: Test on PRIVATE data
+# TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
+# OUTPUT_FILE="results/private/tofu/1nn_lm_pretrained_embedding/combined_1nn_lm_generated_answers_pretrained_embedding_threshold_${DISTANCE_THRESHOLD}.json"
+
+# Option B: Test on PUBLIC data
+TEST_FILE="dataset/public/public_test_tiny_qa.json"
+OUTPUT_FILE="results/public/1nn_lm_pretrained_embedding/combined_1nn_lm_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
+
+
+# NOTE: The output filename automatically includes the distance threshold value.
+#       When you change DISTANCE_THRESHOLD, the filename updates accordingly.
+#       Example: DISTANCE_THRESHOLD=0.4 → "...threshold_0.4.json"
 
 set -e
 
@@ -28,17 +46,8 @@ if [ $? -ne 0 ]; then
 fi
 
 # =============================================================================
-# PARAMETERS - MODIFY THESE AS NEEDED
+# PARAMETERS 
 # =============================================================================
-
-# Data files
-TRAIN_FILE="dataset/private/tofu/tofu_train.json"
-# TRAIN_FILE="dataset/tofu_organized/tofu_train_extended.json"
-
-# TEST_FILE="dataset/private/tofu/tofu_test_question_paraphrased.json"
-TEST_FILE="dataset/public/public_test_tiny_qa.json"
-
-
 # KNN-LM parameters  
 K=1                         # Number of neighbors for KNN (used for building datastore)
 BATCH_SIZE=256             # Batch size for A6000
@@ -46,12 +55,6 @@ BATCH_SIZE=256             # Batch size for A6000
 # 🔥 DYNAMIC LAMBDA PARAMETERS
 UPPER_LAMBDA=1           # High KNN weight when distance < threshold (close neighbors)
 LOWER_LAMBDA=0           # Low KNN weight when distance >= threshold (far neighbors)  
-DISTANCE_THRESHOLD=0.8     # Distance threshold for lambda assignment
-
-# Output file for generated answers
-# OUTPUT_FILE="results/private/tofu/1nn_lm_pretrained_embedding/combined_1nn_lm_generated_answers_pretrained_embedding_threshold_${DISTANCE_THRESHOLD}.json"
-OUTPUT_FILE="results/public/1nn_lm_pretrained_embedding/combined_1nn_lm_generated_answers_threshold_${DISTANCE_THRESHOLD}.json"
-
 # =============================================================================
 # PARAMETER VALIDATION
 # =============================================================================
