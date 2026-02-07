@@ -33,7 +33,7 @@ if torch.cuda.is_available():
 
 MODEL_NAME="mistralai/Mistral-7B-Instruct-v0.2"
 DATA_FILE="dataset/private/tofu/tofu_train.json"
-OUTPUT_DIR="./model_checkpoints/entity_level_DPSGD_lora_mistral_$(date +%Y%m%d_%H%M%S)"
+OUTPUT_DIR="./model_checkpoints/user_dp_lora_mistral_$(date +%Y%m%d_%H%M%S)"
 
 # =============================================================================
 # DP CONFIGURATION

@@ -1,9 +1,31 @@
 #!/bin/bash
 
 # =============================================================================
-# Mistral 7B LoRA Fine-tuning - Recommended Stable Hyperparameters
+# CONFIGURATION: Dataset Selection for LoRA Fine-tuning
 # =============================================================================
 
+# --- TRAINING DATASET SELECTION (uncomment ONE) ---
+# Option 1: Original private dataset (WITHOUT privacy protection)
+DATA_FILE="dataset/private/tofu/tofu_train.json"
+OUTPUT_DIR="./model_checkpoints/mistral_tofu_lora_tuned_$(date +%Y%m%d_%H%M%S)"
+
+# Option 2: PI (Private Information) perturbation
+# DATA_FILE="dataset/private/tofu/tofu_train_weird_name.json"
+# OUTPUT_DIR="./model_checkpoints/mistral_tofu_lora_tuned_weird_name_perturbed_$(date +%Y%m%d_%H%M%S)"
+
+# Option 3: Name perturbation
+# NOTE: Multiple epsilon values available (ε = 0.5, 1, 2, 5, 8, 10)
+#       Adjust the filename to match your desired epsilon value
+# DATA_FILE="dataset/private/tofu/tofu_train_perturbed_mistral_corrected_eps10_0.json"
+# OUTPUT_DIR="./model_checkpoints/mistral_tofu_lora_tuned_$(date +%Y%m%d_%H%M%S)"
+
+# Option 4: DDPM (Deidentification via DP Masking)
+# DATA_FILE="dataset/private/tofu/tofu_train_clustered_minimum_size_8_dp_20250826_221258.json"
+# OUTPUT_DIR="./model_checkpoints/mistral_tofu_lora_tuned_name_perturbed_clustering_minimum_size_8_DP_$(date +%Y%m%d_%H%M%S)"
+
+# NOTE: This script trains LoRA adapters on the PRIVATE dataset with different
+#       privacy-preserving preprocessing methods applied to the data itself.
+#       For DP-SGD training (privacy during training), use entity_level_DPSGD_lora_efficient.sh instead.
 set -e
 
 echo "🚀 Mistral 7B LoRA Fine-tuning Started: $(date)"
@@ -23,11 +45,6 @@ export HF_HOME="$HOME/.cache/huggingface"
 # =============================================================================
 
 MODEL_NAME="mistralai/Mistral-7B-Instruct-v0.2"
-DATA_FILE="dataset/private/tofu/tofu_train.json"
-# DATA_FILE="dataset/private/tofu/tofu_train_perturbed_mistral_corrected_eps10_0.json"
-# DATA_FILE="dataset/private/tofu/tofu_train_weird_name.json"
-# DATA_FILE="dataset/private/tofu/tofu_train_clustered_minimum_size_8_dp_20250826_221258.json"
-# DATA_FILE="dataset/private/syn_traj/scalability_dataset/train_100k_weird_word_perturbed.json"
 
 LORA_R=16
 LORA_ALPHA=32
@@ -51,8 +68,6 @@ USE_8BIT=false
 USE_FP16=true
 USE_BF16=false
 
-# OUTPUT_DIR="./mistral_tofu_lora_tuned_name_perturbed_clustering_minimum_size_8_DP_$(date +%Y%m%d_%H%M%S)"
-OUTPUT_DIR="./model_checkpoints/mistral_tofu_lora_tuned_$(date +%Y%m%d_%H%M%S)"
 LOGGING_STEPS=50
 SAVE_STEPS=9999999999999
 SAVE_TOTAL_LIMIT=0
