@@ -1,8 +1,18 @@
 #!/bin/bash
 
 # =============================================================================
-# CORRECTED Differential Privacy Author Name Perturbation for TOFU Dataset
+# CONFIGURATION: Epsilon Selection for Name Perturbation
 # =============================================================================
+
+# --- EPSILON (PRIVACY BUDGET) SELECTION ---
+# Available values: 0.5, 1, 2, 5, 8, 10
+# Lower epsilon = stronger privacy (more noise), Higher epsilon = weaker privacy (less noise)
+EPSILON="0.5"
+
+# NOTE: Changing EPSILON automatically updates the output filename
+#       Output: dataset/private/tofu/tofu_train_perturbed_mistral_corrected_eps[VALUE].json
+#       Example: EPSILON="0.5" → tofu_train_perturbed_mistral_corrected_eps0_5.json
+
 
 set -e
 
@@ -14,7 +24,6 @@ set -e
 MODEL_PATH="mistralai/Mistral-7B-Instruct-v0.2"
 
 # Differential Privacy Parameters
-EPSILON="0.5"
 DELTA="1e-5"
 
 # Input/Output Paths (updated for JSON format)
