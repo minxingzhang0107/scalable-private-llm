@@ -75,7 +75,7 @@ All scripts should be run from the **repository root**:
 ```bash
 cd scalable-private-llm
 ```
-We provide detailed instructions on Evaluation, Generation, and Training tasks in the following sections. 
+We provide detailed instructions on Evaluation, Generation, and Training tasks, as well as other key experiments, in the following sections. 
 
 ### Evaluation
 
@@ -265,6 +265,40 @@ bash scripts/lora_finetune/entity_level_DPSGD_lora_efficient.sh
 ---
 
 **Note:** All LoRA fine-tuning scripts save adapters in PEFT format compatible with Hugging Face's `PeftModel.from_pretrained()`.
+
+---
+
+### Other Key Experiments
+
+#### 1. Name Perturbation 
+
+Generates privacy-preserving perturbed datasets using name perturbation.
+
+*Run:*
+```bash
+bash scripts/name_perturbation/dp_author_name_perturbation.sh
+```
+
+**Configuration:** Edit epsilon value at the top of the script.
+
+*Available epsilon values:* 0.5, 1, 2, 5, 8, 10 (lower = stronger privacy)
+
+**Output:** Perturbed dataset saved to `dataset/private/tofu/tofu_train_perturbed_mistral_corrected_eps[VALUE].json`
+
+---
+
+#### 2. Deidentification by DP Masking (DDPM)
+
+*Run:*
+```bash
+bash scripts/deidentification_by_DP_masking/deidentification_by_DP_masking.sh
+```
+
+**Output:** Deidentified dataset saved to `dataset/private/tofu/`
+
+---
+
+**Note:** These preprocessing methods apply privacy protection to the training data itself before fine-tuning. The resulting datasets can then be used with standard LoRA fine-tuning (see Training section).
 
 
 
